@@ -15,3 +15,9 @@
 [V05 ¿Qué es un IDE]()
 * [ \( PDF \) ](V05_Que_es_un_IDE/Docs/01-04-00-IDE-Java-UJ.pdf)
 * [ \( Video Udemy \) ](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/learn/lecture/44759473#overview)
+
+[V06 Instalación de IntelliJ IDEA]()
+* [ \( PDF \) ](V06_Instalacion_de_IntelliJ_IDEA/Docs/01-05-00-InstalacionIntelliJ-UJ.pdf)
+* [ \( Video Udemy \) ](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/learn/lecture/44759589#overview)
+
+[Volver](../)
