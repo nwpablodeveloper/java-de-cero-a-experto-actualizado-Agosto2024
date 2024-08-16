@@ -1,4 +1,5 @@
-# Sección 1: Introducción a Java
+# Sección 2: Introducción a Java
 
-* [V01 Universidad Java Bienvenida](https://globalmentoring.com.mx/)
-    - [Video de Bienvenida](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/learn/lecture/38135284#overview)
+* [V02 Introducción a Java ](https://globalmentoring.com.mx/)
+    - [PDF - Introducción a Java]()
+    - [V02 Introducción a Java Udemy](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/learn/lecture/44759355#overview)
