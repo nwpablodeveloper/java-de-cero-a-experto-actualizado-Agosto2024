@@ -2,3 +2,4 @@
 
 * [Sección 1: Bienvenidos a la Universidad Java](Seccion01-Bienvenidos-a-la-Universidad-Java)
 * [Sección 2: Intducción a Java](Seccion02-Introduccion-a-Java)
+* [Sección 3: Variables en Java](Seccion03-Variables-en-Java)
