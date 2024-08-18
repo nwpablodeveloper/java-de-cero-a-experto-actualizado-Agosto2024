@@ -13,5 +13,11 @@ public class Variables {
         // Modificar valor
         edad = 9;
         System.out.println(edad);
+
+        // Imprimir el resto de las variables
+        System.out.println(precio);
+        System.out.println(disponible);
+        System.out.println(genero);
+        
     }
 }
