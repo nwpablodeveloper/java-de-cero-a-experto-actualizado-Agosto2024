@@ -28,8 +28,12 @@ además de seleccionar el tipo de dato adecuado para cada variable:
 [V18 Solucón - Detalle de una Persona]()
 * [ DetallePersona.java ](V18_Solucion_Detalle_de_una_Persona/src/DetallePersona.java)
 
-[V19 Tipos de Datos en Java]()
+[V19 Tipos de Datos en Java - Parte 1]()
 * [ PDF ](V19_Tipos_de_Datos_en_Java_parte_1/Docs/02-07-00-TiposDatosJava-parte1-UJ.pdf)
 * [ TiposDatos.java](V19_Tipos_de_Datos_en_Java_parte_1/src/TipoDatos.java)
+
+[V20 Tipos de Datos en Java - Parte 2]()
+* [ PDF ](V20_Tipos_de_Datos_en_Java_parte_2/Docs/02-07-00-TiposDatosJava-parte1-UJ.pdf)
+* [ TiposDatos.java](V20_Tipos_de_Datos_en_Java_parte_2/src/TipoDatos.java)
 
 [Volver](../)
