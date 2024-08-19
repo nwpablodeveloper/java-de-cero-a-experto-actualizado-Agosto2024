@@ -23,6 +23,6 @@ además de seleccionar el tipo de dato adecuado para cada variable:
     - País de Origen
     - Indicar si es casado o soltero con sólo caractar, Ejemplo:
         "C"-Casado, "S"-Soltero
-* [ DetallePersona.java ]()
+* [ DetallePersona.java ](V17_Reto_Detalles_de_una_Persona/src/DetallePersona.java)
 
 [Volver](../)
