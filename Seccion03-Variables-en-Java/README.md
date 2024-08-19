@@ -25,4 +25,7 @@ además de seleccionar el tipo de dato adecuado para cada variable:
         "C"-Casado, "S"-Soltero
 * [ DetallePersona.java ](V17_Reto_Detalles_de_una_Persona/src/DetallePersona.java)
 
+[V18 Solucón - Detalle de una Persona]()
+* [ DetallePersona.java ](V18_Solucion_Detalle_de_una_Persona/src/DetallePersona.java)
+
 [Volver](../)
