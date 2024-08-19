@@ -12,6 +12,6 @@
 * [ Video Udemy ](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/learn/lecture/44762133#overview)
 
 [V16 Ejemplo Detalle Libro]()
-* [ .java ]()
+* [ DetalleLibre.java ](V16_Ejemplo_Detalle_de_un_Libro/src/DetalleLibro.java)
 
 [Volver](../)
