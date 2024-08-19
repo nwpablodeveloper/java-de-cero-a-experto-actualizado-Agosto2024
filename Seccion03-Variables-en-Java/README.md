@@ -14,4 +14,15 @@
 [V16 Ejemplo Detalle Libro]()
 * [ DetalleLibre.java ](V16_Ejemplo_Detalle_de_un_Libro/src/DetalleLibro.java)
 
+[V17 Reto - Detalle de una Persona]()
+* Declarar las siguientes variables y deberás asgnar los valores cque correspondan,
+además de seleccionar el tipo de dato adecuado para cada variable:
+    - Nombre completo
+    - Edad
+    - Altura ( en metros )
+    - País de Origen
+    - Indicar si es casado o soltero con sólo caractar, Ejemplo:
+        "C"-Casado, "S"-Soltero
+* [ DetallePersona.java ]()
+
 [Volver](../)
