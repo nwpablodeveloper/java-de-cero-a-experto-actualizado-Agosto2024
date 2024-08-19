@@ -36,4 +36,7 @@ además de seleccionar el tipo de dato adecuado para cada variable:
 * [ PDF ](V20_Tipos_de_Datos_en_Java_parte_2/Docs/02-07-00-TiposDatosJava-parte1-UJ.pdf)
 * [ TiposDatos.java](V20_Tipos_de_Datos_en_Java_parte_2/src/TipoDatos.java)
 
+[21 Reglas de Nombre de Variables en Java]()
+* [ PDF ](V21_Reglas_de_Nombres_de_Variables_en_Java/02-09-00-ReglasNombresVariables-UJ.pdf)
+
 [Volver](../)
