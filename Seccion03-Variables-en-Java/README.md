@@ -39,4 +39,7 @@ además de seleccionar el tipo de dato adecuado para cada variable:
 [21 Reglas de Nombre de Variables en Java]()
 * [ PDF ](V21_Reglas_de_Nombres_de_Variables_en_Java/02-09-00-ReglasNombresVariables-UJ.pdf)
 
+[22 Ejemplo de Reglas de Nombres de Variables]()
+* [ ReglasNombresVariables.java](V22_Ejemplo_de_Reglas_de_Nombres_de_Variables/src/ReglasNombresVariables.java)
+
 [Volver](../)
