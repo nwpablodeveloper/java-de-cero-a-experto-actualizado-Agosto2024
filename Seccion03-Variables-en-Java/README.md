@@ -36,10 +36,23 @@ además de seleccionar el tipo de dato adecuado para cada variable:
 * [ PDF ](V20_Tipos_de_Datos_en_Java_parte_2/Docs/02-07-00-TiposDatosJava-parte1-UJ.pdf)
 * [ TiposDatos.java](V20_Tipos_de_Datos_en_Java_parte_2/src/TipoDatos.java)
 
-[21 Reglas de Nombre de Variables en Java]()
+[V21 Reglas de Nombre de Variables en Java]()
 * [ PDF ](V21_Reglas_de_Nombres_de_Variables_en_Java/02-09-00-ReglasNombresVariables-UJ.pdf)
 
-[22 Ejemplo de Reglas de Nombres de Variables]()
+[V22 Ejemplo de Reglas de Nombres de Variables]()
 * [ ReglasNombresVariables.java](V22_Ejemplo_de_Reglas_de_Nombres_de_Variables/src/ReglasNombresVariables.java)
 
+[V23 Reto - Detalle de un Producto de una Tienda en Linea]()
+* Crear varias variables para almacenar el detalle de un producto de una tienda en
+linea.
+    - Nombre del producto
+    - Precio
+    - Cantidad Disponible
+    - Indicar si esta disponible o no
+* Deben asignar valores de prueba a cada variable, escoger el nombre de cada varialbe
+aplicando las buenas prácticas, y mandara a imprimir el valar de cada variable.
+* Finalmente deben modificar el valor de cada variable con nuevos datos y mandar a
+imprimir nuevamente el valor de cada variable y así comprobar que se modificaron
+correctamente los valores.
+[Resolución Reto - DetalleProducto.java](V23_Reto_Detalle_de_un_Producto_de_una_Tienda_en_Linea/src/DetalleProducto.java)
 [Volver](../)
