@@ -54,5 +54,5 @@ aplicando las buenas prácticas, y mandara a imprimir el valar de cada variable.
 * Finalmente deben modificar el valor de cada variable con nuevos datos y mandar a
 imprimir nuevamente el valor de cada variable y así comprobar que se modificaron
 correctamente los valores.
-[Resolución Reto - DetalleProducto.java](V23_Reto_Detalle_de_un_Producto_de_una_Tienda_en_Linea/src/DetalleProducto.java)
+* [Resolución Reto - DetalleProducto.java](V23_Reto_Detalle_de_un_Producto_de_una_Tienda_en_Linea/src/DetalleProducto.java)
 [Volver](../)
