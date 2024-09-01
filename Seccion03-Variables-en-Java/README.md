@@ -65,6 +65,9 @@ correctamente los valores.
 [V27 Concatenación de cadenas en Java- PDF](V27_Concatenacion_de_Cadenas_en_Java/Docs/02-15-00-ConcatenacionCadenasJava-UJ.pdf)
  * [ConcatenacionCadenas](V27_Concatenacion_de_Cadenas_en_Java/src/ConcatenacionCadenas.java)
 
+[V28 Constantes en Java- PDF](V28_Constantes_en_Java/Docs/02-16-00-ConstantesJava-UJ.pdf)
+ * [Constantes](V28_Constantes_en_Java/src/)
+
 
 
 [Volver](../)
