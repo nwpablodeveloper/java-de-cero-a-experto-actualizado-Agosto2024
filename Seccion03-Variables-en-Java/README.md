@@ -77,6 +77,8 @@ correctamente los valores.
  * Debe asignar valores iniciales y mandar a imprimir el valor de la variable
  * Por ultimo, se les pide modificar algunos valores de la reservación
 y mandar a imprimi nuevamente cada variable para observar los cambios.
- * [Resolución reserva de Hoteles]()
+ * [Resolución reserva de Hoteles](V29_Reserva_de_Hoteles/src/ReservaHotel.java)
+
+[V30 Resolucion Reserva Hotel](V30_Solucion_Reserva_hoteles/src/ReservaHoteles.java)
 
 [Volver](../)
