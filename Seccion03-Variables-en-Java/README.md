@@ -68,7 +68,7 @@ correctamente los valores.
 [V28 Constantes en Java- PDF](V28_Constantes_en_Java/Docs/02-16-00-ConstantesJava-UJ.pdf)
  * [Constantes](V28_Constantes_en_Java/src/Constantes.java)
 
-#### [V29 Reto Reserva de Hoteles]()
+#### V29 Reto Reserva de Hoteles
  * Capturar el detalle de la reservación de hotesl
     - Nombre de cliente
     - Días de instancia
