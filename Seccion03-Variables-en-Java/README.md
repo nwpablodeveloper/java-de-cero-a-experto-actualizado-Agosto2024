@@ -68,6 +68,15 @@ correctamente los valores.
 [V28 Constantes en Java- PDF](V28_Constantes_en_Java/Docs/02-16-00-ConstantesJava-UJ.pdf)
  * [Constantes](V28_Constantes_en_Java/src/Constantes.java)
 
-
+#### [V29 Reto Reserva de Hoteles]()
+ * Capturar el detalle de la reservación de hotesl
+    - Nombre de cliente
+    - Días de instancia
+    - Tarifa diaria
+    - Indicar si la habitación cuenta con vista al mar
+ * Debe asignar valores iniciales y mandar a imprimir el valor de la variable
+ * Por ultimo, se les pide modificar algunos valores de la reservación
+y mandar a imprimi nuevamente cada variable para observar los cambios.
+ * [Resolución reserva de Hoteles]()
 
 [Volver](../)
