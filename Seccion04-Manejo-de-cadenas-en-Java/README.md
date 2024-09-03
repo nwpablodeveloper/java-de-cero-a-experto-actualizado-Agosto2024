@@ -4,4 +4,4 @@
  * [CadenasEnJava](V31_Manejo_de_Cadenas_en_Java/src/CadenasEnJava.java)
 
 #### V32 Ejemplo de Cadenas en Java
- * [Cadenas.java](Seccion04-Manejo-de-cadenas-en-Java/src/Cadenas.java)
+ * [Cadenas.java](V32_Ejemplo_de_Cadenas_en_Java/src/Cadenas.java)
