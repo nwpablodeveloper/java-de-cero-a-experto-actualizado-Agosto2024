@@ -5,3 +5,10 @@
 
 #### V32 Ejemplo de Cadenas en Java
  * [Cadenas.java](V32_Ejemplo_de_Cadenas_en_Java/src/Cadenas.java)
+
+#### V33 Manejo de Indices
+ * [IndicesCadena](Seccion04-Manejo-de-cadenas-en-Java/src/IndicesCadena.java)
+
+#### V34 Inmutabilidad de Cadenas en Java
+ * [InmutabilidadDeCadenas](V34_Inmutabilidad_de_Cadenas_en_Java/src/InmutabilidadDeCadenas.java)
+
