@@ -81,6 +81,9 @@ y mandar a imprimi nuevamente cada variable para observar los cambios.
 
 [V30 Resolucion Reserva Hotel](V30_Solucion_Reserva_hoteles/src/ReservaHoteles.java)
 
-[V31 Manejo de Indices](Seccion04-Manejo-de-cadenas-en-Java/src/IndicesCadena.java)
+#### V31 Manejo de Indices
+ * [IndicesCadena](Seccion04-Manejo-de-cadenas-en-Java/src/IndicesCadena.java)
 
+#### V32 Inmutabilidad de Cadenas en Java
+ * [InmutabilidadDeCadenas](V34_Inmutabilidad_de_Cadenas_en_Java/src/InmutabilidadDeCadenas.java)
 [Volver](../)
