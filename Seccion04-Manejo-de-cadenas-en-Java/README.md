@@ -14,3 +14,9 @@
 
 #### V35 Comparación de Cadenas en Java
  * [ComparacionCadenas](V35_Comparacion_de_Cadenas_en_Java/src/ComparacionCadenas.java)
+
+#### V36 Métodos de Cadenas en Java
+ * [ComparacionCadenas](V36_Metodos_de_Cadenas_en_Java/src/MetodosCadena.java)
+
+
+[Volver](../)
