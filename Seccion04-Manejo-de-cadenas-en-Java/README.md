@@ -27,4 +27,8 @@
 #### V39 Reemplazar Subcadenas en Java
  * [ReemplazarSubcadenas](V39_Reemplazar_Subcadenas_en_Java/src/ReemplazarSubcadenas.java)
 
+[V40 Más Concatenación de Cadenas en Java](V40_Mas_Concatenacion_de_Cadenas_en_Java/Docs/03-10-00-MasConcatenacionCadenas-UJ.pdf)
+ * [MasConcatenacionCadenas](V40_Mas_Concatenacion_de_Cadenas_en_Java/src/MasConcatenacionCadenas.java)
+
+
 [Volver](../)
