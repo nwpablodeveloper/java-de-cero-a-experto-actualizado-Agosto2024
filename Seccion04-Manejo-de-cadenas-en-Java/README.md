@@ -24,4 +24,7 @@
 #### V38 Busqueda de Subcadenas
  * [BusquedaDeSubcadenas](V38_Busqueda_de_Subcadenas/src/BusquedaDeSubcadenas.java)
 
+#### V39 Reemplazar Subcadenas en Java
+ * [ReemplazarSubcadenas](V39_Reemplazar_Subcadenas_en_Java/src/ReemplazarSubcadenas.java)
+
 [Volver](../)
