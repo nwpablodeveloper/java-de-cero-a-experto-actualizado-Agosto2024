@@ -18,5 +18,8 @@
 #### V36 Métodos de Cadenas en Java
  * [ComparacionCadenas](V36_Metodos_de_Cadenas_en_Java/src/MetodosCadena.java)
 
+[V37 Subcadenas en Java - PDF](V37_Subcadenas_en_Java/Docs/03-07-00-Subcadenas-UJ.pdf)
+ * [ManejoSubcadenas](V37_Subcadenas_en_Java/src/ManejoSubcadenas.java)
+
 
 [Volver](../)
