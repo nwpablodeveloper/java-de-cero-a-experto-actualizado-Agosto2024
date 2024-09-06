@@ -21,5 +21,7 @@
 [V37 Subcadenas en Java - PDF](V37_Subcadenas_en_Java/Docs/03-07-00-Subcadenas-UJ.pdf)
  * [ManejoSubcadenas](V37_Subcadenas_en_Java/src/ManejoSubcadenas.java)
 
+#### V38 Busqueda de Subcadenas
+ * [BusquedaDeSubcadenas](V38_Busqueda_de_Subcadenas/src/BusquedaDeSubcadenas.java)
 
 [Volver](../)
