@@ -42,6 +42,9 @@
  * La salida tiene que quedar
   - Nombre Normalizado: pablo.andres.veiga
   - E-mail Normalizado: pablo.andres.veiga@globalmentoring.com.mx
- * [GeneradorEmail](GeneradorEmail)
+ * [GeneradorEmail](V42_Reto_Generador_de_Emails/src/GeneradorEmail)
+
+#### V43 Solución - Generador de Emails
+ * [GeneradroEmails](V43_Solucion_Generador_de_Emails/src/GeneradroEmails)
 
 [Volver](../)
