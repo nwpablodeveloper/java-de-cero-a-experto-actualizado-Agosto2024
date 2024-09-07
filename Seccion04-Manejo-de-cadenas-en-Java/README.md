@@ -45,6 +45,6 @@
  * [GeneradorEmail](V42_Reto_Generador_de_Emails/src/GeneradorEmail.java)
 
 #### V43 Solución - Generador de Emails
- * [GeneradroEmails](V43_Solucion_Generador_de_Emails/src/GeneradroEmails)
+ * [GeneradroEmails](V43_Solucion_Generador_de_Emails/src/GeneradroEmails.java)
 
 [Volver](../)
