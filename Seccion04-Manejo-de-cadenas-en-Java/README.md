@@ -33,4 +33,15 @@
 #### V41 Carácteres Especiales en Java
  * [CaracteresEspeciales](V41_Caracteres_Especiales_en_Java/src/CaracteresEspeciales.java)
 
+#### V42 Reto Generador de Email
+ * Crear un programa para generar un email a partir de los siguientes datos
+  - Nombre: Pablo Andres Veiga
+  - Empresa: Global Mentoring
+  - Dominio: com.mx
+  
+ * La salida tiene que quedar
+  - Nombre Normalizado: pablo.andres.veiga
+  - E-mail Normalizado: pablo.andres.veiga@globalmentoring.com.mx
+ * [GeneradorEmail](GeneradorEmail)
+
 [Volver](../)
