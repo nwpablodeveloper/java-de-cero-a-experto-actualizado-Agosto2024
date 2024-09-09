@@ -10,8 +10,19 @@ realizar la conversión del mismo
  * [](V45_Leer_Tipo_De_Datos_en_Java/src/LeerTiposDatos.java)
 
 [V46 Conversión Tipos de Datos por Consola - PDF](V46_Conversion_de_Tipos_de_Datos_por_Consola/Docs/04-03-00-ConversionTiposDatosConsola-UJ.pdf)
- * [ConverSionTipoDatos](V46_Conversion_de_Tipos_de_Datos_por_Consola/src/ConversionTipoDatos.java)
+ * [ConverSionTipoDatos.java](V46_Conversion_de_Tipos_de_Datos_por_Consola/src/ConversionTipoDatos.java)
 
+#### V47 Ejemplo - Sistema de Empleados
+ - Crear un programa para padir la información de un empleado. Los datos solicitados
+se deben introducir por consola:
+ * Nombre del Empleado ( int )
+ * Edad ( int)
+ * Salario ( dobule )
+ * Es Jefe de Departamento ( Boolean )
+
+ * Una vez capturado los datos, se deben mandar a imprimir por consola
+
+ * [SistemaEmpleados.java](V47_Ejemplo_Sistema_de_Empleados/src/SistemaEmpleados.java)
 
 
 [Volver](../)
