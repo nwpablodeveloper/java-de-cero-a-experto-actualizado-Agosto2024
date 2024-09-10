@@ -24,5 +24,16 @@ se deben introducir por consola:
 
  * [SistemaEmpleados.java](V47_Ejemplo_Sistema_de_Empleados/src/SistemaEmpleados.java)
 
+#### V48 Reto - Proyecto Recetas de Cocina
+- Crear un programa para solicitar los valores más importantes de una receta de cocina.
+    Los valores que debe introducir el usuario son:
+ * Nombre de la receta
+ * Ingredientes principales separados por una coma
+ * Tiempo de preparación ( min )
+ * Dificultad ( Facil, Media o Altá )
+
+- Al finalizar se debe mandar a imprimir la receta.
+
+ * [RecetasCocina.java](V48_Reto_Proyecto_Recetas_de_Cocina/src/RecetasCocina.java)
 
 [Volver](../)
