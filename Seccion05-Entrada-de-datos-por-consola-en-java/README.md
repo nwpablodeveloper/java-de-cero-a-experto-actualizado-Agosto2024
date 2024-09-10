@@ -36,4 +36,7 @@ se deben introducir por consola:
 
  * [RecetasCocina.java](V48_Reto_Proyecto_Recetas_de_Cocina/src/RecetasCocina.java)
 
+#### V49 Solución - Proyecto Recestas de Cocina
+ * [RecetasCocina.java](V49_Solucion_Proyecto_Recetas_de_Cocina/src/RecetasCocina.java)
+
 [Volver](../)
