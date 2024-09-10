@@ -39,4 +39,8 @@ se deben introducir por consola:
 #### V49 Solución - Proyecto Recestas de Cocina
  * [RecetasCocina.java](V49_Solucion_Proyecto_Recetas_de_Cocina/src/RecetasCocina.java)
 
+[V50 Números Aleatorios - clase Random en Java - PDF ](V50_Numeros_Aleatorios_Clase_Random/Docs/04-07-00-NumerosAleatorios-UJ.pdf)
+ * [NumerosAleatorios.java](V50_Numeros_Aleatorios_Clase_Random/src/NumerosAleatorios.java)
+
+
 [Volver](../)
