@@ -43,6 +43,11 @@ se deben introducir por consola:
  * [NumerosAleatorios.java](V50_Numeros_Aleatorios_Clase_Random/src/NumerosAleatorios.java)
 
 [V51 Formateo de Cadenas en Java - PDF](V51_Formateo_de_Cadenas_en_Java/Docs/04-08-00-FormatoCadenas-UJ.pdf)
- * [](V51_Formateo_de_Cadenas_en_Java/src/.java)
+ * [](V51_Formateo_de_Cadenas_en_Java/src/FormateoCadenas.java)
+
+#### V51 Formateo de Cadenas parte 2
+ * [](V52_Formateo_de_Cadenas_en_Java_parte_2/src/FormateoCadenas.java)
+
+
 
 [Volver](../)

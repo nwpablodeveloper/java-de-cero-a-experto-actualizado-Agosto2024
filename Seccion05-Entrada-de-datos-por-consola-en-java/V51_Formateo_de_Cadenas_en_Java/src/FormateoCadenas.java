@@ -18,7 +18,7 @@ public class FormateoCadenas {
         System.out.println(mensaje);
 
         // Método pintf
-        // %n Salto de linea en el formateo
+        // %n Salto de linea en el formateo con "printf"
         System.out.printf("%n%nNombre: %s, Edad: %d, Salario: $ %.3f",
                 nombre, edad, salario);
     }
