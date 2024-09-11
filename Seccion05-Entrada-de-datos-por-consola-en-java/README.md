@@ -43,11 +43,26 @@ se deben introducir por consola:
  * [NumerosAleatorios.java](V50_Numeros_Aleatorios_Clase_Random/src/NumerosAleatorios.java)
 
 [V51 Formateo de Cadenas en Java - PDF](V51_Formateo_de_Cadenas_en_Java/Docs/04-08-00-FormatoCadenas-UJ.pdf)
- * [](V51_Formateo_de_Cadenas_en_Java/src/FormateoCadenas.java)
+ * [FormateoCadenas.java](V51_Formateo_de_Cadenas_en_Java/src/FormateoCadenas.java)
 
 #### V51 Formateo de Cadenas parte 2
- * [](V52_Formateo_de_Cadenas_en_Java_parte_2/src/FormateoCadenas.java)
+ * [FormateoCadenas.java](V52_Formateo_de_Cadenas_en_Java_parte_2/src/FormateoCadenas.java)
 
+#### V52 Reto - Generador de ID Único
+- Crear un programa para generar un valor único. Se va a solicitar los siguientes datos
+ * Nombre
+ * Apellido
+ * Año de Nacimiento (YYYY)
+- El programa debera generar un numero aleatorio entre 1 y 9999. Si el nro. generado
+es menor a 4 dígitos se debe completar el valor con ceros a la izquierda.
+Finalmente con los datos obtenidos se debe generar un valor de ID único, uniendo los
+valores de la siguiente forma: 
+ * Nombre: Juan     => Obtener JU
+ * Apellido: Perez  => Obtener PE
+ * Año: 1995        => 95
+ * Aleatorio: 0789  => de 4 digitos
+ * ID Generado: JUPE950789.
 
+[GeneradorIDUnico.java]()
 
 [Volver](../)
