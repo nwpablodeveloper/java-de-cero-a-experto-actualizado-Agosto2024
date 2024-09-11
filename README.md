@@ -4,4 +4,4 @@
 * [Sección 2: Intducción a Java](Seccion02-Introduccion-a-Java)
 * [Sección 3: Variables en Java](Seccion03-Variables-en-Java)
 * [Sección 4: Manejo de Cadenas en Java](Seccion04-Manejo-de-cadenas-en-Java)
-* [Sección 5: Entrada de datos por consola en Java](Seccion04-Manejo-de-cadenas-en-Java)
+* [Sección 5: Entrada de datos por consola en Java](Seccion05-Entrada-de-datos-por-consola-en-java)

@@ -42,5 +42,7 @@ se deben introducir por consola:
 [V50 Números Aleatorios - clase Random en Java - PDF ](V50_Numeros_Aleatorios_Clase_Random/Docs/04-07-00-NumerosAleatorios-UJ.pdf)
  * [NumerosAleatorios.java](V50_Numeros_Aleatorios_Clase_Random/src/NumerosAleatorios.java)
 
+[V51 Formateo de Cadenas en Java - PDF](V51_Formateo_de_Cadenas_en_Java/Docs/04-08-00-FormatoCadenas-UJ.pdf)
+ * [](V51_Formateo_de_Cadenas_en_Java/src/.java)
 
 [Volver](../)
