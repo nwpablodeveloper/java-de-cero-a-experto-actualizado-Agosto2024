@@ -7,7 +7,7 @@ realizar la conversión del mismo
  * [ManejoConsola.java](V44_Clase_Scanner_y_Entrada_de_Datos/src/ManejoConsola.java)
 
 #### V45 Leer Tipo de datos en Java
- * [](V45_Leer_Tipo_De_Datos_en_Java/src/LeerTiposDatos.java)
+ * [LeerTiposDatos.java](V45_Leer_Tipo_De_Datos_en_Java/src/LeerTiposDatos.java)
 
 [V46 Conversión Tipos de Datos por Consola - PDF](V46_Conversion_de_Tipos_de_Datos_por_Consola/Docs/04-03-00-ConversionTiposDatosConsola-UJ.pdf)
  * [ConverSionTipoDatos.java](V46_Conversion_de_Tipos_de_Datos_por_Consola/src/ConversionTipoDatos.java)
@@ -45,10 +45,10 @@ se deben introducir por consola:
 [V51 Formateo de Cadenas en Java - PDF](V51_Formateo_de_Cadenas_en_Java/Docs/04-08-00-FormatoCadenas-UJ.pdf)
  * [FormateoCadenas.java](V51_Formateo_de_Cadenas_en_Java/src/FormateoCadenas.java)
 
-#### V51 Formateo de Cadenas parte 2
+#### V52 Formateo de Cadenas parte 2
  * [FormateoCadenas.java](V52_Formateo_de_Cadenas_en_Java_parte_2/src/FormateoCadenas.java)
 
-#### V52 Reto - Generador de ID Único
+#### V53 Reto - Generador de ID Único
 - Crear un programa para generar un valor único. Se va a solicitar los siguientes datos
  * Nombre
  * Apellido
@@ -64,5 +64,8 @@ valores de la siguiente forma:
  * ID Generado: JUPE950789.
 
 [GeneradorIDUnico.java](V53_Reto_Generador_de_ID_Unico/src/GeneradorIDUnico.java)
+
+#### V54 Solución - Generador de ID Único
+ * [GeneradorIdUnico.java](V54_Solucion_Generador_de_ID_Unico/src/GeneradorIdUnico.java)
 
 [Volver](../)
