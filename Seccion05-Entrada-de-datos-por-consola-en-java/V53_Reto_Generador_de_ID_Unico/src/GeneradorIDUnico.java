@@ -1,3 +1,4 @@
+import java.util.Random;
 import java.util.Scanner;
 
 public class GeneradorIDUnico {
@@ -32,9 +33,35 @@ public class GeneradorIDUnico {
 
         Scanner consola = new Scanner(System.in);
 
+        // Ingresar nombre
         System.out.printf("%nNombre: ");
-        var nombre = consola.nextLine();
-        
+        var nombre = consola.nextLine().strip().toUpperCase();
+
+        // Ingresar Apellido
+        System.out.print("Apellido: ");
+        var apellido = consola.nextLine().strip().toUpperCase();
+
+        // Ingresar su año de nacimiento
+        System.out.print("Año de Nacimiento: ");
+        var anio = consola.nextLine().strip();
+
+        // Generar numero aleatorio
+        var random = new Random();
+        var numeroAleatorio = random.nextInt(9999) + 1;
+
+        System.out.printf("""
+                %nHola %s,
+                \tTu número de identificación (ID) generado por el sistema es:
+                \t%s%s%s%04d
+                Felicitaciones!
+                """,
+                nombre,
+                nombre.substring(0,2),
+                apellido.substring(0,2),
+                anio.substring(2,4),
+                numeroAleatorio);
+
+
 
 
 

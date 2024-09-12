@@ -63,6 +63,6 @@ valores de la siguiente forma:
  * Aleatorio: 0789  => de 4 digitos
  * ID Generado: JUPE950789.
 
-[GeneradorIDUnico.java]()
+[GeneradorIDUnico.java](V53_Reto_Generador_de_ID_Unico/src/GeneradorIDUnico.java)
 
 [Volver](../)
