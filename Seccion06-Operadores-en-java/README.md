@@ -15,6 +15,9 @@
  * [OperadoresComparacion.java](V59_Operqadores_de_Comparacion/src/OperadoresComparacion.java)
 
 #### V60 Operadores Lógico AND en Java
- * [OperadoreAND.java](V60_Operador_Logico_AND_en_Java/src/OperadorAND.java)
+ * [OperadorAND.java](V60_Operador_Logico_AND_en_Java/src/OperadorAND.java)
+
+#### V61_Operador_Logico_OR_en_Java
+ * [OperadorOR.java](V61_Operador_Logico_OR_en_Java/src/OperadorOR.java)
 
 [Volver](../)
