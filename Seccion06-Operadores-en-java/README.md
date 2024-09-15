@@ -21,6 +21,6 @@
  * [OperadorOR.java](V61_Operador_Logico_OR_en_Java/src/OperadorOR.java)
 
 #### V65 Operador Lógico NOT en Java
- * [OperadorNOT.java](VV62_Operador_Logico_NOT_en_Java/src/OperadorNOT.java)
+ * [OperadorNOT.java](V62_Operador_Logico_NOT_en_Java/src/OperadorNOT.java)
 
 [Volver](../)
