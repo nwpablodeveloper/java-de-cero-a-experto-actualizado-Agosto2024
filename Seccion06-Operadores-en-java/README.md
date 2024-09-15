@@ -17,7 +17,10 @@
 #### V60 Operadores Lógico AND en Java
  * [OperadorAND.java](V60_Operador_Logico_AND_en_Java/src/OperadorAND.java)
 
-#### V61_Operador_Logico_OR_en_Java
+#### V61 Operador Lógico OR en Java
  * [OperadorOR.java](V61_Operador_Logico_OR_en_Java/src/OperadorOR.java)
+
+#### V65 Operador Lógico NOT en Java
+ * [OperadorNOT.java](VV62_Operador_Logico_NOT_en_Java/src/OperadorNOT.java)
 
 [Volver](../)
