@@ -12,6 +12,9 @@
  * [OperadoresAsignacion.java](V58_Operadores_de_Asignacion_Simples_y_Compuestos_en_Java/src/OperadoresAsignacion.java)
 
 #### V59 Operadores de Comparación
- * [OperadoresComparacion.java](/src/OperadoresComparacion.java)
+ * [OperadoresComparacion.java](V59_Operqadores_de_Comparacion/src/OperadoresComparacion.java)
+
+#### V60 Operadores Lógico AND en Java
+ * [OperadoreAND.java](V60_Operador_Logico_AND_en_Java/src/OperadorAND.java)
 
 [Volver](../)
