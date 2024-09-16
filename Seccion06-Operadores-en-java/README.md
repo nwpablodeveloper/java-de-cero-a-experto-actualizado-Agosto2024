@@ -36,5 +36,6 @@ y preguntarle si cuenta con la membresía de la tienda.
 -En caso de haber comprado 10 o más productos y ser miembre de la tienda entonces
 tendrá acceso al descuento VIP
 
+[SistemaDescuentosVip](V64_Ejemplo_Tienda_con_Descuento_VIP/src/SistemaDescuentosVip.java)
 
 [Volver](../)
