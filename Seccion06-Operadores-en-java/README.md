@@ -38,4 +38,13 @@ tendrá acceso al descuento VIP
 
 [SistemaDescuentosVip](V64_Ejemplo_Tienda_con_Descuento_VIP/src/SistemaDescuentosVip.java)
 
+#### V65 Ejemplo Préstamo de Libros
+- Se pide crear un sistema para una biblioteca, la cual desea prestar libros si
+cumple con cualquiera de las siguientes condiciones.
+ * El usuario tiene credencial de estudiante
+ * El usuario vive a no más de 3km a la redonda 
+ * Si cumple con cualquiera de estas condiciones se le puede pretar el libro
+
+ [SistemaPrestamoLibros.java](V65_Ejemplo_Prestamo_de_Libros/src/SistemaPrestamoLibros.java)
+
 [Volver](../)
