@@ -26,6 +26,7 @@
 #### V63 Ejemplo Determinar si un Valor esta dentro de Rango
 - Realizar un programa para saber si el valor proporcionado se 
 encentra dentro de un rango definido ( Entre 0 y 5 )
+
  [ValorDentroRango.java](V63_Ejemplo_Determinar_si_un_Valor_esta_dentro_de_Rango/src/ValorDentroRango.java)
 
 #### V64 Ejemplo Tienda con Descuento VIP
@@ -46,5 +47,9 @@ cumple con cualquiera de las siguientes condiciones.
  * Si cumple con cualquiera de estas condiciones se le puede pretar el libro
 
  [SistemaPrestamoLibros.java](V65_Ejemplo_Prestamo_de_Libros/src/SistemaPrestamoLibros.java)
+
+#### V66 Ejemplo Valro Fuera de Rango
+ [RangoVariable.java](V66_Ejemplo_Valor_Fuera_de_Rango/src/RangoVariable.java)
+
 
 [Volver](../)
