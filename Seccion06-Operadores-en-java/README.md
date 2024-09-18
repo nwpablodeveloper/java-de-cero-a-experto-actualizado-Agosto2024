@@ -60,6 +60,6 @@ y el usuario deberá indicar su precio ( valor de tipo con punto decimal )
 - El sistema debe realizar la suma de cada producto, calcular el impuesto 
 y finalmente imprimir el total de la compra
 
- * [srcTicketVenta.java](V67_Ejemplo_Ticket_de_Venta/srcTicketVenta.java)
+ * [srcTicketVenta.java](V67_Ejemplo_Ticket_de_Venta/src/TicketVenta.java)
 
 [Volver](../)

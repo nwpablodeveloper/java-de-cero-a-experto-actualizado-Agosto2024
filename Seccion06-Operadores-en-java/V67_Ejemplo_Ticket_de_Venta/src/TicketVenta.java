@@ -41,6 +41,8 @@ public class TicketVenta {
 
         // Imprimir ticket de venta
         System.out.printf("""
+                %nTicket de Venta
+                --------------------
                 Subtotal: $ %.2f
                 Impuestos %% 21: $ %.2f
                 TOTAL:  $ %.2f
