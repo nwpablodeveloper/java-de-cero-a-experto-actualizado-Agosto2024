@@ -64,6 +64,6 @@ y finalmente imprimir el total de la compra
 
 #### V68 Ejemplo - Ticket de venta Con Descuento
 - Al ejercio anterior aplicar la opción de un descuento.
- [TicketVenta.java](V68_Ejemplo_Ticket_de_Venta_con_Descuento/src/TicketVenta.java)
+ * [TicketVenta.java](V68_Ejemplo_Ticket_de_Venta_con_Descuento/src/TicketVenta.java)
 
 [Volver](../)
