@@ -90,8 +90,13 @@ y finalmente imprimir el total de la compra
     las siguientes formulas:
 
 - area = base * altura
-- perimetro = 2 ( base * altura )
+- perimetro = 2 * ( base + altura )
 
  * [CalculoRectangulo.java](V71_Reto_Calculo_del_Area_de_un_Rectangulo/src/CalculoRectangulo.java)
+
+#### V72 Soluón Cálculo del Área de un Rectángulo
+
+ * [CalculoAreaRectangulo.java](V72_Solucion_Calculo_del_Area_de_un_Rectangulo/src/CalculoAreaRectangulo.java)
+
 
 [Volver](../)
