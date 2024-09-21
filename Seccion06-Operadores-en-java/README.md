@@ -82,7 +82,7 @@ y finalmente imprimir el total de la compra
 #### V70 Solución - Sistema de Auytenticación
 - Resulución Curso
  
- * [SistemaAutenticacion.java](V70_Solucion_Sistema_de_Autentificacion/src/SistemaAutenticacion.java)
+ * [SistemaAutenticacion.java](V70_Solucion_Sistema_de_Autentificacion/src/SistemaAutentificacion.java)
     
 
 ### V71 Reto - Calcular el 
