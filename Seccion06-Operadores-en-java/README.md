@@ -51,7 +51,6 @@ cumple con cualquiera de las siguientes condiciones.
 #### V66 Ejemplo Valro Fuera de Rango
  * [RangoVariable.java](V66_Ejemplo_Valor_Fuera_de_Rango/src/RangoVariable.java)
 
-
 #### V67 Ejemplo - Ticket de Venta
 - Supongamos que compramos vairos artículos en el supermercado y queremos
 obtener el ticket de vent total incluyendo impuestos
@@ -64,6 +63,26 @@ y finalmente imprimir el total de la compra
 
 #### V68 Ejemplo - Ticket de venta Con Descuento
 - Al ejercio anterior aplicar la opción de un descuento.
+
  * [TicketVenta.java](V68_Ejemplo_Ticket_de_Venta_con_Descuento/src/TicketVenta.java)
+
+#### V69 Reto - Sistema de Autenticación
+- Crear un programa para validar el usuario y password proporcionados 
+    por el usuario
+- Crea 2 Constantes con los valores correctos y posteriormente
+    compara que el usuario y password proporcionados por
+    el usuario sea válidos
+- Debe solicitar el usuario y el password al usuario y si son iguales
+    que los valores correctos almacenados en las constantes de imprimir true,
+    de lo contrario debe imprimir false
+
+ * Resuloción propia
+ * [SistemaAutenticacion.java](V70_Solucion_Sistema_de_Autenticacion/src/SistemaAutenticacion.java)
+
+#### V70 Solución - Sistema de Auytenticación
+- Resulución Curso
+ 
+ * [SistemaAutenticacion.java](V70_Solucion_Sistema_de_Autenticacion/src/SistemaAutenticacion.java)
+    
 
 [Volver](../)
