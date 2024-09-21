@@ -7,7 +7,7 @@ public class CalculoRectangulo {
                 las siguientes formulas:
 
             - area = base * altura
-            - perimetro = 2 ( base * altura )
+            - perimetro = 2 ( base + altura )
          */
 
         System.out.println("\n*** Calcular el Área y el Perímetro de un rectangulo ***");
@@ -21,7 +21,7 @@ public class CalculoRectangulo {
         var altura = Double.parseDouble(consola.nextLine());
 
         var area = base * altura;
-        var perimetro = 2 * area;
+        var perimetro = 2 * ( base + altura);
 
         System.out.println("area = " + area);
         System.out.println("perimetro = " + perimetro);
