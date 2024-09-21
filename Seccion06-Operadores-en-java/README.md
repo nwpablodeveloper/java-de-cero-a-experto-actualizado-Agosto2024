@@ -77,7 +77,7 @@ y finalmente imprimir el total de la compra
     de lo contrario debe imprimir false
 
  * Resuloción propia
- * [SistemaAutenticacion.java](V70_Solucion_Sistema_de_Autenticacion/src/SistemaAutenticacion.java)
+ * [SistemaAutenticacion.java](V69_Reto_Sistema_de_Autenticacion/src/SistemaAutenticacion.java)
 
 #### V70 Solución - Sistema de Auytenticación
 - Resulución Curso
