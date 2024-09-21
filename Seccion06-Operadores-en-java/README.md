@@ -85,4 +85,13 @@ y finalmente imprimir el total de la compra
  * [SistemaAutenticacion.java](V70_Solucion_Sistema_de_Autenticacion/src/SistemaAutenticacion.java)
     
 
+### V71 Reto - Calcular el 
+- Se colicita calcular el área y perímetro de un rectángulo aplicando
+    las siguientes formulas:
+
+- area = base * altura
+- perimetro = 2 ( base * altura )
+
+ * [CalculoRectangulo.java](V71_Reto_Calculo_del_Area_de_un_Rectangulo/src/CalculoRectangulo.java)
+
 [Volver](../)
