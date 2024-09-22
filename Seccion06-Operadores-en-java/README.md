@@ -99,4 +99,9 @@ y finalmente imprimir el total de la compra
  * [CalculoAreaRectangulo.java](V72_Solucion_Calculo_del_Area_de_un_Rectangulo/src/CalculoAreaRectangulo.java)
 
 
+[V73 Precedencia de Operadores en Java - PDF](V73_Precedencia_de_Operadores_en_Java/Docs/05-19-00-PrecedenciaOperadores-UJ.pdf)
+
+ * [PrecedenciaOperadores.java](V73_Precedencia_de_Operadores_en_Java/src/PrecedenciaOperadores.java)
+
+
 [Volver](../)
