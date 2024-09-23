@@ -13,6 +13,16 @@
 #### V78 Sentencia IF ELSEIF ELSE en Java
  * [SentenciaElseIf.java](V78_Sentencia_IF_ELSEIF_ELSE_en_Java/src/SentenciaElseIf.java)
 
+[V79 Ejecución Paso a Paso (Modo Debug)](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/learn/lecture/44838447#overview)
+- Crear punto de rotura
+ 1. Agregar un punto en la numeración izquierda de Intellij IDEA
+ 2. Click derecho y ejecutar modo Debug ( Mayus + F9 )
+ 3. F8 para continuar paso a paso 
 
+
+#### V80 Ejemplo Valor Positivo
+- Ingresar un número entero e imprimir si el mismo es Positivo, Negativo 
+    o es igual a Cero
+ * [ValorPositivo.java](V80_Ejemplo_Valor_Positivo/src/ValorPositivo.java)
 
 [Volver](../)
