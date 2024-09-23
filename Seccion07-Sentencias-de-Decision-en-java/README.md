@@ -7,8 +7,12 @@
 #### V76 Sentencia IF en Java
  * [SentenciaIf.java](V76_Sentencia_IF_en_Java/src/SentenciaIf.java)
 
-#### v77 Sentencia IF ELSE en java
- []()
+#### V77 Sentencia IF ELSE en java
+ * [SentenciaIfElse.java](V77_Sentencia_IF_ELSE_en_Java/src/SentenciaIfElse.java)
+
+#### V78 Sentencia IF ELSEIF ELSE en Java
+ * [SentenciaElseIf.java](V78_Sentencia_IF_ELSEIF_ELSE_en_Java/src/SentenciaElseIf.java)
+
 
 
 [Volver](../)
