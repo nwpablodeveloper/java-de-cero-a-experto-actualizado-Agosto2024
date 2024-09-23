@@ -25,4 +25,19 @@
     o es igual a Cero
  * [ValorPositivo.java](V80_Ejemplo_Valor_Positivo/src/ValorPositivo.java)
 
+#### V81 Reto - Tienda en línea con descuento
+- Crear un sistema que ofrezca descuentos dependiendo del monto de la compra,
+    o si es miembro de la tienda. 
+
+- Si ha comprado más de $ 1.000 y es miembro de la tienda:
+    10% de descuento
+
+- Si solo es miebro de la tienda
+    5% de descuento
+
+- Si compro menos de $ 1.000 y NO es miembro
+    0% de descuento
+
+ * [TiendaEnLinea.java](V81_Reto_Tienda_en_Linea_con_Descuento/src/TiendaEnLinea.java)
+
 [Volver](../)

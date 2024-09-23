@@ -6,7 +6,7 @@ public class ValorPositivo {
             - Ingresar un número entero e imprimir si el mismo es Positivo,
                 Negativo o es igual a Cero.
          */
-        
+
         System.out.println("\n*** Ejemplo número positivo ***");
 
         Scanner consola = new Scanner(System.in);
