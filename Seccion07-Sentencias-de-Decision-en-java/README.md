@@ -40,4 +40,8 @@
 
  * [TiendaEnLinea.java](V81_Reto_Tienda_en_Linea_con_Descuento/src/TiendaEnLinea.java)
 
+#### V82 Solución - Tiende en Línea con Descuento
+ * [TiendaEnLinea.java](V82_Solucion_Tienda_en_Linea_con_Descuento/src/TiendaEnLinea.java)
+
+
 [Volver](../)
