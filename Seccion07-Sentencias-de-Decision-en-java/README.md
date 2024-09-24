@@ -43,5 +43,17 @@
 #### V82 Solución - Tiende en Línea con Descuento
  * [TiendaEnLinea.java](V82_Solucion_Tienda_en_Linea_con_Descuento/src/TiendaEnLinea.java)
 
+#### V83 Ejemplo Sistema Bancario
+- Considerando que estamos dentro de un sistema bancario, se
+    solicita preguntar al usuario si desea continuar
+    dentro del sistema
+- Utilizando el operador not (!) para aplicar una lógica inversa
+    se debe programar las siguientes condiciones: 
+1. Si no deseamos salir del sistema, imprimir:
+    Continuamos dentro del sistema...
+2. De lo contrario, imprimir: 
+    Saliendo del sistema
+
+ * [SistemaBancario.java](V83_Ejemplo_Sistema_Bancario/src/SistemaBancario.java)
 
 [Volver](../)
