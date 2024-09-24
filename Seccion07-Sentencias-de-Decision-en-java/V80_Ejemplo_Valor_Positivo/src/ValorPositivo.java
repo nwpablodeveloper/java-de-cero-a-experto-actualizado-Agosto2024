@@ -19,7 +19,7 @@ public class ValorPositivo {
         } else if ( numero < 0) {
             System.out.println("El número es negativo");
         } else {
-            System.out.println("El número es 0");
+            System.out.println("El número es igual a 0");
         }
     }
 }
