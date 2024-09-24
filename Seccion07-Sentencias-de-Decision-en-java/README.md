@@ -56,4 +56,19 @@
 
  * [SistemaBancario.java](V83_Ejemplo_Sistema_Bancario/src/SistemaBancario.java)
 
+#### V84 Ejemplo - Casa de los Espejos
+- Supón que estas en un parque de diversiones y quieres entrar a la
+    casa de los espejos.
+    Sin  embargo debes de cumplir con algunas condiciones.
+    1. Debes de tener más de 10 años. 
+    2. No debe darte miedo la oscuridad
+   
+- Si se cumplen las condiciones anteriores puedes entrar.
+
+- Para realizar este ejemplo vamos a utilizar el oprador NOT
+    para aplicar la lógica inversa
+
+ * [CasaDeLosEspejos.java](V84_Ejemplo_Casa_de_los_Espejos/src/CasaDeLosEspejos.java)
+
+
 [Volver](../)
