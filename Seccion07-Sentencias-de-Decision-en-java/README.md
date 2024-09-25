@@ -73,4 +73,26 @@
 [V85 Operador Ternario en Java - PDF](V85_Operadro_Ternario_en_Java/Docs/06-12-00-OperadorTernario-UJ.pdf)
  * [OperadorTernario.java](V85_Operadro_Ternario_en_Java/src/OperadorTernario.java)
 
+#### V86 Aplicación Salud y Firness
+- Se solicita crear una aplicación de salud y fitness que solicite
+    lo siguiente:
+    1. Nombre del usuario
+    2. Pasos caminados en el día
+
+- Ademas definiremos las siguientes constantes:
+    1. META_PASOS_DIARIOS = 10000
+    2. CALORIAS_POR_PASO = 0.04
+
+- Con los valores anteriores debemos calcular las calorias 
+    quemadas según los pasos caminados.
+```
+    calorias_quemadas = pasos_diarios * CALORIAS_POR_PASO;
+```
+- Y verificamos si se cumplió la meta de pasos diarios
+```
+    meta_alcanzada = pasos_diarios >= META_PASOS_DIARIOS
+```
+
+ * [.java](V86_Aplicacion_Salud_y_Fitness/src/.java)
+
 [Volver](../)
