@@ -70,5 +70,7 @@
 
  * [CasaDeLosEspejos.java](V84_Ejemplo_Casa_de_los_Espejos/src/CasaDeLosEspejos.java)
 
+[V85 Operador Ternario en Java - PDF](V85_Operadro_Ternario_en_Java/Docs/06-12-00-OperadorTernario-UJ.pdf)
+ * [OperadorTernario.java](V85_Operadro_Ternario_en_Java/src/OperadorTernario.java)
 
 [Volver](../)
