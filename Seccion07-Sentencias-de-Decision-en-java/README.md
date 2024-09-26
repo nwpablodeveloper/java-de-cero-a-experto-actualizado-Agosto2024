@@ -122,4 +122,10 @@
 
 - Posteriormete se deben comparar y mandar a imprimir el nro. mayor:
 
+ * [NumeroMayor.java](V89_Mayor_de_dos_Numeros/src/NumeroMayor.java)
+
+#### V90 Solución - El Mayor de dos números
+
+ * [MayorDeDosNumeros.java](V90_Solucion_Mayor_de_dos_Numeros/src/MayorDeDosNumeros.java)
+
 [Volver](../)
