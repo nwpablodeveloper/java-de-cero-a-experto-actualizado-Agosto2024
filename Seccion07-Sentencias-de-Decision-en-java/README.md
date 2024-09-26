@@ -131,7 +131,17 @@
 
 [V93 Sentencia Switch en Java - PDF](V93_Sentencia_Switch_en_Java/06-20-00-SentenciasSwitch-UJ.pdf)
 
-[V94 Ejemplo día de la semana con Switch](DiaSeamana.java)
- 
+[V94 Ejemplo día de la semana con Switch](V94_Ejemplo_dia_de_la_Semana_con_Switch/src/DiaSeamana.java)
+- Día e la Semana con numero
+|-|-|
+|Número|día|
+|1|Lunes|
+|2|Martes|
+|3|Miercoles|
+|4|Jueves|
+|5|Viernes|
+|6|Sabado|
+|7|Domingo|
+|7|Domingo
 
 [Volver](../)
