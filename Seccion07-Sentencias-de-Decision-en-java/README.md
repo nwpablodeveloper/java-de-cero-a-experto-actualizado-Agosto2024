@@ -114,4 +114,12 @@
 #### V88 Solución - Sistema de Reserva de Hotal
  * [SistemaReservaHotel.java](V88_Solucion_Sistema_de_Reserva_de_Hotel/src/SistemaReservaHotel.java)
 
+#### V89 Reto - Mayor de dos Números
+- Crear un program para indicar cual es el mayor
+    de los dos números.
+
+- El programa debe pedir al usuario dos números enteros.
+
+- Posteriormete se deben comparar y mandar a imprimir el nro. mayor:
+
 [Volver](../)
