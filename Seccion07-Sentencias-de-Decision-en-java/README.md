@@ -142,6 +142,6 @@
 |5|Viernes|
 |6|Sabado|
 |7|Domingo|
-|7|Domingo
+|7|Domingo|
 
 [Volver](../)
