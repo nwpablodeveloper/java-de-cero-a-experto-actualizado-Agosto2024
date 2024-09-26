@@ -133,8 +133,9 @@
 
 [V94 Ejemplo día de la semana con Switch](V94_Ejemplo_dia_de_la_Semana_con_Switch/src/DiaSeamana.java)
 - Día e la Semana con numero
-|Número|día|
-|----|-----|
+
+| Número | día |
+|---|---|
 |1|Lunes|
 |2|Martes|
 |3|Miercoles|
