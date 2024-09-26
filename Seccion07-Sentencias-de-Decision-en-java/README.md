@@ -4,14 +4,12 @@
 
 [V75 Diagrama de flujo](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/learn/lecture/44838409#overview)
 
-#### V76 Sentencia IF en Java
- * [SentenciaIf.java](V76_Sentencia_IF_en_Java/src/SentenciaIf.java)
+[V76 Sentencia IF en Java](V76_Sentencia_IF_en_Java/src/SentenciaIf.java)
 
-#### V77 Sentencia IF ELSE en java
- * [SentenciaIfElse.java](V77_Sentencia_IF_ELSE_en_Java/src/SentenciaIfElse.java)
+[V77 Sentencia IF ELSE en java](V77_Sentencia_IF_ELSE_en_Java/src/SentenciaIfElse.java)
 
-#### V78 Sentencia IF ELSEIF ELSE en Java
- * [SentenciaElseIf.java](V78_Sentencia_IF_ELSEIF_ELSE_en_Java/src/SentenciaElseIf.java)
+
+[V78 Sentencia IF ELSEIF ELSE en Java](V78_Sentencia_IF_ELSEIF_ELSE_en_Java/src/SentenciaElseIf.java)
 
 [V79 Ejecución Paso a Paso (Modo Debug)](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/learn/lecture/44838447#overview)
 - Crear punto de rotura
@@ -20,12 +18,11 @@
  3. F8 para continuar paso a paso 
 
 
-#### V80 Ejemplo Valor Positivo
+[V80 Ejemplo Valor Positivo](V80_Ejemplo_Valor_Positivo/src/ValorPositivo.java)
 - Ingresar un número entero e imprimir si el mismo es Positivo, Negativo 
     o es igual a Cero
- * [ValorPositivo.java](V80_Ejemplo_Valor_Positivo/src/ValorPositivo.java)
 
-#### V81 Reto - Tienda en línea con descuento
+[V81 Reto - Tienda en línea con descuento](V81_Reto_Tienda_en_Linea_con_Descuento/src/TiendaEnLinea.java)
 - Crear un sistema que ofrezca descuentos dependiendo del monto de la compra,
     o si es miembro de la tienda. 
 
@@ -38,12 +35,10 @@
 - Si compro menos de $ 1.000 y NO es miembro
     0% de descuento
 
- * [TiendaEnLinea.java](V81_Reto_Tienda_en_Linea_con_Descuento/src/TiendaEnLinea.java)
 
-#### V82 Solución - Tiende en Línea con Descuento
- * [TiendaEnLinea.java](V82_Solucion_Tienda_en_Linea_con_Descuento/src/TiendaEnLinea.java)
+[V82 Solución - Tiende en Línea con Descuento](V82_Solucion_Tienda_en_Linea_con_Descuento/src/TiendaEnLinea.java)
 
-#### V83 Ejemplo Sistema Bancario
+[V83 Ejemplo Sistema Bancario](V83_Ejemplo_Sistema_Bancario/src/SistemaBancario.java)
 - Considerando que estamos dentro de un sistema bancario, se
     solicita preguntar al usuario si desea continuar
     dentro del sistema
@@ -54,9 +49,8 @@
 2. De lo contrario, imprimir: 
     Saliendo del sistema
 
- * [SistemaBancario.java](V83_Ejemplo_Sistema_Bancario/src/SistemaBancario.java)
 
-#### V84 Ejemplo - Casa de los Espejos
+[V84 Ejemplo - Casa de los Espejos](V84_Ejemplo_Casa_de_los_Espejos/src/CasaDeLosEspejos.java)
 - Supón que estas en un parque de diversiones y quieres entrar a la
     casa de los espejos.
     Sin  embargo debes de cumplir con algunas condiciones.
@@ -68,12 +62,11 @@
 - Para realizar este ejemplo vamos a utilizar el oprador NOT
     para aplicar la lógica inversa
 
- * [CasaDeLosEspejos.java](V84_Ejemplo_Casa_de_los_Espejos/src/CasaDeLosEspejos.java)
 
 [V85 Operador Ternario en Java - PDF](V85_Operadro_Ternario_en_Java/Docs/06-12-00-OperadorTernario-UJ.pdf)
  * [OperadorTernario.java](V85_Operadro_Ternario_en_Java/src/OperadorTernario.java)
 
-#### V86 Aplicación Salud y Firness
+[V86 Aplicación Salud y Firness](V86_Aplicacion_Salud_y_Fitness/src/SaludYFitness.java)
 - Se solicita crear una aplicación de salud y fitness que solicite
     lo siguiente:
     1. Nombre del usuario
@@ -93,9 +86,8 @@
     meta_alcanzada = pasos_diarios >= META_PASOS_DIARIOS
 ```
 
- * [SaludYFitness.java](V86_Aplicacion_Salud_y_Fitness/src/SaludYFitness.java)
 
-#### V87 Reto - Sistema de Reserva de Hotel
+[V87 Reto - Sistema de Reserva de Hotel](V87_Reto_Sistema_de_Reserva_de_Hotel/src/SistemaReservaHotel.java)
 - Se solicita  crear un sistema de reservación de un hotel.
     1. Nombre del cliente
     2. Días de estadia en el hotel
@@ -109,12 +101,9 @@
     dependiendo si escogío un cuarto con vista al mar o no
     Además de indicar si escogió un cuarto con vista al mar o no
 
- * [SistemaReservaHotel.java](V87_Reto_Sistema_de_Reserva_de_Hotel/src/SistemaReservaHotel.java)
+[V88 Solución - Sistema de Reserva de Hotal](V88_Solucion_Sistema_de_Reserva_de_Hotel/src/SistemaReservaHotel.java)
 
-#### V88 Solución - Sistema de Reserva de Hotal
- * [SistemaReservaHotel.java](V88_Solucion_Sistema_de_Reserva_de_Hotel/src/SistemaReservaHotel.java)
-
-#### V89 Reto - Mayor de dos Números
+[V89 Reto - Mayor de dos Números](V89_Mayor_de_dos_Numeros/src/NumeroMayor.java)
 - Crear un program para indicar cual es el mayor
     de los dos números.
 
@@ -122,13 +111,10 @@
 
 - Posteriormete se deben comparar y mandar a imprimir el nro. mayor:
 
- * [NumeroMayor.java](V89_Mayor_de_dos_Numeros/src/NumeroMayor.java)
 
-#### V90 Solución - El Mayor de dos números
+[V90 Solución - El Mayor de dos números](V90_Solucion_Mayor_de_dos_Numeros/src/MayorDeDosNumeros.java)
 
- * [MayorDeDosNumeros.java](V90_Solucion_Mayor_de_dos_Numeros/src/MayorDeDosNumeros.java)
-
-V91 Reto- Estación del año
+[V91 Reto- Estación del año](V91_Reto_Estacion_del_Anio/src/EstacionDelAnio.java)
 - Identificar la estación del año.
 
 - Se solicita porporcionar el valor de un mes ( entre 1 y 12 )
@@ -140,11 +126,12 @@ V91 Reto- Estación del año
 
 - Cualquier otro valor => Estación desconocida
 
- * [EstacionDelAnio.java](V91_Reto_Estacion_del_Anio/src/EstacionDelAnio.java)
 
-#### V92 Solución - Estación del año
- * [EstacionAnio.java](V92_Solucion_Estacion_del_Anio/src/EstacionAnio.java)
+[V92 Solución - Estación del año](V92_Solucion_Estacion_del_Anio/src/EstacionAnio.java)
 
 [V93 Sentencia Switch en Java - PDF](V93_Sentencia_Switch_en_Java/06-20-00-SentenciasSwitch-UJ.pdf)
+
+[V94 Ejemplo día de la semana con Switch](DiaSeamana.java)
+ 
 
 [Volver](../)
