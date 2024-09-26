@@ -93,6 +93,22 @@
     meta_alcanzada = pasos_diarios >= META_PASOS_DIARIOS
 ```
 
- * [.java](V86_Aplicacion_Salud_y_Fitness/src/.java)
+ * [SaludYFitness.java](V86_Aplicacion_Salud_y_Fitness/src/SaludYFitness.java)
+
+#### V87 Reto - Sistema de Reserva de Hotel
+- Se solicita  crear un sistema de reservación de un hotel.
+    1. Nombre del cliente
+    2. Días de estadia en el hotel
+    3. Cuarto con vista al mar?
+
+- El hotel tiene las siguientes tarifas:
+    1. Cuarto sin vista al mar: $ 150.50 por día
+    2. Cuarto con vista al mar: $ 190.50 por día
+
+- El sistema de calcular el costo total de la estadía
+    dependiendo si escogío un cuarto con vista al mar o no
+    Además de indicar si escogió un cuarto con vista al mar o no
+
+ * [SistemaReservaHotel.java](V87_Reto_Sistema_de_Reserva_de_Hotel/src/SistemaReservaHotel.java)
 
 [Volver](../)
