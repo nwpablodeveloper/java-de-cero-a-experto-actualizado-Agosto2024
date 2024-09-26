@@ -128,4 +128,17 @@
 
  * [MayorDeDosNumeros.java](V90_Solucion_Mayor_de_dos_Numeros/src/MayorDeDosNumeros.java)
 
+V91 Reto- Estación del año
+- Identificar la estación del año.
+
+- Se solicita porporcionar el valor de un mes ( entre 1 y 12 )
+    e indicar la estación del año según lo siguiente:
+    1. Meses 1, 2, 12 => Invierno
+    2. Meses 3, 4, 5 => Primavera
+    3. Meses 6, 7, 8 => Verano
+    4. Meses 9, 10, 11 => Otoño
+
+- Cualquier otro valor => Estación desconocida
+
+ * [EstacionDelAnio.java](V91_Reto_Estacion_del_Anio/src/EstacionDelAnio.java)
 [Volver](../)
