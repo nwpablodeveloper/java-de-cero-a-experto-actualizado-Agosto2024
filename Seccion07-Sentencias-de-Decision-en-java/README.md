@@ -145,4 +145,6 @@ V91 Reto- Estación del año
 #### V92 Solución - Estación del año
  * [EstacionAnio.java](V92_Solucion_Estacion_del_Anio/src/EstacionAnio.java)
 
+[V93 Sentencia Switch en Java - PDF](V93_Sentencia_Switch_en_Java/06-20-00-SentenciasSwitch-UJ.pdf)
+
 [Volver](../)
