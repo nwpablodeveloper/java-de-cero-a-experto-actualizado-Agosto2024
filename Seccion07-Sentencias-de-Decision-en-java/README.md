@@ -141,4 +141,8 @@ V91 Reto- Estación del año
 - Cualquier otro valor => Estación desconocida
 
  * [EstacionDelAnio.java](V91_Reto_Estacion_del_Anio/src/EstacionDelAnio.java)
+
+#### V92 Solución - Estación del año
+ * [EstacionAnio.java](V92_Solucion_Estacion_del_Anio/src/EstacionAnio.java)
+
 [Volver](../)
