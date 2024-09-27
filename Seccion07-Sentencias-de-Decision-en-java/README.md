@@ -147,4 +147,9 @@
 
 [V95 Día de la semana con Switch Mejorado - .java](V95_Dia_de_la_Semana_con_Switch_Mejorado/src/DiaSemana.java)
 
+[V96 Reto - Estación del año con Switch mejorado - .java](V96_Estacion_del_Anio_con_Switch_mejorado/srd/EstacionDelAnioMejorado.java)
+- Usar el ejerciocio de estación del año (V91)
+    y refactorizarlo con un Switch mejorado
+
+
 [Volver](../)
