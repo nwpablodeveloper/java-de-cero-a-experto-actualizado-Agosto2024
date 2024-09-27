@@ -21,13 +21,13 @@ public class EstacionDelAnioMejorado {
         System.out.print("\nProporciones el més del Año: ");
         var mes = consola.nextInt();
 
-        String mesNombre = switch ( mes ){
+        String estacion = switch ( mes ){
           case 1,2,12 -> "Inviertno";
           case 3,4,5 -> "Primavera";
           case 6,7,8 -> "Verano";
           case 9,10,11 -> "Otoño";
           default -> "Més Invalido";
         };
-        System.out.printf("El nro.: %d es: %s",mes,mesNombre);
+        System.out.printf("El nro.: %d es: %s",mes,estacion);
     }
 }
