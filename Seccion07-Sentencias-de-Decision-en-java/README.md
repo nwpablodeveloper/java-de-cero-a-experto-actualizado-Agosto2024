@@ -165,5 +165,19 @@
 
 [V98 Solución Sistema de Calificaciones - .java](V98_Solucion_Sistema_de_Calificaciones/src/SistemaCalificaciones.java)
 
+[V99 Reto - Sisema de Envios - .java](V99_Reto_Sistema_de_envios/src/SistemaEnvios.java)
+- Crear un programa para determinar el costo de envío de un paquete
+    según su el destino ( Nacional o Internacion ) y el pseo
+    del paquete.
+
+- Constatnes
+    1. Tarifa Nacional = 10 x kilo
+    2. Tarifa Internacional = 20 x kilo
+
+- El programa debe solicitar 2 valores: 
+    1. Destino ( Nacional o Internacional )
+    2. Peso ( Kilogramo )
+
+- Al final debe imprimir el costo de envío del paquete
 
 [Volver](../)
