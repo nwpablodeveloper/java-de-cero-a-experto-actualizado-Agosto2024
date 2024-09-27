@@ -151,5 +151,16 @@
 - Usar el ejerciocio de estación del año (V91)
     y refactorizarlo con un Switch mejorado
 
+[V97 Reto - Sistema de Calificaciones](V97_Reto_Sistema_de_Calificaciones/src/SistemaCalificaciones)
+
+- Crar un programa para convertir una calificación numérica ( 0 - 10 )
+    a una letra ( de la F a la A )
+
+    1. Si es mayor o igual a 9 es una A
+    2. Si es mayor o igual a 8 y menor a 9 es una B
+    3. Si es mayor o igual a 7 y menor a 8 es una C
+    4. Si es mayor o igual a 6 y menor a 7 es una D
+    5. Si es mayor o igual a 0 y menor a 6 es una F
+    6. En cualquier otro caso imprimir "Valor Desconocido"
 
 [Volver](../)
