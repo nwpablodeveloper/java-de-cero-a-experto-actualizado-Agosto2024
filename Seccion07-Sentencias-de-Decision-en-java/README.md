@@ -182,6 +182,21 @@
 
 [V100 Solucion - Sistema de envio - .java](V100_Solucion_Sistema_de_Envios/src/SistemaEnvios.java)
 
+[V101 Reto Sistema de Autenticación](V101_Reto_Sistema_de_Autenticacion/src/SistemaAutenticacion.java)
+- Crear un sistema para validar los valores de usuario y
+    password proporcionados
 
+- Se deben definir 2 constantes con los valores válidos de usuario
+    y password
+
+- El sistema debe comparar los valores validos contra los
+    valores proporcionados
+
+- Se debe conciderar 4 casos:
+    1. Usuario y password válidos
+        imprimir "Bienvendido al Sistema"
+    2. Usuario Invalido
+    3. Password Invalido
+    4. Usuario y Password Invalido
 
 [Volver](../)
