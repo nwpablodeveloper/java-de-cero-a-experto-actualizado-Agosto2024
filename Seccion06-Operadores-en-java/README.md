@@ -1,7 +1,6 @@
 # Sección 6: Operadores en Java
 
 * [V55 Operadores en Java - PDF](V55_Operadores_en_Java/05-01-00-Operadores-UJ.pdf)
-
 * [V56 Operadores Aritméticos en Java - .java](V56_Operadores_Aritmeticos/src/OperadoresAritmeticos.java)
 * [V57 Operadores Unarios en Java - .java](V57_Operadores_Unarios_en_Java/src/OperadoresUnarios.java)
 * [V58 Operadores de Asignación Simple y Compuestos en Java - .java](V58_Operadores_de_Asignacion_Simples_y_Compuestos_en_Java/src/OperadoresAsignacion.java)
@@ -37,7 +36,6 @@
     
     - El sistema debe realizar la suma de cada producto, calcular el impuesto 
         y finalmente imprimir el total de la compra
-
 * [V68 Ejemplo - Ticket de venta Con Descuento - .java](V68_Ejemplo_Ticket_de_Venta_con_Descuento/src/TicketVenta.java)
     - Al ejercio anterior aplicar la opción de un descuento.
 * [V69 Reto - Sistema de Autenticación - .java](V69_Reto_Sistema_de_Autenticacion/src/SistemaAutenticacion.java)
@@ -55,7 +53,6 @@
         las siguientes formulas:
         * area = base * altura
         * perimetro = 2 * ( base + altura )
-
 * [V72 Solución Cálculo del Área de un Rectángulo - .java](V72_Solucion_Calculo_del_Area_de_un_Rectangulo/src/CalculoAreaRectangulo.java)
 * [V73 Precedencia de Operadores en Java - PDF](V73_Precedencia_de_Operadores_en_Java/Docs/05-19-00-PrecedenciaOperadores-UJ.pdf)
     * [PrecedenciaOperadores.java](V73_Precedencia_de_Operadores_en_Java/src/PrecedenciaOperadores.java)
