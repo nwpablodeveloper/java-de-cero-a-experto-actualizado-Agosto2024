@@ -30,8 +30,8 @@
     * Ejemplo variables de tipo Var
     * Concatenación de cadenas en Java
     * Constantes en Java
-    * [Reto Reserva de Hoteles - .java]()
-    * [Solución - Reserva Hotel - .java]()
+    * [Reto Reserva de Hoteles - .java](Seccion03-Variables-en-Java/V29_Reserva_de_Hoteles/src/ReservaHotel.java)
+    * [Solución - Reserva Hotel - .java](Seccion03-Variables-en-Java/V30_Solucion_Reserva_hoteles/src/ReservaHoteles.java)
 * [Sección 4: Manejo de Cadenas en Java](Seccion04-Manejo-de-cadenas-en-Java)
 * [Sección 5: Entrada de datos por consola en Java](Seccion05-Entrada-de-datos-por-consola-en-java)
 * [Sección 6: Operadores en Java](Seccion06-Operadores-en-java)
