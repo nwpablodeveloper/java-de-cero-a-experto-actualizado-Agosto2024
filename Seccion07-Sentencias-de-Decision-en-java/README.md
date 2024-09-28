@@ -38,7 +38,7 @@
 
 [V82 Solución - Tiende en Línea con Descuento - .java](V82_Solucion_Tienda_en_Linea_con_Descuento/src/TiendaEnLinea.java)
 
-[V83 Ejemplo Sistema Bancario](V83_Ejemplo_Sistema_Bancario/src/SistemaBancario.java)
+[V83 Ejemplo Sistema Bancario - .java](V83_Ejemplo_Sistema_Bancario/src/SistemaBancario.java)
 - Considerando que estamos dentro de un sistema bancario, se
     solicita preguntar al usuario si desea continuar
     dentro del sistema
@@ -114,7 +114,7 @@
 
 [V90 Solución - El Mayor de dos números - .java](V90_Solucion_Mayor_de_dos_Numeros/src/MayorDeDosNumeros.java)
 
-[V91 Reto- Estación del año](V91_Reto_Estacion_del_Anio/src/EstacionDelAnio.java)
+[V91 Reto- Estación del año - .java](V91_Reto_Estacion_del_Anio/src/EstacionDelAnio.java)
 - Identificar la estación del año.
 
 - Se solicita porporcionar el valor de un mes ( entre 1 y 12 )
