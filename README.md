@@ -2,7 +2,7 @@
 
 ### [Sección 1: Bienvenidos a la Universidad Java](Seccion01-Bienvenidos-a-la-Universidad-Java)
 
-* [Sección 2: Intducción a Java](Seccion02-Introduccion-a-Java)
+### [Sección 2: Intducción a Java](Seccion02-Introduccion-a-Java)
     * Introducción a java
     * Que es JDK
     * Instalación de JDK
@@ -15,13 +15,13 @@
     * Instalación de Apache NetBeans
     * Solución Hola Mundo con NetBeans
 
-* [Sección 3: Variables en Java](Seccion03-Variables-en-Java)
+### [Sección 3: Variables en Java](Seccion03-Variables-en-Java)
     * Variables en Java
     * Ejemplo de Variables en Java
     * Manejo de Memoria en Java
     * Ejemplo Detalle Libro
     * [Reto - Detalle de una Persona](Seccion03-Variables-en-Java/V17_Reto_Detalles_de_una_Persona/src/DetallePersona.java)
-    * [Solucón - Detalle de una Persona](Seccion03-Variables-en-Java/V18_Solucion_Detalle_de_una_Persona/src/DetallePersona.java)
+    ### [Solucón - Detalle de una Persona](Seccion03-Variables-en-Java/V18_Solucion_Detalle_de_una_Persona/src/DetallePersona.java)
     * Tipos de Datos en Java - Parte 1
     * Tipos de Datos en Java - Parte 2
     * Reglas de Nombre de Variables en Java
@@ -35,7 +35,7 @@
     * [Reto Reserva de Hoteles ](Seccion03-Variables-en-Java/V29_Reserva_de_Hoteles/src/ReservaHotel.java)
     * [Solución - Reserva Hotel ](Seccion03-Variables-en-Java/V30_Solucion_Reserva_hoteles/src/ReservaHoteles.java)
 
-* [Sección 4: Manejo de Cadenas en Java](Seccion04-Manejo-de-cadenas-en-Java)
+### [Sección 4: Manejo de Cadenas en Java](Seccion04-Manejo-de-cadenas-en-Java)
     * Menejo de Cadenas en java
     * Ejemplo de Cadenas en Java
     * Manejo de Indices
@@ -50,7 +50,7 @@
     * [Reto Generador de Email ](Seccion04-Manejo-de-cadenas-en-Java/V42_Reto_Generador_de_Emails/src/GeneradorEmail.java)
     * [Solución - Generador de Emails ](Seccion04-Manejo-de-cadenas-en-Java/V43_Solucion_Generador_de_Emails/src/GeneradroEmails.java)
 
-* [Sección 5: Entrada de datos por consola en Java](Seccion05-Entrada-de-datos-por-consola-en-java)
+### [Sección 5: Entrada de datos por consola en Java](Seccion05-Entrada-de-datos-por-consola-en-java)
     * Clase Scanner y Entrada de Datos
     * Leer Tipo de datos en Java
     * Conversión Tipos de Datos por Consola
@@ -63,7 +63,7 @@
     * [Reto - Generador de ID Único ](Seccion05-Entrada-de-datos-por-consola-en-java/V53_Reto_Generador_de_ID_Unico/src/GeneradorIDUnico.java)
     * [Solución - Generador de ID Único ](Seccion05-Entrada-de-datos-por-consola-en-java/V54_Solucion_Generador_de_ID_Unico/src/GeneradorIdUnico.java)
 
-* [Sección 6: Operadores en Java](Seccion06-Operadores-en-java)
+### [Sección 6: Operadores en Java](Seccion06-Operadores-en-java)
     * Operadores en Java
     * Operadores Aritméticos en Java
     * Operadores Unarios en Java
@@ -84,4 +84,4 @@
     * [Solución Cálculo del Área de un Rectángulo ](Seccion06-Operadores-en-java/V72_Solucion_Calculo_del_Area_de_un_Rectangulo/src/CalculoAreaRectangulo.java)
     * Precedencia de Operadores en Java
 
-* [Sección 7: Sentencias de Decisión en Java](Seccion07-Sentencias-de-Decision-en-java)
+### [Sección 7: Sentencias de Decisión en Java](Seccion07-Sentencias-de-Decision-en-java)
