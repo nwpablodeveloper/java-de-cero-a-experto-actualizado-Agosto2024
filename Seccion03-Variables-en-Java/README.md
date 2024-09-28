@@ -6,7 +6,7 @@
 * [V16 Ejemplo Detalle Libro - .java](V16_Ejemplo_Detalle_de_un_Libro/src/DetalleLibro.java)
 * [V17 Reto - Detalle de una Persona - .java](V17_Reto_Detalles_de_una_Persona/src/DetallePersona.java)
     - Declarar las siguientes variables y deberás asgnar los valores cque correspondan,
-        además de seleccionar el tipo de dato adecuado para cada variable:
+        además de seleccionar el tipo de dato adecuado para cada variable.
         * Nombre completo
         * Edad
         * Altura ( en metros )
@@ -42,7 +42,7 @@
 * [V28 Constantes en Java- PDF](V28_Constantes_en_Java/Docs/02-16-00-ConstantesJava-UJ.pdf)
     * [Constantes.java](V28_Constantes_en_Java/src/Constantes.java)
 * [V29 Reto Reserva de Hoteles - .java](V29_Reserva_de_Hoteles/src/ReservaHotel.java)
-    - Capturar el detalle de la reservación de hotesl
+    - Capturar el detalle de la reservación de hotesl.
         * Nombre de cliente
         * Días de instancia
         * Tarifa diaria
