@@ -81,7 +81,7 @@
     * [Reto - Sistema de Autenticación - .java](Seccion06-Operadores-en-java/V69_Reto_Sistema_de_Autenticacion/src/SistemaAutenticacion.java)
     * [Solución - Sistema de Auytenticación - .java](Seccion06-Operadores-en-java/V70_Solucion_Sistema_de_Autentificacion/src/SistemaAutentificacion.java)
     * [Reto - Calcular el Área de un Rectángulo- .java](Seccion06-Operadores-en-java/V71_Reto_Calculo_del_Area_de_un_Rectangulo/src/CalculoRectangulo.java)
-    * [Soluón Cálculo del Área de un Rectángulo - .java](Seccion06-Operadores-en-java/V72_Solucion_Calculo_del_Area_de_un_Rectangulo/src/CalculoAreaRectangulo.java)
+    * [Solución Cálculo del Área de un Rectángulo - .java](Seccion06-Operadores-en-java/V72_Solucion_Calculo_del_Area_de_un_Rectangulo/src/CalculoAreaRectangulo.java)
     * Precedencia de Operadores en Java
 
 * [Sección 7: Sentencias de Decisión en Java](Seccion07-Sentencias-de-Decision-en-java)

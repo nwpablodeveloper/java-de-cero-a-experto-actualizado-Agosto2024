@@ -56,7 +56,7 @@
         * area = base * altura
         * perimetro = 2 * ( base + altura )
 
-* [V72 Soluón Cálculo del Área de un Rectángulo - .java](V72_Solucion_Calculo_del_Area_de_un_Rectangulo/src/CalculoAreaRectangulo.java)
+* [V72 Solución Cálculo del Área de un Rectángulo - .java](V72_Solucion_Calculo_del_Area_de_un_Rectangulo/src/CalculoAreaRectangulo.java)
 * [V73 Precedencia de Operadores en Java - PDF](V73_Precedencia_de_Operadores_en_Java/Docs/05-19-00-PrecedenciaOperadores-UJ.pdf)
     * [PrecedenciaOperadores.java](V73_Precedencia_de_Operadores_en_Java/src/PrecedenciaOperadores.java)
 
