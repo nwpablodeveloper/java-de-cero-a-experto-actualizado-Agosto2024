@@ -1,6 +1,6 @@
 # Seccion07: Sentencias de Decision en java
 
-[V74 Sentencias de Control en Java - PDF](V74_Sentencias_de_Control_en_Java/06-01-00-SentenciasDecision-UJ.pdf)
+[V74 Sentencias de Control en Java - PDF](V74_Sentencias_de_Control_en_Java/Docs/06-01-00-SentenciasDecision-UJ.pdf)
 
 [V75 Diagrama de flujo - Video Udemy](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/learn/lecture/44838409#overview)
 
