@@ -147,7 +147,7 @@
 
 [V95 Día de la semana con Switch Mejorado - .java](V95_Dia_de_la_Semana_con_Switch_Mejorado/src/DiaSemana.java)
 
-[V96 Reto - Estación del año con Switch mejorado - .java](V96_Estacion_del_Anio_con_Switch_mejorado/srd/EstacionDelAnioMejorado.java)
+[V96 Reto - Estación del año con Switch mejorado - .java](V96_Estacion_del_Anio_con_Switch_mejorado/src/EstacionDelAnioMejorado.java)
 - Usar el ejerciocio de estación del año (V91)
     y refactorizarlo con un Switch mejorado
 
@@ -182,7 +182,7 @@
 
 [V100 Solucion - Sistema de envio - .java](V100_Solucion_Sistema_de_Envios/src/SistemaEnvios.java)
 
-[V101 Reto Sistema de Autenticación](V101_Reto_Sistema_de_Autenticacion/src/SistemaAutenticacion.java)
+[V101 Reto Sistema de Autenticación - .java](V101_Reto_Sistema_de_Autenticacion/src/SistemaAutenticacion.java)
 - Crear un sistema para validar los valores de usuario y
     password proporcionados
 
@@ -198,5 +198,7 @@
     2. Usuario Invalido
     3. Password Invalido
     4. Usuario y Password Invalido
+
+[V102 Solución - Sistema de Autenticación - .java](V102_Solucion_Sistema_de_Autenticacion/src/SistemaAutenticacion.java)
 
 [Volver](../)
