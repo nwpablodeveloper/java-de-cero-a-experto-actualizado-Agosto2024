@@ -12,7 +12,7 @@
 * [V38 Busqueda de Subcadenas - .java](V38_Busqueda_de_Subcadenas/src/BusquedaDeSubcadenas.java)
 * [V39 Reemplazar Subcadenas en Java - .java](V39_Reemplazar_Subcadenas_en_Java/src/ReemplazarSubcadenas.java)
 * [V40 Más Concatenación de Cadenas en Java - PDF](V40_Mas_Concatenacion_de_Cadenas_en_Java/Docs/03-10-00-MasConcatenacionCadenas-UJ.pdf)
-    * [MasConcatenacionCadenas](V40_Mas_Concatenacion_de_Cadenas_en_Java/src/MasConcatenacionCadenas.java)
+    * [MasConcatenacionCadenas.java](V40_Mas_Concatenacion_de_Cadenas_en_Java/src/MasConcatenacionCadenas.java)
 * [V41 Carácteres Especiales en Java - .JAVA](V41_Caracteres_Especiales_en_Java/src/CaracteresEspeciales.java)
 * [V42 Reto Generador de Email - .java](V42_Reto_Generador_de_Emails/src/GeneradorEmail.java)
     - Crear un programa para generar un email a partir de los siguientes datos

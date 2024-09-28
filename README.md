@@ -51,6 +51,17 @@
     * [Solución - Generador de Emails - .java](Seccion04-Manejo-de-cadenas-en-Java/V43_Solucion_Generador_de_Emails/src/GeneradroEmails.java)
 
 * [Sección 5: Entrada de datos por consola en Java](Seccion05-Entrada-de-datos-por-consola-en-java)
+    * Clase Scanner y Entrada de Datos
+    * Leer Tipo de datos en Java
+    * Conversión Tipos de Datos por Consola
+    * Ejemplo - Sistema de Empleados
+    * [Reto - Proyecto Recetas de Cocina](Seccion05-Entrada-de-datos-por-consola-en-java/V48_Reto_Proyecto_Recetas_de_Cocina/src/RecetasCocina.java)
+    * [Solución - Proyecto Recestas de Cocina - .java](Seccion05-Entrada-de-datos-por-consola-en-java/V49_Solucion_Proyecto_Recetas_de_Cocina/src/RecetasCocina.java)
+    * Números Aleatorios - clase Random en Java - PDF ](V50_Numeros_Aleatorios_Clase_Random/Docs/04-07-00-NumerosAleatorios-UJ.pdf)
+    * Formateo de Cadenas en Java - PDF](V51_Formateo_de_Cadenas_en_Java/Docs/04-08-00-FormatoCadenas-UJ.pdf)
+    * Formateo de Cadenas parte 2 - .java](V52_Formateo_de_Cadenas_en_Java_parte_2/src/FormateoCadenas.java)
+    * [Reto - Generador de ID Único - .java](Seccion05-Entrada-de-datos-por-consola-en-java/V53_Reto_Generador_de_ID_Unico/src/GeneradorIDUnico.java)
+    * [Solución - Generador de ID Único - .java](Seccion05-Entrada-de-datos-por-consola-en-java/V54_Solucion_Generador_de_ID_Unico/src/GeneradorIdUnico.java)
 
 * [Sección 6: Operadores en Java](Seccion06-Operadores-en-java)
 
