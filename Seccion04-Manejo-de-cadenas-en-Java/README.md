@@ -1,6 +1,6 @@
 # Sección 4: Manejo de Cadenas en Java
 
-*[V31 Menejo de Cadenas en java- PDF](V31_Manejo_de_Cadenas_en_Java/Docs/03-01-00-ManejoCadenas-UJ.pdf)
+* [V31 Menejo de Cadenas en java- PDF](V31_Manejo_de_Cadenas_en_Java/Docs/03-01-00-ManejoCadenas-UJ.pdf)
     * [CadenasEnJava.java](V31_Manejo_de_Cadenas_en_Java/src/CadenasEnJava.java)
 * [V32 Ejemplo de Cadenas en Java - .java](V32_Ejemplo_de_Cadenas_en_Java/src/Cadenas.java)
 * [V33 Manejo de Indices - .java](V33_Manejo_de_Indices_de_Cadenas/src/IndicesCadena.java)
