@@ -7,11 +7,11 @@
 * [V17 Reto - Detalle de una Persona - .java](V17_Reto_Detalles_de_una_Persona/src/DetallePersona.java)
     - Declarar las siguientes variables y deberás asgnar los valores cque correspondan,
         además de seleccionar el tipo de dato adecuado para cada variable:
-        1. Nombre completo
-        2. Edad
-        3. Altura ( en metros )
-        4. País de Origen
-        5. Indicar si es casado o soltero con sólo caractar, Ejemplo:
+        * Nombre completo
+        * Edad
+        * Altura ( en metros )
+        * País de Origen
+        * Indicar si es casado o soltero con sólo caractar, Ejemplo:
             "C"-Casado, "S"-Soltero
 * [V18 Solucón - Detalle de una Persona - .java](V18_Solucion_Detalle_de_una_Persona/src/DetallePersona.java)
 * [V19 Tipos de Datos en Java - Parte 1 - PDF](V19_Tipos_de_Datos_en_Java_parte_1/Docs/02-07-00-TiposDatosJava-parte1-UJ.pdf)
@@ -24,10 +24,10 @@
     - Crear varias variables para almacenar el detalle de un producto
         de una tienda en
         linea.
-        1. Nombre del producto
-        2. Precio
-        3. Cantidad Disponible
-        4. Indicar si esta disponible o no
+        * Nombre del producto
+        * Precio
+        * Cantidad Disponible
+        * Indicar si esta disponible o no
     
     - Deben asignar valores de prueba a cada variable, escoger el nombre de cada varialbe
         aplicando las buenas prácticas, y mandara a imprimir el valar de cada variable.
@@ -43,10 +43,10 @@
     * [Constantes.java](V28_Constantes_en_Java/src/Constantes.java)
 * [V29 Reto Reserva de Hoteles - .java](V29_Reserva_de_Hoteles/src/ReservaHotel.java)
     - Capturar el detalle de la reservación de hotesl
-        1. Nombre de cliente
-        2. Días de instancia
-        3. Tarifa diaria
-        4. Indicar si la habitación cuenta con vista al mar
+        * Nombre de cliente
+        * Días de instancia
+        * Tarifa diaria
+        * Indicar si la habitación cuenta con vista al mar
     
     - Debe asignar valores iniciales y mandar a imprimir el valor de la variable
     
