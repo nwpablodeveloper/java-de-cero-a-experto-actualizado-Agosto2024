@@ -151,7 +151,7 @@
 - Usar el ejerciocio de estación del año (V91)
     y refactorizarlo con un Switch mejorado
 
-[V97 Reto - Sistema de Calificaciones - .java](V97_Reto_Sistema_de_Calificaciones/src/SistemaCalificaciones)
+[V97 Reto - Sistema de Calificaciones - .java](V97_Reto_Sistema_de_Calificaciones/src/SistemaCalificaciones.java)
 
 - Crar un programa para convertir una calificación numérica ( 0 - 10 )
     a una letra ( de la F a la A )
