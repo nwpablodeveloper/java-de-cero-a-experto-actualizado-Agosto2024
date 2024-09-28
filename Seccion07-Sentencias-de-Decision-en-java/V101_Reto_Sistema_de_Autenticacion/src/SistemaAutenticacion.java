@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class SistemaAutenticacion {
     public static void main(String[] args) {
         System.out.println("\n*** Sistema de Autenticación ***");
@@ -19,10 +21,28 @@ public class SistemaAutenticacion {
                 3. Password Invalido
                 4. Usuario y Password Invalido
          */
+        System.out.println("\n*** Reto - Sistema de Autentificación ***");
+
         final var USUARIO_VALIDO = "user";
         final var PASSWORD_VALIDO = "123";
 
-        
+        var consola = new Scanner(System.in);
+
+        System.out.print("\nIngrese su usuario: ");
+        var usuario = consola.nextLine().strip().toLowerCase();
+
+        System.out.print("Ingrese su password: ");
+        var password = consola.nextLine().strip().toLowerCase();
+
+        if (!usuario.equals(USUARIO_VALIDO) && !password.equals(PASSWORD_VALIDO)) {
+            System.out.println("Usuario y Password invalido");
+        } else if ( !usuario.equals(USUARIO_VALIDO) )
+            System.out.println("Usuario Invalido");
+        else if ( !password.equals(PASSWORD_VALIDO))
+            System.out.println("Password Invalido");
+        else
+            System.out.println("Bienvenido al Sistema");
+
 
     }
 
