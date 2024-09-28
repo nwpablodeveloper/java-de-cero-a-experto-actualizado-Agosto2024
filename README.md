@@ -18,14 +18,14 @@
     * Ejemplo de Variables en Java
     * Manejo de Memoria en Java
     * Ejemplo Detalle Libro
-    * [V17 Reto - Detalle de una Persona](Seccion03-Variables-en-Java/V17_Reto_Detalles_de_una_Persona/src/DetallePersona.java)
-    * [V18 Solucón - Detalle de una Persona](Seccion03-Variables-en-Java/V18_Solucion_Detalle_de_una_Persona/src/DetallePersona.java)
+    * [Reto - Detalle de una Persona](Seccion03-Variables-en-Java/V17_Reto_Detalles_de_una_Persona/src/DetallePersona.java)
+    * [Solucón - Detalle de una Persona](Seccion03-Variables-en-Java/V18_Solucion_Detalle_de_una_Persona/src/DetallePersona.java)
     * Tipos de Datos en Java - Parte 1
     * Tipos de Datos en Java - Parte 2
     * Reglas de Nombre de Variables en Java
     * Ejemplo de Reglas de Nombres de Variables
-    * [V23 Reto - Detalle de un Producto de una Tienda en Linea](Seccion03-Variables-en-Java/V23_Reto_Detalle_de_un_Producto_de_una_Tienda_en_Linea/src/DetalleProducto.java)
-    * [V24 Solución Detalle de un Producto de una Tienda en Línea](Seccion03-Variables-en-Java/V24_Solucion_Detalle_de_un_producto_de_una_tienda_en_Linea/src/TiendaLinea.java)
+    * [Reto - Detalle de un Producto de una Tienda en Linea](Seccion03-Variables-en-Java/V23_Reto_Detalle_de_un_Producto_de_una_Tienda_en_Linea/src/DetalleProducto.java)
+    * [Solución Detalle de un Producto de una Tienda en Línea](Seccion03-Variables-en-Java/V24_Solucion_Detalle_de_un_producto_de_una_tienda_en_Linea/src/TiendaLinea.java)
     * Tipo VAR en Java
     * Ejemplo variables de tipo Var
     * Concatenación de cadenas en Java
