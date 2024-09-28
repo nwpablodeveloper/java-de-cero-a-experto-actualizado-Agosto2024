@@ -1,8 +1,7 @@
 # Sección 5: Entada de datos por consola en Java
- * El método nextLine() de la clase Scanner recibe todos sus datos en forma de 
-cadena, en caso de necesitar otro tipo deto ingresado por el usuario es necesario
-realizar la conversión del mismo
-
+    * El método nextLine() de la clase Scanner recibe todos sus datos en forma de 
+        cadena, en caso de necesitar otro tipo deto ingresado por el usuario es necesario
+        realizar la conversión del mismo
 * [V44 Clase Scanner y Entrada de Datos - PDF](V44_Clase_Scanner_y_Entrada_de_Datos/Docs/04-01-00-ClaseScannerEntradaDatos-UJ.pdf)
     * [ManejoConsola.java](V44_Clase_Scanner_y_Entrada_de_Datos/src/ManejoConsola.java)
 * [V45 Leer Tipo de datos en Java - .java](V45_Leer_Tipo_De_Datos_en_Java/src/LeerTiposDatos.java)
