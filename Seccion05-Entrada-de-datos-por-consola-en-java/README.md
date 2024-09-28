@@ -17,7 +17,7 @@ realizar la conversión del mismo
         * Es Jefe de Departamento ( Boolean )
 
     - Una vez capturado los datos, se deben mandar a imprimir por consola
- * [V48 Reto - Proyecto Recetas de Cocina](V48_Reto_Proyecto_Recetas_de_Cocina/src/RecetasCocina.java)
+* [V48 Reto - Proyecto Recetas de Cocina](V48_Reto_Proyecto_Recetas_de_Cocina/src/RecetasCocina.java)
     - Crear un programa para solicitar los valores más importantes de una receta de cocina.
         Los valores que debe introducir el usuario son:
         * Nombre de la receta
@@ -26,7 +26,7 @@ realizar la conversión del mismo
         * Dificultad ( Facil, Media o Altá )
 
     - Al finalizar se debe mandar a imprimir la receta.
- * [V49 Solución - Proyecto Recestas de Cocina - .java](V49_Solucion_Proyecto_Recetas_de_Cocina/src/RecetasCocina.java)
+* [V49 Solución - Proyecto Recestas de Cocina - .java](V49_Solucion_Proyecto_Recetas_de_Cocina/src/RecetasCocina.java)
 * [V50 Números Aleatorios - clase Random en Java - PDF ](V50_Numeros_Aleatorios_Clase_Random/Docs/04-07-00-NumerosAleatorios-UJ.pdf)
     * [NumerosAleatorios.java](V50_Numeros_Aleatorios_Clase_Random/src/NumerosAleatorios.java)
 * [V51 Formateo de Cadenas en Java - PDF](V51_Formateo_de_Cadenas_en_Java/Docs/04-08-00-FormatoCadenas-UJ.pdf)

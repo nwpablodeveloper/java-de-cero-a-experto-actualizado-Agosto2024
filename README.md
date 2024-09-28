@@ -64,5 +64,24 @@
     * [Solución - Generador de ID Único - .java](Seccion05-Entrada-de-datos-por-consola-en-java/V54_Solucion_Generador_de_ID_Unico/src/GeneradorIdUnico.java)
 
 * [Sección 6: Operadores en Java](Seccion06-Operadores-en-java)
+    * Operadores en Java
+    * Operadores Aritméticos en Java
+    * Operadores Unarios en Java
+    * Operadores de Asignación Simple y Compuestos en Java
+    * Operadores de Comparación
+    * Operadores Lógico AND en Java
+    * Operador Lógico OR en Java 
+    * Operador Lógico NOT en Java
+    * [Ejemplo Determinar si un Valor esta dentro de Rango - .java](Seccion06-Operadores-en-java/V63_Ejemplo_Determinar_si_un_Valor_esta_dentro_de_Rango/src/ValorDentroRango.java)
+    * [Ejemplo Tienda con Descuento VIP - .java](Seccion06-Operadores-en-java/V64_Ejemplo_Tienda_con_Descuento_VIP/src/SistemaDescuentosVip.java)
+    * [Ejemplo Préstamo de Libros - .java](Seccion06-Operadores-en-java/V65_Ejemplo_Prestamo_de_Libros/src/SistemaPrestamoLibros.java)
+    * [Ejemplo Valro Fuera de Rango - .java](Seccion06-Operadores-en-java/V66_Ejemplo_Valor_Fuera_de_Rango/src/RangoVariable.java)
+    * [Ejemplo - Ticket de Venta - .java](Seccion06-Operadores-en-java/V67_Ejemplo_Ticket_de_Venta/src/TicketVenta.java)
+    * [Ejemplo - Ticket de venta Con Descuento - .java](Seccion06-Operadores-en-java/V68_Ejemplo_Ticket_de_Venta_con_Descuento/src/TicketVenta.java)
+    * [Reto - Sistema de Autenticación - .java](Seccion06-Operadores-en-java/V69_Reto_Sistema_de_Autenticacion/src/SistemaAutenticacion.java)
+    * [Solución - Sistema de Auytenticación - .java](Seccion06-Operadores-en-java/V70_Solucion_Sistema_de_Autentificacion/src/SistemaAutentificacion.java)
+    * [Reto - Calcular el Área de un Rectángulo- .java](Seccion06-Operadores-en-java/V71_Reto_Calculo_del_Area_de_un_Rectangulo/src/CalculoRectangulo.java)
+    * [Soluón Cálculo del Área de un Rectángulo - .java](Seccion06-Operadores-en-java/V72_Solucion_Calculo_del_Area_de_un_Rectangulo/src/CalculoAreaRectangulo.java)
+    * Precedencia de Operadores en Java
 
 * [Sección 7: Sentencias de Decisión en Java](Seccion07-Sentencias-de-Decision-en-java)
