@@ -14,10 +14,8 @@
 * [V64 Ejemplo Tienda con Descuento VIP - .java](V64_Ejemplo_Tienda_con_Descuento_VIP/src/SistemaDescuentosVip.java)
     - Una Tienda de supermercado ofrece un descuento especial a clientes que compren 
         10 o más artículos por día y además sean miembros de la tienda.
-    
     - El sistema de solicitar al cliente que indique cuántos artículos ha comprado en el día
         y preguntarle si cuenta con la membresía de la tienda.
-    
     -En caso de haber comprado 10 o más productos y ser miembre de la tienda entonces
         tendrá acceso al descuento VIP.
 * [V65 Ejemplo Préstamo de Libros - .java](V65_Ejemplo_Prestamo_de_Libros/src/SistemaPrestamoLibros.java)
@@ -30,10 +28,8 @@
 * [V67 Ejemplo - Ticket de Venta - .java](V67_Ejemplo_Ticket_de_Venta/src/TicketVenta.java)
     - Supongamos que compramos vairos artículos en el supermercado y queremos
         obtener el ticket de vent total incluyendo impuestos
-    
     - El sistema solicitará el precio de cada producto a comprar
         y el usuario deberá indicar su precio ( valor de tipo con punto decimal )
-    
     - El sistema debe realizar la suma de cada producto, calcular el impuesto 
         y finalmente imprimir el total de la compra
 * [V68 Ejemplo - Ticket de venta Con Descuento - .java](V68_Ejemplo_Ticket_de_Venta_con_Descuento/src/TicketVenta.java)
