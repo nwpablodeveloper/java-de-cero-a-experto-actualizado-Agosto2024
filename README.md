@@ -85,3 +85,32 @@
 * Precedencia de Operadores en Java
 
 ### [Sección 7: Sentencias de Decisión en Java](Seccion07-Sentencias-de-Decision-en-java)
+* Sentencias de Control en Java
+* Diagrama de flujo
+* Sentencia IF en Java
+* Sentencia IF ELSE en java
+* Sentencia IF ELSEIF ELSE en Java
+* [Ejecución Paso a Paso (Modo Debug) - Video Udemy](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/learn/lecture/44838447#overview)
+* [Ejemplo Valor Positivo - .java](V80_Ejemplo_Valor_Positivo/src/ValorPositivo.java)
+* [Reto - Tienda en línea con descuento - .java](Seccion07-Sentencias-de-Decision-en-java/V81_Reto_Tienda_en_Linea_con_Descuento/src/TiendaEnLinea.java)
+* [Solución - Tiende en Línea con Descuento - .java](Seccion07-Sentencias-de-Decision-en-java/V82_Solucion_Tienda_en_Linea_con_Descuento/src/TiendaEnLinea.java)
+* [Ejemplo Sistema Bancario - .java](Seccion07-Sentencias-de-Decision-en-java/V83_Ejemplo_Sistema_Bancario/src/SistemaBancario.java)
+* [Ejemplo - Casa de los Espejos - .java](Seccion07-Sentencias-de-Decision-en-java/V84_Ejemplo_Casa_de_los_Espejos/src/CasaDeLosEspejos.java)
+* Operador Ternario en Java
+* [Aplicación Salud y Firness - .java](Seccion07-Sentencias-de-Decision-en-java/V86_Aplicacion_Salud_y_Fitness/src/SaludYFitness.java)
+* [Reto - Sistema de Reserva de Hotel - .java](Seccion07-Sentencias-de-Decision-en-java/V87_Reto_Sistema_de_Reserva_de_Hotel/src/SistemaReservaHotel.java)
+* [Solución - Sistema de Reserva de Hotal - .java](Seccion07-Sentencias-de-Decision-en-java/V88_Solucion_Sistema_de_Reserva_de_Hotel/src/SistemaReservaHotel.java)
+* [Reto - Mayor de dos Números - .java](Seccion07-Sentencias-de-Decision-en-java/V89_Mayor_de_dos_Numeros/src/NumeroMayor.java)
+* [Solución - El Mayor de dos números - .java](Seccion07-Sentencias-de-Decision-en-java/V90_Solucion_Mayor_de_dos_Numeros/src/MayorDeDosNumeros.java)
+* [Reto - Estación del año - .java](Seccion07-Sentencias-de-Decision-en-java/V91_Reto_Estacion_del_Anio/src/EstacionDelAnio.java)
+* [Solución - Estación del año - .java](Seccion07-Sentencias-de-Decision-en-java/V92_Solucion_Estacion_del_Anio/src/EstacionAnio.java)
+* Sentencia Switch en Java
+* [Ejemplo día de la semana con Switch - .java](Seccion07-Sentencias-de-Decision-en-java/V94_Ejemplo_dia_de_la_Semana_con_Switch/src/DiaSeamana.java)
+* [Día de la semana con Switch Mejorado - .java](V95_Dia_de_la_Semana_con_Switch_Mejorado/src/DiaSemana.java)
+* [Reto - Estación del año con Switch mejorado - .java](Seccion07-Sentencias-de-Decision-en-java/V96_Estacion_del_Anio_con_Switch_mejorado/src/EstacionDelAnioMejorado.java)
+* [Reto - Sistema de Calificaciones - .java](Seccion07-Sentencias-de-Decision-en-java/V97_Reto_Sistema_de_Calificaciones/src/SistemaCalificaciones.java)
+* [Solución Sistema de Calificaciones - .java](Seccion07-Sentencias-de-Decision-en-java/V98_Solucion_Sistema_de_Calificaciones/src/SistemaCalificaciones.java)
+* [Reto - Sisema de Envios - .java](Seccion07-Sentencias-de-Decision-en-java/V99_Reto_Sistema_de_envios/src/SistemaEnvios.java)
+* [Solucion - Sistema de envio - .java](Seccion07-Sentencias-de-Decision-en-java/V100_Solucion_Sistema_de_Envios/src/SistemaEnvios.java)
+* [Reto - Sistema de Autenticación - .java](Seccion07-Sentencias-de-Decision-en-java/V101_Reto_Sistema_de_Autenticacion/src/SistemaAutenticacion.java)
+* [Solución - Sistema de Autenticación - .java](Seccion07-Sentencias-de-Decision-en-java/V102_Solucion_Sistema_de_Autenticacion/src/SistemaAutenticacion.java)
