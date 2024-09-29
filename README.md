@@ -106,7 +106,7 @@
 * [Solución - Estación del año ](Seccion07-Sentencias-de-Decision-en-java/V92_Solucion_Estacion_del_Anio/src/EstacionAnio.java)
 * Sentencia Switch en Java
 * [Ejemplo día de la semana con Switch ](Seccion07-Sentencias-de-Decision-en-java/V94_Ejemplo_dia_de_la_Semana_con_Switch/src/DiaSeamana.java)
-* [Día de la semana con Switch Mejorado ](V95_Dia_de_la_Semana_con_Switch_Mejorado/src/DiaSemana.java)
+* [Día de la semana con Switch Mejorado ](Seccion07-Sentencias-de-Decision-en-java/V95_Dia_de_la_Semana_con_Switch_Mejorado/src/DiaSemana.java)
 * [Reto - Estación del año con Switch mejorado ](Seccion07-Sentencias-de-Decision-en-java/V96_Estacion_del_Anio_con_Switch_mejorado/src/EstacionDelAnioMejorado.java)
 * [Reto - Sistema de Calificaciones ](Seccion07-Sentencias-de-Decision-en-java/V97_Reto_Sistema_de_Calificaciones/src/SistemaCalificaciones.java)
 * [Solución Sistema de Calificaciones ](Seccion07-Sentencias-de-Decision-en-java/V98_Solucion_Sistema_de_Calificaciones/src/SistemaCalificaciones.java)
