@@ -54,8 +54,12 @@ public class Calculadora {
                     resultado = nro1 * nro2;
                 }
                 case 4 -> {
-                    opcionElegida = "División";
-                    resultado = nro1 / nro2;
+                    if(nro2 != 0 ){
+                        opcionElegida = "División";
+                        resultado = nro1 / nro2;
+                    }else{
+                        System.out.printnl("Error al dividir con 0");
+                    }
                 }
                 case 5 -> salir = true;
                 default -> System.out.println("Opción no valida");
