@@ -25,14 +25,22 @@ public class RetoJuegoAdivinanza {
         var random = new Random();
 
         var numeroSecreto = random.nextInt(50) + 1;
-        int intentos;
+        System.out.println("numeroSecreto = " + numeroSecreto);
+        int intentos = 0;
 
-        System.out.println("ingresa el nro. a adivinar");
+        System.out.print("ingresa el nro. a adivinar: ");
         var numero = consola.nextInt();
 
         while ( numero != numeroSecreto){
-
+            System.out.println("\nIntento nro. " + ++intentos);
+            System.out.println("jaja no adivinaste, prueba con otro: ");
+            if ( numero > numeroSecreto)
+                System.out.print("Pista: Tu nro. fue ALTO. Elige otro: ");
+            else
+                System.out.print("Pista: Tu nro. fue BAJO. Elige otro: ");
+            numero = consola.nextInt();
         }
+        System.out.printf("Felicidades acertaste al número secreto en %d intentos.", intentos);
 
     }
 }
