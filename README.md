@@ -134,3 +134,4 @@
 * [Reto - Calculadora en Java ](Seccion08-Ciclos-en-java/V117_Reto_Calculadora_en_Java/src/Calculadora.java)
 * [Solución - Calculadora en Java](Seccion08-Ciclos-en-java/V118_Solucion_Calculadora_en_Java/src/SolucionCalculadora.java)
 * [Reto - Validación de Password](Seccion08-Ciclos-en-java/V119_Reto_Validacion_de_Password/src/RetoValidacionPassword.java)
+* [Solución - Validación de password](Seccion08-Ciclos-en-java/V120_Solucion_Validacion_de_password/src/SolucionValidarPassword.java)
