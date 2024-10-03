@@ -58,7 +58,7 @@ public class Calculadora {
                         opcionElegida = "División";
                         resultado = nro1 / nro2;
                     }else{
-                        System.out.printnl("Error al dividir con 0");
+                        System.out.println("Error al dividir con 0");
                     }
                 }
                 case 5 -> salir = true;
