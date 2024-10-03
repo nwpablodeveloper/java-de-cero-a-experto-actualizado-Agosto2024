@@ -132,4 +132,5 @@
 * [Reto - Cajero Automatico](Seccion08-Ciclos-en-java/V115_Reto_Cajero_Automatico/src/RetoCajeroAutomatico.java)
 * [Solución Cajero Autmotaico](Seccion08-Ciclos-en-java/V116_Solucion_Cajero_Automatico/src/CajeroAutomatico.java)
 * [Reto - Calculadora en Java ](Seccion08-Ciclos-en-java/V117_Reto_Calculadora_en_Java/src/Calculadora.java)
-* [Solución - Calculadora en Java - .java](Seccion08-Ciclos-en-java/V118_Solucion_Calculadora_en_Java/src/SolucionCalculadora.java)
+* [Solución - Calculadora en Java](Seccion08-Ciclos-en-java/V118_Solucion_Calculadora_en_Java/src/SolucionCalculadora.java)
+* [Reto - Validación de Password](Seccion08-Ciclos-en-java/V119_Reto_Validacion_de_Password/src/RetoValidacionPassword.java)

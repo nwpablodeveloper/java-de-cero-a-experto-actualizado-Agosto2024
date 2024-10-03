@@ -49,4 +49,12 @@
         realizar la operación seleccionada.
 )
 * [V118 Solución - Calculadora en Java - .java](V118_Solucion_Calculadora_en_Java/src/SolucionCalculadora.java)
-
+* [V119 Reto - Validación de Password](V119_Reto_Validacion_de_Password/src/RetoValidacionPassword.java)
+    - Crear un programa para solicitar la validación al momento de
+        crear un valor de un password
+    - La contraseña debe tener al menos 6 caracteres
+    - en caso de no coumplir con este condición el programa debe
+        volver a solicitar un nuevo valor hastá que cumpla con
+        la condición.
+    - Si el valor proporcionado es válido, se debe imprimir:
+        "Password Válido" y debe terminar la ejecución del sistema.
