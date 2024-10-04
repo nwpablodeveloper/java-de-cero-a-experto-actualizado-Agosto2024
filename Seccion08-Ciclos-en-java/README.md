@@ -74,3 +74,4 @@
         e indicar cuántos intentos realizo.
     - Opcionalmente, se puede limitar el juego a un número de intentos
         máximo ( ej. 10 ) de lo contrario termina el juego.
+* [v122 Solución - Reto juego de Adivinanzas]()
