@@ -90,7 +90,10 @@ public class RetoJuegoAdivinanza {
                     %nMuy bien, acertastes en %d intentos""",intentos);
 
         }
-/*
+
+
+
+        /*
 
         var numeroSecreto = random.nextInt(50) + 1;
         System.out.println("numeroSecreto = " + numeroSecreto);
