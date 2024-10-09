@@ -59,7 +59,7 @@
     - Si el valor proporcionado es válido, se debe imprimir:
         "Password Válido" y debe terminar la ejecución del sistema.
 * [V120 Solución - Validación de password - .java](V120_Solucion_Validacion_de_password/src/SolucionValidarPassword.java)
-* [V121 Retp - Juego de Adivinanza](V121_Reto_Juego_de_Adivinanza/src/RetoJuegoAdivinanza.java)
+* [V121 Reto - Juego de Adivinanza - .java](V121_Reto_Juego_de_Adivinanza/src/RetoJuegoAdivinanza.java)
     - Crea un juego donde el jugador deba adivinar un
         número secreto.
     - Puedes usuar un ciclo While hasta que el jugador
@@ -74,4 +74,4 @@
         e indicar cuántos intentos realizo.
     - Opcionalmente, se puede limitar el juego a un número de intentos
         máximo ( ej. 10 ) de lo contrario termina el juego.
-* [v122 Solución - Reto juego de Adivinanzas]()
+* [v122 Solución - Reto juego de Adivinanzas - .java](V122_Solucion_Reto_Juego_de_Adivinanza/src/JuegoAdivinanza.java)

@@ -135,3 +135,5 @@
 * [Solución - Calculadora en Java](Seccion08-Ciclos-en-java/V118_Solucion_Calculadora_en_Java/src/SolucionCalculadora.java)
 * [Reto - Validación de Password](Seccion08-Ciclos-en-java/V119_Reto_Validacion_de_Password/src/RetoValidacionPassword.java)
 * [Solución - Validación de password](Seccion08-Ciclos-en-java/V120_Solucion_Validacion_de_password/src/SolucionValidarPassword.java)
+* [Reto - Juego de Adivinanza](Seccion08-Ciclos-en-java/V121_Reto_Juego_de_Adivinanza/src/RetoJuegoAdivinanza.java)
+* [Solución - Reto juego de Adivinanzas](Seccion08-Ciclos-en-java/V122_Solucion_Reto_Juego_de_Adivinanza/src/JuegoAdivinanza.java)
