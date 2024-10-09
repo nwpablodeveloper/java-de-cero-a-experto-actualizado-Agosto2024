@@ -19,100 +19,62 @@ public class RetoJuegoAdivinanza {
             - Opcionalmente, se puede limitar el juego a un número de intentos
                 máximo ( ej. 10 ) de lo contrario termina el juego.
          */
-        System.out.println("*** Reto - Juego de Adivinanza ***\n");
-
         var consola = new Scanner(System.in);
         var random = new Random();
-        var numeroRandom = random.nextInt(50) + 1;
-        var salir = false;
-        var intentos = 1;
+        int contadorIntentos = 0, opcion = 0, numeroRandom = 0, numeroElegido = 0, limiteIntentos = 0;
         var mayorMenor = "";
+        var salir = false;
 
-        while ( !salir ) {
+        System.out.println("\n*** Benvenidos al Reto de adivinar el número ***\n");
+
+        while (!salir) {
             System.out.print("""
-                    \nMenú
-                    1. Jugar libre
-                    2. Personalizar Juego
-                    3. salir
+                    Menú:
+                    1. Juego Normal
+                    2. Juego Con intentos limitados
+                    3. Salir
                     Eliga una opción:\s""");
+            opcion = consola.nextInt();
 
-            var opcion = consola.nextInt();
 
-            switch ( opcion ) {
-                case 1 -> {
-
-                    System.out.printf("""
-                            %nJuego normal: Random %d
-                            Ingresa el número a adivinar:\s""", numeroRandom);
-                    var nro = consola.nextInt();
-
-                    while ( nro != numeroRandom ){
-
-                        if ( nro > numeroRandom )
-                            mayorMenor = "ALTO";
-                        else
-                            mayorMenor = "BAJO";
-
-                        System.out.printf("""
-                                %nIntento nro. %d. jaja no acertaste.
-                                Tu número fue: %s
-                                Elige otro:\s""", intentos++, mayorMenor);
-                        nro = consola.nextInt();
+            switch (opcion){
+                case 1, 2 -> {
+                    contadorIntentos = 1;
+                    numeroRandom = random.nextInt(50) + 1;
+                    System.out.println("numeroRandom = " + numeroRandom);
+                    if (opcion == 2){
+                        System.out.print("Limitar la cantidad de intentos a: ");
+                        limiteIntentos = consola.nextInt();
                     }
+                    System.out.print("\nQue número pensas que es?: ");
+                    numeroElegido = consola.nextInt();
 
-                }
-                case 2 -> {
-                    System.out.print("Máximo de números random: ");
-                    var numerosMaximos = consola.nextInt();
-                    numeroRandom = random.nextInt(numerosMaximos) + 1;
+                    do{
+                        mayorMenor = ( numeroElegido > numeroRandom ) ? "ALTO" :  "BAJO";
 
-                    System.out.print("Limite de intentos: ");
-                    var limiteIntentos = consola.nextInt();
-
-                    System.out.printf("""
-                            %nRandom: %d
-                            %nAdivine el nro random entre 1 y %d
-                            Intentos configurados: %d
-                            Ingrese el nro.\s""", numerosMaximos, limiteIntentos);
-                    var nro = consola.nextInt();
-
-                    while ( nro != numeroRandom ){
-
-                    }
+                        if (numeroElegido == numeroRandom){
+                            System.out.printf("""
+                                    %nFelicidades! Acertaste en %d intentos
+                                    %n""",contadorIntentos);
+                            contadorIntentos = opcion == 1 ? 0 : limiteIntentos;
+                        }else{
+                            System.out.printf("""
+                                    %nIntento nro. %d fue %s
+                                    Ingrese otro:\s""", contadorIntentos, mayorMenor);
+                            numeroElegido = consola.nextInt();
+                            if (contadorIntentos == limiteIntentos){
+                                System.out.printf("Se te acabaron los intentos%n%n");
+                            }
+                            ++contadorIntentos;
+                        }
+                    }while (contadorIntentos != limiteIntentos);
                 }
                 case 3 -> {
                     salir = true;
-                    System.out.println("Bye!");
+                    System.out.println("Espero volverte a ver pronto. Bye!\n");
                 }
-                default -> System.out.println("Opción no valida.");
+                default -> System.out.println("Opción no valida.\n");
             }
-            System.out.printf("""
-                    %nMuy bien, acertastes en %d intentos""",intentos);
-
         }
-
-
-
-        /*
-
-        var numeroSecreto = random.nextInt(50) + 1;
-        System.out.println("numeroSecreto = " + numeroSecreto);
-        int intentos = 1;
-*/
-
-/*
-
-        while ( numero != numeroSecreto){
-            System.out.println("\nIntento nro. " + ++intentos);
-            System.out.println("jaja no adivinaste, prueba con otro: ");
-            if ( numero > numeroSecreto)
-                System.out.print("Pista: Tu nro. fue ALTO. Elige otro: ");
-            else
-                System.out.print("Pista: Tu nro. fue BAJO. Elige otro: ");
-            numero = consola.nextInt();
-        }
-        System.out.printf("Felicidades acertaste al número secreto en %d intentos. %n", intentos);
-*/
-
     }
 }
