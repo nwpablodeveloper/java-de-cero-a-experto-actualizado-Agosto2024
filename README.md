@@ -141,4 +141,7 @@
 
 ### [Sección 9: Arreglos en Java](Seccion09-Arreglos-en-java)
 * Arreglos en Java
+* Declarar e inicializar Arreglo 
 * Modificar Valores de un Arreglo
+* Lectura de Valores de un Arreglo
+* Sintaxis Simplificada de Arreglos
