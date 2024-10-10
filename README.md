@@ -140,3 +140,5 @@
 * [Ejemplo - Dibujar Triangulo de ateriscos](Seccion08-Ciclos-en-java/V123_Ejemplo_dibujar_Rectangulo/src/DibujaTriangulo.java)
 
 ### [Sección 9: Arreglos en Java](Seccion09-Arreglos-en-java)
+* Arreglos en Java
+* Modificar Valores de un Arreglo
