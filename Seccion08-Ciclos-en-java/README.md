@@ -74,4 +74,14 @@
         e indicar cuántos intentos realizo.
     - Opcionalmente, se puede limitar el juego a un número de intentos
         máximo ( ej. 10 ) de lo contrario termina el juego.
-* [v122 Solución - Reto juego de Adivinanzas - .java](V122_Solucion_Reto_Juego_de_Adivinanza/src/JuegoAdivinanza.java)
+* [V122 Solución - Reto juego de Adivinanzas - .java](V122_Solucion_Reto_Juego_de_Adivinanza/src/JuegoAdivinanza.java)
+* [V123 Ejemplo - Dibujar Triangulo de ateriscos - .java](V123_Ejemplo_dibujar_Rectangulo/src/DibujaTriangulo.java)
+    - Se pide mostrar por pantalla un triangulo formado por asteriscos según la cantidad
+        de filas que quiera el usuario. 
+```
+// Triangulo de 4 filas
+   *
+  ***
+ *****
+*******
+```
