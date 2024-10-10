@@ -138,3 +138,5 @@
 * [Reto - Juego de Adivinanza](Seccion08-Ciclos-en-java/V121_Reto_Juego_de_Adivinanza/src/RetoJuegoAdivinanza.java)
 * [Solución - Reto juego de Adivinanzas](Seccion08-Ciclos-en-java/V122_Solucion_Reto_Juego_de_Adivinanza/src/JuegoAdivinanza.java)
 * [Ejemplo - Dibujar Triangulo de ateriscos](Seccion08-Ciclos-en-java/V123_Ejemplo_dibujar_Rectangulo/src/DibujaTriangulo.java)
+
+### [Sección 9: Arreglos en Java](Seccion09-Arreglos-en-java)
