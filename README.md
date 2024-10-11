@@ -148,3 +148,4 @@
 * Iterar un Arreglo en Java
 * Introducir Valores a un Arreglo en 
 * [Reto - Promedio de Calificaciones](Seccion09-Arreglos-en-java/V132_Reto_Promedio_de_Calificaciones/src/RetoPromedioCalificaciones)
+* [Solución - Promedio de Calificaciones](Seccion09-Arreglos-en-java/V133_Solucion_Promedio_de_Calificaciones/src/PromedioCalificaciones.java)
