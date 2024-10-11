@@ -9,4 +9,6 @@
 * [V132 Reto - Promedio de Calificaciones - .java](V132_Reto_Promedio_de_Calificaciones/src/RetoPromedioCalificaciones)
     - Indicar la cantidad de calificaciones a promediar en un arreglo
     - Calcular el promedio de todas las calificaciones ingresadas
+* [V133 Solución - Promedio de Calificaciones - .java](V133_Solucion_Promedio_de_Calificaciones/src/PromedioCalificaciones.java)
+
 [Volver](../)
