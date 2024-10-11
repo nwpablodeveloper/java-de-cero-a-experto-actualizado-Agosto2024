@@ -146,4 +146,5 @@
 * Lectura de Valores de un Arreglo
 * Sintaxis Simplificada de Arreglos
 * Iterar un Arreglo en Java
-* Introducir Valores a un Arreglo en Java
+* Introducir Valores a un Arreglo en 
+* [Reto - Promedio de Calificaciones](Seccion09-Arreglos-en-java/V132_Reto_Promedio_de_Calificaciones/src/RetoPromedioCalificaciones)

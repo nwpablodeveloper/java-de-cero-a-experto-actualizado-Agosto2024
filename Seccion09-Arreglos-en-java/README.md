@@ -6,5 +6,7 @@
 * [V129 Sintaxis Simplificada de Arreglos - .java](V129_Sintaxis_simplificada_de_Arreglos/src/Arreglos.java)
 * [V130 Iterar un Arreglo en Java - .java](V130_Iterar_un_Arreglo_en_Java/src/Arreglos.java)
 * [V131 Introducir Valores a un Arreglo - .java](V131_Introducir_Valores_a_un_Arreglo/src/Arreglos.java)
-
+* [V132 Reto - Promedio de Calificaciones - .java](V132_Reto_Promedio_de_Calificaciones/src/RetoPromedioCalificaciones)
+    - Indicar la cantidad de calificaciones a promediar en un arreglo
+    - Calcular el promedio de todas las calificaciones ingresadas
 [Volver](../)
