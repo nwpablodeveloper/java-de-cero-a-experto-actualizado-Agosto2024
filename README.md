@@ -153,3 +153,4 @@
 ### [Seccion 10: Matrices en Java](Seccion10-Matrices-en-Java)
 * Que es una Matriz
 * Ejemplos
+* Recorrer una Matriz 
