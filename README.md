@@ -147,7 +147,7 @@
 * Sintaxis Simplificada de Arreglos
 * Iterar un Arreglo en Java
 * Introducir Valores a un Arreglo en 
-* [Reto - Promedio de Calificaciones](Seccion09-Arreglos-en-java/V132_Reto_Promedio_de_Calificaciones/src/RetoPromedioCalificaciones)
+* [Reto - Promedio de Calificaciones](Seccion09-Arreglos-en-java/V132_Reto_Promedio_de_Calificaciones/src/RetoPromedioCalificaciones.java)
 * [Solución - Promedio de Calificaciones](Seccion09-Arreglos-en-java/V133_Solucion_Promedio_de_Calificaciones/src/PromedioCalificaciones.java)
 
 ### [Seccion 10: Matrices en Java](Seccion10-Matrices-en-Java)
