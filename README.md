@@ -155,3 +155,4 @@
 * Ejemplos
 * Recorrer una Matriz 
 * Sintaxis simplificada
+* [Introducir datos de manera dinámica en una Matriz en Java](Seccion10-Matrices-en-Java/V138_Introducir_Datos_en_una_Matriz_en_Java/src/Matrices.java)
