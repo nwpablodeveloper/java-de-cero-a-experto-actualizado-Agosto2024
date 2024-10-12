@@ -154,3 +154,4 @@
 * Que es una Matriz
 * Ejemplos
 * Recorrer una Matriz 
+* Sintaxis simplificada
