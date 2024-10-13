@@ -2,8 +2,6 @@
 
 ### [Sección 1: Bienvenidos a la Universidad Java](Seccion01-Bienvenidos-a-la-Universidad-Java)
 
-<details>
-  <summary>Sección 2: Introducción a Java</summary>
 ### [Sección 2: Intducción a Java](Seccion02-Introduccion-a-Java)
 * Introducción a java
 * Que es JDK
@@ -16,9 +14,6 @@
 * [Solución - presentate con Java - Presentate en Java ](Seccion02-Introduccion-a-Java/V10_Solucion_Presentate_con_Java/Docs/01-09-00-Solucion-Presentate-UJ.java)
 * Instalación de Apache NetBeans
 * Solución Hola Mundo con NetBeans
-</details>
-
-
 
 ### [Sección 3: Variables en Java](Seccion03-Variables-en-Java)
 * Variables en Java
