@@ -7,5 +7,6 @@
 * [V138 Introducir datos de manera dinámica en una Matriz en Java](V138_Introducir_Datos_en_una_Matriz_en_Java/src/Matrices.java)
 * [V139 Reto - Suma Diagonal de una Matriz](V139_Reto_Suma_Diagonal_de_una_matriz/src/RetoSumaDiagonal.java)
     ![](V139_Reto_Suma_Diagonal_de_una_matriz/Docs/Suma-diagonal-matriz.jpg)
+* [V140 Solución - Suma Diagonal de una matriz](V140_Solucion_Suma_Diagonal_de_una_Matriz/src/DiagonalMatriz.java)
 
 [Volver](../)
