@@ -156,3 +156,5 @@
 * Recorrer una Matriz 
 * Sintaxis simplificada
 * [Introducir datos de manera dinámica en una Matriz en Java](Seccion10-Matrices-en-Java/V138_Introducir_Datos_en_una_Matriz_en_Java/src/Matrices.java)
+* [Reto - Suma Diagonal de una Matriz](Seccion10-Matrices-en-Java/V139_Reto_Suma_Diagonal_de_una_matriz/src/RetoSumaDiagonal.java)
+* [Solución - Suma Diagonal de una matriz](Seccion10-Matrices-en-Java/V140_Solucion_Suma_Diagonal_de_una_Matriz/src/DiagonalMatriz.java)
