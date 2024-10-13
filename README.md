@@ -1,27 +1,5 @@
 ## Curso de Java de Cero a Experto - Actualizado Agosto de 2024
 
-<details>
-  <summary>Sección 1: Bienvenidos a la Universidad Java</summary>
-  Contenido de la Sección 1...
-</details>
-
-<details>
-  <summary>Sección 2: Introducción a Java</summary>
-  * Introducción a java
-  * ...
-  <details>
-    <summary>Reto - Presentate con Java</summary>
-    Enlace al reto...
-  </details>
-  <details>
-    <summary>Solución - presentate con Java</summary>
-    Enlace a la solución...
-  </details>
-  * ...
-</details>
-
-## Curso de Java de Cero a Experto - Actualizado Agosto de 2024
-
 ### [Sección 1: Bienvenidos a la Universidad Java](Seccion01-Bienvenidos-a-la-Universidad-Java)
 
 ### [Sección 2: Intducción a Java](Seccion02-Introduccion-a-Java)
