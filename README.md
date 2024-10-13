@@ -161,3 +161,4 @@
 
 ### [Sección 11: Funciones en Java](Seccion11-Funciones-en-Java)
 * Funciones en Java
+* Ejemplo de funciones
