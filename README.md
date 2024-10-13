@@ -4,18 +4,18 @@
 
 <details>
   <summary>Sección 2: Introducción a Java</summary>
-    ### [Sección 2: Intducción a Java](Seccion02-Introduccion-a-Java)
-    * Introducción a java
-    * Que es JDK
-    * Instalación de JDK
-    * Que es un IDE
-    * Instalación de Intellij IDEA
-    * Hola Mundo con Java
-    * Ejemplo Hola Mundo
-    * [Reto - Presentate con Java ](Seccion02-Introduccion-a-Java/V09_Reto_Presentate_con_Java/Resolucion_Reto_presentate_Con_Java/src/Presentate.java)
-    * [Solución - presentate con Java - Presentate en Java ](Seccion02-Introduccion-a-Java/V10_Solucion_Presentate_con_Java/Docs/01-09-00-Solucion-Presentate-UJ.java)
-    * Instalación de Apache NetBeans
-    * Solución Hola Mundo con NetBeans
+### [Sección 2: Intducción a Java](Seccion02-Introduccion-a-Java)
+* Introducción a java
+* Que es JDK
+* Instalación de JDK
+* Que es un IDE
+* Instalación de Intellij IDEA
+* Hola Mundo con Java
+* Ejemplo Hola Mundo
+* [Reto - Presentate con Java ](Seccion02-Introduccion-a-Java/V09_Reto_Presentate_con_Java/Resolucion_Reto_presentate_Con_Java/src/Presentate.java)
+* [Solución - presentate con Java - Presentate en Java ](Seccion02-Introduccion-a-Java/V10_Solucion_Presentate_con_Java/Docs/01-09-00-Solucion-Presentate-UJ.java)
+* Instalación de Apache NetBeans
+* Solución Hola Mundo con NetBeans
 </details>
 
 
