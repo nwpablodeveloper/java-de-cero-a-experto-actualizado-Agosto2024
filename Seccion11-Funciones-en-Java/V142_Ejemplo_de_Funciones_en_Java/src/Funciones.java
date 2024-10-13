@@ -12,5 +12,6 @@ public class Funciones {
         // Funciones en Java
         // Los contendios enviados los llamamos Argumentos
         saludar("Hola desde Java");
+        saludar("Adios!");
     }
 }
