@@ -163,3 +163,4 @@
 * Funciones en Java
 * Ejemplo de funciones
 * [Ejemplo Función sumar](Seccion11-Funciones-en-Java/V143_Ejemplo_Funcion_Sumar/src/FuncionSumar.java)
+* [Ejemplo Función esPar](Seccion11-Funciones-en-Java/V144_Ejemplo_funcion_esPar/src/FuncionEsPar.java)
