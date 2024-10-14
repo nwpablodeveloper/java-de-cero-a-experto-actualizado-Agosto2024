@@ -11,11 +11,11 @@
 * [V145 Funciones Recursivas en Java - Video Udemy](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/learn/lecture/44849963#overview)
     - Una función recursiva es una función que se vuelve a llamar a si misma
         tantas veces sea necesario.
-    ![Funcion Recursiva](V145_Funciones_Recursivas_en_Java/Docs/funcion-recursiva.jpt)
+    ![Funcion Recursiva](V145_Funciones_Recursivas_en_Java/Docs/funcion-recursiva.jpg)
     - 1 La primer regla es que una función se tiene que llamar a si misma.
-    ![1ra Regla función recursiva](V145_Funciones_Recursivas_en_Java/Docs/1-primera-regla-funcion-recursiva.jpt)
+    ![1ra Regla función recursiva](V145_Funciones_Recursivas_en_Java/Docs/1-primera-regla-funcion-recursiva.jpg)
     - Debe Avanzar hacia un caso base, de lo contrario caemos en ciclos infinitos.
-    ![2da Regla función recursiva](V145_Funciones_Recursivas_en_Java/Docs/2-segundo-avanzar-a-un-caso-base.jpt)
+    ![2da Regla función recursiva](V145_Funciones_Recursivas_en_Java/Docs/2-segundo-avanzar-a-un-caso-base.jpg)
     
 
 [Volver](../)
