@@ -16,7 +16,7 @@
     ![1ra Regla función recursiva](V145_Funciones_Recursivas_en_Java/Docs/1-primera-regla-funcion-recursiva.jpg)
     - Debe Avanzar hacia un caso base, de lo contrario caemos en ciclos infinitos.
     ![2da Regla función recursiva](V145_Funciones_Recursivas_en_Java/Docs/2-segundo-avanzar-a-un-caso-base.jpg)
-* [V146 Ejemplo Funciones Recursivas - .java](V146_Ejemplo_Funciones_Recursivas/src/FuncionesRecursivas.java)
+* [V146 Ejemplo Funciones Recursivas - .java](V146_Ejemplo_Funciones_Recursivas/src/FuncionesRecursiva.java)
     * [Función Recursiva - Video Udemy](https://www.udemy.com/course/universidad-java-especialista-en-java-desde-cero-a-master/learn/lecture/44849969#overview)
     
 
