@@ -14,7 +14,7 @@
     - Una vez que hemos definido nuestra Clase, podemos crear Objetos, a esto
         se le llama instanciar una Clase.
     * [Ejemplo de la creación de objetos - JPG](V147_Clases_y_Objetos_en_Java/Docs/Ejemplo-Objetos.jpg)
-*[V148 Creación Clase Persona en Java - .java](V148_Creacion_Clase_Persona_en_Java/src/Persona.java)
+* [V148 Creación Clase Persona en Java - .java](V148_Creacion_Clase_Persona_en_Java/src/Persona.java)
     - Un archivo de Java puede tener varias Clases, pero solo 1 Clase puede
         ser Public.
 * [V149 Creacón Objeto de tipo Persona en Java - .java](V148_Creacion_Clase_Persona_en_Java/src/Persona.java)
@@ -26,7 +26,7 @@
     - Podemos crear los constructores para inicializar los atributos de nuestros
         objetos en el momento de la instancia.
 * [V152 Sobrecarga de Constructores - .java](V152_Sobrecarga_de_Constructores/src/Aritmetica.java)
-* [V153 Operador THIS en Java](V153_Operador_This_en_Java/src/Aritmetica.java)
+* [V153 Operador THIS en Java - .java](V153_Operador_This_en_Java/src/Aritmetica.java)
     - El operador THIS apunta al objeto que se esta ejecuntando en el momento.
     - El Operador THIS solo se puede usar dentro de su misma Clase.
 
