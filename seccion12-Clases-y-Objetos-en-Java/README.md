@@ -29,5 +29,12 @@
 * [V153 Operador THIS en Java - .java](V153_Operador_This_en_Java/src/Aritmetica.java)
     - El operador THIS apunta al objeto que se esta ejecuntando en el momento.
     - El Operador THIS solo se puede usar dentro de su misma Clase.
+* [V154 Paquetes en Java](V154_Paquetes_en_Java/src)
+    - Un paquete es unc colección de archivos y directorios, Nos permite
+        organizar las Clases.
+    - Para definir los nombres de los paquetes de mas de 1 palabras vamos a 
+        usar SnakeCase (Ej: paquete_principal)
+    * [paquete artimetica](V154_Paquetes_en_Java/src/artmetica)
+    * [paquete prueba](V154_Paquetes_en_Java/src/prueba)
 
 [Volver](../)
