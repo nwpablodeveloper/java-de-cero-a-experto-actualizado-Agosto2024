@@ -19,5 +19,11 @@
         ser Public.
 * [V149 Creacón Objeto de tipo Persona en Java - .java](V148_Creacion_Clase_Persona_en_Java/src/Persona.java)
 * [V150 Clase Arítmetica en Java](V150_Clase_Aritmetica_en_Java/src/Aritmetica.java)
+* [V151 Constructores en Java](V151_Constructores_en_Java/src/)
+    - Java genere un constructor de forma automatica.
+    - En el caso de crear un constructor con parametros, estamos obligados
+        a crear manualmente un cosntructor vacio. 
+    - Podemos crear los constructores para inicializar los atributos de nuestros
+        objetos en el momento de la instancia.
 
 [Volver](../)
