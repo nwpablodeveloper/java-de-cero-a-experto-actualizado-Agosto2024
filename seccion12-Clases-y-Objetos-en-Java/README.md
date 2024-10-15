@@ -17,7 +17,7 @@
 *[V148 Creación Clase Persona en Java - .java](V148_Creacion_Clase_Persona_en_Java/src/Persona.java)
     - Un archivo de Java puede tener varias Clases, pero solo 1 Clase puede
         ser Public.
-* [V149 Creacón Objeto de tipo Persona en Java - .java](V148_Creacion_Clase_Persona_en_Java/src)
-    * [Persona.java](V148_Creacion_Clase_Persona_en_Java/src/Persona.java)
+* [V149 Creacón Objeto de tipo Persona en Java - .java](V148_Creacion_Clase_Persona_en_Java/src/Persona.java)
+* [V150 Clase Arítmetica en Java](V150_Clase_Aritmetica_en_Java/src/Aritmetica.java)
 
 [Volver](../)
