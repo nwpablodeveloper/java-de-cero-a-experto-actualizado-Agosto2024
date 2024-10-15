@@ -14,5 +14,8 @@
     - Una vez que hemos definido nuestra Clase, podemos crear Objetos, a esto
         se le llama instanciar una Clase.
     * [Ejemplo de la creación de objetos - JPG](V147_Clases_y_Objetos_en_Java/Docs/Ejemplo-Objetos.jpg)
+*[V148 Creación Clase Persona en Java - .java](V148_Creacion_Clase_Persona_en_Java/src/Persona.java)
+    - Un archivo de Java puede tener varias Clases, pero solo 1 Clase puede
+        ser Public.
 
 [Volver](../)

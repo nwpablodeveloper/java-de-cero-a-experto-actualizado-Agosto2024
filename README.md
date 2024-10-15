@@ -166,3 +166,7 @@
 * [Ejemplo Función esPar](Seccion11-Funciones-en-Java/V144_Ejemplo_funcion_esPar/src/FuncionEsPar.java)
 * Funcion Recursiva
 * [Ejemplo Funciones Recursivas](Seccion11-Funciones-en-Java/V146_Ejemplo_Funciones_Recursivas/src/FuncionRecursiva.java)
+
+### [Sección 12: Clases y Objetos en Java (POO)](seccion12-Clases-y-Objetos-en-Java)
+* Clases y Objetos en Java
+* Creación Clase Persona en Java
