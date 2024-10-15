@@ -170,3 +170,4 @@
 ### [Sección 12: Clases y Objetos en Java (POO)](seccion12-Clases-y-Objetos-en-Java)
 * Clases y Objetos en Java
 * Creación Clase Persona en Java
+* Creación Objeto de tipo Persona
