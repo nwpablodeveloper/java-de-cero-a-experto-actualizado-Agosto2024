@@ -173,3 +173,5 @@
 * Creación Objeto de tipo Persona
 * Clase Arítmetica
 * Constructores
+* Sobrecarga de constructores
+* Operador This
