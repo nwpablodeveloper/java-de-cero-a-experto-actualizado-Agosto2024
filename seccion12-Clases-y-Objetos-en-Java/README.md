@@ -34,6 +34,8 @@
         organizar las Clases.
     - Para definir los nombres de los paquetes de mas de 1 palabras vamos a 
         usar SnakeCase (Ej: paquete_principal)
+    - Necesitamos poner el modificador de acceso Public a los métodos
+        para poder llamarlos desde otra Clase.
     * [paquete artimetica](V154_Paquetes_en_Java/src/artmetica)
     * [paquete prueba](V154_Paquetes_en_Java/src/prueba)
 
