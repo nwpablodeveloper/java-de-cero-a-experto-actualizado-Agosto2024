@@ -18,12 +18,14 @@
     - Un archivo de Java puede tener varias Clases, pero solo 1 Clase puede
         ser Public.
 * [V149 Creacón Objeto de tipo Persona en Java - .java](V148_Creacion_Clase_Persona_en_Java/src/Persona.java)
-* [V150 Clase Arítmetica en Java](V150_Clase_Aritmetica_en_Java/src/Aritmetica.java)
-* [V151 Constructores en Java](V151_Constructores_en_Java/src/)
-    - Java genere un constructor de forma automatica.
+* [V150 Clase Arítmetica en Java - .java](V150_Clase_Aritmetica_en_Java/src/Aritmetica.java)
+* [V151 Constructores en Java - .java](V151_Constructores_en_Java/src/Aritmetica.java)
+    - Java genere un constructor vacio de forma automatica.
     - En el caso de crear un constructor con parametros, estamos obligados
         a crear manualmente un cosntructor vacio. 
     - Podemos crear los constructores para inicializar los atributos de nuestros
         objetos en el momento de la instancia.
+* [V152 Sobrecarga de Constructores - .java](V152_Sobrecarga_de_Constructores/src/Aritmetica.java)
+
 
 [Volver](../)
