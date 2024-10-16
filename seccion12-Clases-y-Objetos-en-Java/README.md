@@ -49,6 +49,8 @@
         Los métodos "set"(poner) nos permite modificar el valor del atributo
         * [Encapsulamiento - jpg](V155_Encapsulamiento_en_Java/Docs/encapsulamiento.jpg)
     - Los nombres de los métodos "get" y "set" los iniciaremos en mayusculas.
-
-
+* [V156 Ejemplo de Encapsulamiento en java - paquete](V156_Ejemplo_de_Encapsulamiento_en_Java/src)
+    - Los atributos se recomiendan encapsular de forma Pirvate
+    * [Clase Aritmetica - .java](V156_Ejemplo_de_Encapsulamiento_en_Java/src/aritmetica/Aritmetica.java)
+    * [Clase main PruebaArtimetica - .java](V156_Ejemplo_de_Encapsulamiento_en_Java/src/prueba/PruebaAritmetica.java)
 [Volver](../)
