@@ -61,10 +61,11 @@
         * Agregar los métodos "get" y "set" de cada atributo para aplicar encapsulamiento
         * Mover la clase a un paquete llamado persona y hacer la prueba desde
             "PruebaPersona" dentro del mismo paquete.
-            * [Clase-Persona-Encapsulada - .jpg](V157_Reto_Encapsulamiento_Clase_Persona/Docs/Clase-Persona-Encapsulada.jpg)
-            * [Clase Persona - .java](V157_Reto_Encapsulamiento_Clase_Persona/src/persona/Persona.java)
-            * [Clase PruebaPersona - .java](V157_Reto_Encapsulamiento_Clase_Persona/src/persona/PruebaPersona.java)
+    * [Clase-Persona-Encapsulada - .jpg](V157_Reto_Encapsulamiento_Clase_Persona/Docs/Clase-Persona-Encapsulada.jpg)
+    * [Clase Persona - .java](V157_Reto_Encapsulamiento_Clase_Persona/src/persona/Persona.java)
+    * [Clase PruebaPersona - .java](V157_Reto_Encapsulamiento_Clase_Persona/src/persona/PruebaPersona.java)
 * [V158 Solución - Encapsulamiento Clase Persona - .java](V158_Solucion_Encapsulamiento_Clase_Persona/src/)
-
+    * [Clase Persona - .java](V158_Solucion_Encapsulamiento_Clase_Persona/src/persona/Persona.java)
+    * [Clase PruebaPersona - .java](V158_Solucion_Encapsulamiento_Clase_Persona/src/persona/PruebaPersona.java)
 
 [Volver](../)
