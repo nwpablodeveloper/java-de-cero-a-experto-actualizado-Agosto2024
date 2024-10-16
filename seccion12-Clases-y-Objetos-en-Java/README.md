@@ -29,14 +29,26 @@
 * [V153 Operador THIS en Java - .java](V153_Operador_This_en_Java/src/Aritmetica.java)
     - El operador THIS apunta al objeto que se esta ejecuntando en el momento.
     - El Operador THIS solo se puede usar dentro de su misma Clase.
-* [V154 Paquetes en Java](V154_Paquetes_en_Java/src)
+* [V154 Paquetes en Java - paquete](V154_Paquetes_en_Java/src)
     - Un paquete es unc colección de archivos y directorios, Nos permite
         organizar las Clases.
     - Para definir los nombres de los paquetes de mas de 1 palabras vamos a 
         usar SnakeCase (Ej: paquete_principal)
     - Necesitamos poner el modificador de acceso Public a los métodos
         para poder llamarlos desde otra Clase.
-    * [paquete artimetica](V154_Paquetes_en_Java/src/aritmetica)
-    * [paquete prueba](V154_Paquetes_en_Java/src/prueba)
+    * [paquete artimetica - paquete](V154_Paquetes_en_Java/src/aritmetica)
+    * [paquete prueba - paquete](V154_Paquetes_en_Java/src/prueba)
+* [V155 Encapsulamiento en Java - paquete](V155_Encapsulamiento_en_Java/)
+    - El encapsulamiento no s permite controlar el acceso a los atributos de 
+        nuestra Clase.
+    - Pare evitar acceder a los atritubos directamente usaremos el modificador
+        de acceso "private"
+        y para poder leer o modificar los atributos crearemos métodos conocidos
+        "get" y "set"
+        Los métodos "get"(obtener) nos permiten leer el valor de un atributo
+        Los métodos "set"(poner) nos permite modificar el valor del atributo
+        * [Encapsulamiento - jpg](V155_Encapsulamiento_en_Java/Docs/encapsulamiento.jpg)
+    - Los nombres de los métodos "get" y "set" los iniciaremos en mayusculas.
+
 
 [Volver](../)
