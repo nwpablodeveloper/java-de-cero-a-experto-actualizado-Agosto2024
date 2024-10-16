@@ -9,13 +9,11 @@ public class PruebaPersona {
 
         // Mostrar el Objeto persona 1 usando los métodos publicos
         System.out.println("Persona 1");
-        System.out.println("Nombre = " + persona1.getNombre());
-        System.out.println("Apellido = " + persona1.getApellido());
+        persona1.mostrarPersona();
 
         // Mostrar Objeto Persona 2 usando los métodos públicos
         System.out.println("\nPersona 2: ");
-        System.out.println("Nombre: " + persona2.getNombre());
-        System.out.println("Apellido: " + persona2.getApellido());
+        persona2.mostrarPersona();
 
         // Corregir los errores en el nombre y apellido usando los métodos públicos set
         persona2.setNombre("Sophia");
@@ -23,7 +21,6 @@ public class PruebaPersona {
 
         // Mostrar Objeto Persona 2 usando los métodos públicos
         System.out.println("\nPersona 2 Corrección de nombre y apellido: ");
-        System.out.println("Nombre: " + persona2.getNombre());
-        System.out.println("Apellido: " + persona2.getApellido());
+        persona2.mostrarPersona();
     }
 }

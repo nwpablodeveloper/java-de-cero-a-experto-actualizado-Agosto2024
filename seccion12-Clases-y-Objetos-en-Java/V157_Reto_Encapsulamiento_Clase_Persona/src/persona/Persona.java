@@ -22,6 +22,11 @@ public class Persona {
         this.apellido = apellido;
     }
 
+    public void mostrarPersona(){
+        System.out.println("Nombre: " + this.nombre);
+        System.out.println("Apellido: " + this.apellido);
+    }
+
     public String getNombre(){
         return this.nombre;
     }
