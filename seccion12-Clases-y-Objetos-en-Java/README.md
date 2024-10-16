@@ -53,4 +53,16 @@
     - Los atributos se recomiendan encapsular de forma Pirvate
     * [Clase Aritmetica - .java](V156_Ejemplo_de_Encapsulamiento_en_Java/src/aritmetica/Aritmetica.java)
     * [Clase main PruebaArtimetica - .java](V156_Ejemplo_de_Encapsulamiento_en_Java/src/prueba/PruebaAritmetica.java)
+* [V157 Reto Encapsulamiento Clase Persona - .java](V157_Reto_Encapsulamiento_Clase_Persona/src)
+    - Aplicar las mejores vistas hasta el momento a la clase Persona.
+        * Convertir los atributos de nombre y apellido a privados.
+        * Agregar un constructor públic con los 2 argumentos de nombre y apellido.
+        * Utilizar el Operdor this en todos los lugares posibles dentro de la clase
+        * Agregar los métodos "get" y "set" de cada atributo para aplicar encapsulamiento
+        * Mover la clase a un paquete llamado persona y hacer la prueba desde
+            "PruebaPersona" dentro del mismo paquete.
+            * [Clase-Persona-Encapsulada](V157_Reto_Encapsulamiento_Clase_Persona/Docs/Clase-Persona-Encapsulada.jpg)
+
+
+
 [Volver](../)
