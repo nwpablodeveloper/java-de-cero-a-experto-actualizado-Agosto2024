@@ -67,5 +67,9 @@
 * [V158 Solución - Encapsulamiento Clase Persona - .java](V158_Solucion_Encapsulamiento_Clase_Persona/src/)
     * [Clase Persona - .java](V158_Solucion_Encapsulamiento_Clase_Persona/src/persona/Persona.java)
     * [Clase PruebaPersona - .java](V158_Solucion_Encapsulamiento_Clase_Persona/src/persona/PruebaPersona.java)
+* [V1559 Herencia en Java - .jpg](V159_Herencia_en_Java/Dcos)
+    - [Partiremos de una Clase principal (o Superclase) que la llamaremos Clase Padre](V159_Herencia_en_Java/Dcos/Clase-Padre-e-hijas.jpg)
+    - [Las Clases Hijas (o SubClases) van a heredar todos los métodos y atributos de la SuperClase](V159_Herencia_en_Java/Dcos/Clase-hija-o-SubClase.jpg)
+* [V160 Hereancia en Java, Parte I ](V160_Herencia_en_Java_Parte_1)
 
 [Volver](../)
