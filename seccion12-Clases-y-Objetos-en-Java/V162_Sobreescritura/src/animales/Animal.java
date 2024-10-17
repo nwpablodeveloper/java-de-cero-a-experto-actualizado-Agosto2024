@@ -18,6 +18,12 @@ class Perro extends Animal{
         System.out.println("Puedo ladrar");
     }
 
+    // Para sobreescribir tenemos que usar la misma firma
+    @Override // Anotación de sobreescritura, no es necesario, pero si son buenas practicas
+    protected void dormir(){
+        System.out.println("Dueromo 15 horas al día");
+    }
+
 }
 
 class PruebaAnimal{
@@ -28,7 +34,6 @@ class PruebaAnimal{
         var animal1 = new Animal();
         animal1.comer();
         animal1.dormir();
-        // animal1.hacerSonido(); Este método no existe en la clase padre
 
         System.out.println("\nClase Hija, soy un perro");
         var perro = new Perro();

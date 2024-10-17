@@ -75,6 +75,10 @@
         puedan ser accedidos por sus clase hijas
 * [V161 Hereancia en Java, Parte II - paquete](V161_Herencia_en_Java_Parte_2/src)
 * [V162 Sobreescritura - paquete](V162_Sobreescritura/src)
+    - Sobreescritura significa que vamos a modificar el comportamiento que 
+        estamos heredando de la Clase Padre.
+    - En la subClase tenemos que usar la misma firma que tiene la superClase
+        para poder realizar la sobreescritura.
 
 
 [Volver](../)
