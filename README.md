@@ -180,4 +180,6 @@
 * [Ejemplo de Encapsulamiento en java](seccion12-Clases-y-Objetos-en-Java/V156_Ejemplo_de_Encapsulamiento_en_Java/src)
 * [Solución - Encapsulamiento Clase Persona](seccion12-Clases-y-Objetos-en-Java/V158_Solucion_Encapsulamiento_Clase_Persona/src/)
 * Herencia
-* Explicación Herencia parte 1
+* Explicación Herencia parte I - Protected (Creación de Clase padre y Clase Hija)
+* Explicación Herencia parte II (Creación de los Objetos de la SuperClase y la SubClase)
+

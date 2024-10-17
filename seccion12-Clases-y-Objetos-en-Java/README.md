@@ -70,8 +70,10 @@
 * [V159 Herencia en Java - pquete](V159_Herencia_en_Java/Docs)
     - [Partiremos de una Clase principal (o Superclase) que la llamaremos Clase Padre](V159_Herencia_en_Java/Docs/Clase-Padre-e-hijas.jpg)
     - [Las Clases Hijas (o SubClases) van a heredar todos los métodos y atributos de la SuperClase](V159_Herencia_en_Java/Docs/Clase-hija-o-SubClase.jpg)
-* [V160 Hereancia en Java, Parte I ](V160_Herencia_en_Java_Parte_1)
+* [V160 Hereancia en Java, Parte I - paquete](V160_Herencia_en_Java_Parte_1/src)
     - "Protected" es el modificador que usaremos en las clases padres para que
         puedan ser accedidos por sus clase hijas
+* [V161 Hereancia en Java, Parte II - paquete](V161_Herencia_en_Java_Parte_2/src)
+
 
 [Volver](../)
