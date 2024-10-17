@@ -2,10 +2,11 @@ package animales;
 
 public class Animal {
 
+    // Usaremos el modifcador protected para que puedan acceder sus clases hijas
     protected void comer(){
         System.out.println("Como muchas veces al día");
     }
-
+    // Usaremos el modifcador protected para que puedan acceder sus clases hijas
     protected void dormir(){
         System.out.println("Duermo muchas horas");
     }
