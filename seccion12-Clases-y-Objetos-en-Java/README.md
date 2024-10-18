@@ -85,5 +85,12 @@
 * [V164 Polimorfismo en Java](V164_Polimorfismo_en_Java/Docs/polimorfismo.jpg)
     - Polimorfismo significa multiple Formas.
     - Se necesita aplicar el concepto de HERENCIA y SOBREESCRITURA
+* [V165 Ejemplo Polimorfismo en Java](V165_Ejemplo_Polimorfismo_en_Java/src)
+    - Los modificadores de acceso en las firmas puden ser usados en las
+        sobreescrituras del mas restringido al menos restringido.
+        * Private
+        * default
+        * Protected
+        * Public
 
 [Volver](../)
