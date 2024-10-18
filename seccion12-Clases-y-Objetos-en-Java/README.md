@@ -79,6 +79,8 @@
         estamos heredando de la Clase Padre.
     - En la subClase tenemos que usar la misma firma que tiene la superClase
         para poder realizar la sobreescritura.
-
+* [V163 Sobreescritura palabra Super - .java](V163_Sobreescritura_Palabra_Super/src/animales/Animal.java)
+    - La palabra Super en una sobeescritura nos permite volver a acceder a la 
+        funcionalidad definida en la clase padre
 
 [Volver](../)
