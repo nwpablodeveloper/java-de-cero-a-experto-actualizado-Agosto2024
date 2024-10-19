@@ -32,8 +32,8 @@ class PruebaAnimal{
         clase (con mas jerarquia) y así el puede apuntar a objetos de sus
         mismo tipo o a objetos de clases hijas
      */
-    // Método Polimorfico
-    // Los métodos que se llamado del método MAIN tambien tiene que ser Static
+    // Metodo Polimorfico
+    // Los métodos que se llamado del metodo MAIN tambien tiene que ser Static
     static void imprimirSonido(Animal animal){
         animal.hacerSonido();
     }
