@@ -186,4 +186,7 @@
 * Sobreescritura Palabra Super
 * Polimorfismo
 * [Ejemplo Polimorfismo en Java + Modificadores de acceso](seccion12-Clases-y-Objetos-en-Java/V165_Ejemplo_Polimorfismo_en_Java/src)
+* Clase Object - El padre de todas las Clases
+* Método toString()
+
 
