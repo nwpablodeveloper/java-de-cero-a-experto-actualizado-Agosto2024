@@ -116,7 +116,5 @@
 > Los Atributos Estáticos se asocian con la Clase y se
 > definen con algun valor inicial
 > Los atributos de instancias se asocian con el Objeto creado
-    
-
 
 [Volver](../)
