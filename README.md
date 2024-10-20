@@ -4,7 +4,7 @@
 
 <details>
 
-<summary>[Sección 2: Intducción a Java](Seccion02-Introduccion-a-Java)</summary>
+<summary>Sección 2: Intducción a Java</summary>
 
 ### [Sección 2: Intducción a Java](Seccion02-Introduccion-a-Java)
 * Introducción a java
