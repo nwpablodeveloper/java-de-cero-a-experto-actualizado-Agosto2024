@@ -3,7 +3,7 @@
 ### [Sección 1: Bienvenidos a la Universidad Java](Seccion01-Bienvenidos-a-la-Universidad-Java)
 
 <details>
-<summary>Click to expand</summary>
+<summary>>Sección 2: Intducción a Java</summary>
 
 
 * Introducción a java
@@ -22,7 +22,7 @@
 
 <details>
 
-<summary>Sección 2: Intducción a Java</summary>
+<summary</summary>
 
 ### [Sección 2: Intducción a Java](Seccion02-Introduccion-a-Java)
 
