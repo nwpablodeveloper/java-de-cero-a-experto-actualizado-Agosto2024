@@ -17,21 +17,20 @@ public class Persona {
 
     }
 
-    void mostrarPersona(){
-        System.out.println("Nombre: " + this.nombre);
-        System.out.println("Apellido: " + this.apellido);
+    // Usaremos el atributo Estático en el constructor
+    public Persona(String nombre, String apellido){
+        this.nombre = nombre;
+        this.apellido = apellido;
+        // Atributo Estático
+        Persona.contadorPeronas++;
     }
+
 
     @Override
     public String toString(){
         return "Nombre: " + this.nombre + ", Apellido: " + this.apellido
                 + "\n\nLLamando al toString de la clase Object\n" +
                 super.toString();
-    }
-
-    public Persona(String nombre, String apellido){
-        this.nombre = nombre;
-        this.apellido = apellido;
     }
 
     public String getNombre(){
