@@ -92,5 +92,12 @@
         * default
         * Protected
         * Public
+*[V166 Clase Object en Java](V166_Clase_Object_en_Java/Docs/Clase_Object_Padre_de_los_Padres.jpg)
+    - La Clase Object es la clase Padre de todas las clase en Java. 
+    - Contiene métodos como:
+        * equals() - Sirve para comparar si 2 objetos son iguales
+        * toString() - para imprimir el estado de un objeto en cierto momento
+        * hashCode() - Para generar un valor númerico para representar al
+            objeto en memoria
 
 [Volver](../)
