@@ -12,7 +12,9 @@ public class PruebaPersona {
 
         var persona2 = new Persona("Romina", "Diaz");
         System.out.println(persona2);
-        System.out.println("Variable Estática: "+ Persona.contadorPeronas);
+
+        // Desde el Objeto si podemos acceder al contexto Static
+        System.out.println("Variable Estática: "+ persona2.contadorPeronas);
 
     }
 }

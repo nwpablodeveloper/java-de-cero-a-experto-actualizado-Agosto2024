@@ -111,7 +111,7 @@
                 dentro de la misma clase.
 * [V169 Ejemplo contador de Objetos del tipo Persona](V169_Ejemplo_Contador_de_Objetos_Persona/src/persona/Persona.java)
 > [!NOTE]
-> Los Atributos Estáticos se asocian con la Clase y se 
+> Los Atributos Estáticos se asocian con la Clase y se
 > definen con algun valor inicial
 > Los atributos de instancias se asocian con el Objeto creado
     
