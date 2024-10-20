@@ -5,7 +5,7 @@
 <details>
 <summary>>Sección 2: Intducción a Java</summary>
 
-### [Sección 2: Intducción a Java](Seccion02-Introduccion-a-Java)
+
 * Introducción a java
 * Que es JDK
 * Instalación de JDK
@@ -20,6 +20,13 @@
 
 </details>
 
+<details>
+
+<summary</summary>
+
+### [Sección 2: Intducción a Java](Seccion02-Introduccion-a-Java)
+
+</details>
 
 ### [Sección 2: Intducción a Java](Seccion02-Introduccion-a-Java)
 * Introducción a java
