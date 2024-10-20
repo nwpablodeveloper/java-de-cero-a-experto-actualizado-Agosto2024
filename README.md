@@ -5,15 +5,7 @@
 <details>
 <summary>Click to expand</summary>
 
-This is the content of the collapsible section. You can include any Markdown-formatted text, lists, or code here.
 
-</details>
-
-<details>
-
-<summary>Sección 2: Intducción a Java</summary>
-
-### [Sección 2: Intducción a Java](Seccion02-Introduccion-a-Java)
 * Introducción a java
 * Que es JDK
 * Instalación de JDK
@@ -25,6 +17,14 @@ This is the content of the collapsible section. You can include any Markdown-for
 * [Solución - presentate con Java - Presentate en Java ](Seccion02-Introduccion-a-Java/V10_Solucion_Presentate_con_Java/Docs/01-09-00-Solucion-Presentate-UJ.java)
 * Instalación de Apache NetBeans
 * Solución Hola Mundo con NetBeans
+
+</details>
+
+<details>
+
+<summary>Sección 2: Intducción a Java</summary>
+
+### [Sección 2: Intducción a Java](Seccion02-Introduccion-a-Java)
 
 </details>
 
