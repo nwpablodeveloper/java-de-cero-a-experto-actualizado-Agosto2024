@@ -119,6 +119,7 @@
 * [V170 Ejemplo ID Único en Java](V170_Ejemplo_ID_Unico_en_Java/src/persona)
     * [Clase Persona](V170_Ejemplo_ID_Unico_en_Java/src/persona/Persona.java)
     * [Clase PruebaPersona](V170_Ejemplo_ID_Unico_en_Java/src/persona/PruebaPersona.java)
-* [V171 Método Estático en Java](V171_Metodo_Estatico_en_Java/src)
-
+* [V171 Método Estático en Java](V171_Metodo_Estatico_en_Java/src/persona)
+    - Podemos acceder a los atributos y métodos estaticos de la Clase sin necesidad
+        de crear ningun Objeto.
 [Volver](../)
