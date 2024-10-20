@@ -100,7 +100,7 @@
         * hashCode() - Para generar un valor númerico para representar al
             objeto en memoria
 * [V167 Método toString en Java](V167_Metodo_toString_en_Java/src/persona)
-* [V168 Contexto Estático en Java](V168_Contexto_Estatico_en_Java/Docs/Contexto_estatico_contexto_dinamico.jpg)
+* [V168 Contexto Estático en Java](V168_Contexto_Estatico_en_Java/Docs/Contexto_estatico_Variable_Estatica.jpg)
     - La creación de clases es el contexto estático.
     - La creación de Objetos es el contexto dinámico.
     - El Contexto "ESTÁTICO" no puede acceder al contexto dinámico.
@@ -109,6 +109,8 @@
             * Definir una variable Estática para contabilizar los obejtos 
                 creados de un tipo de Clase, esa variable va a ser declarada
                 dentro de la misma clase.
+* [V169 Ejemplo contador de Objetos del tipo Persona](V169_Ejemplo_Contador_de_Objetos_Persona/src/persona/Persona.java)
+    
 
 
 [Volver](../)
