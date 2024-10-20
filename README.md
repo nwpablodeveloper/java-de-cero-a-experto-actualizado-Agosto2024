@@ -3,6 +3,13 @@
 ### [Sección 1: Bienvenidos a la Universidad Java](Seccion01-Bienvenidos-a-la-Universidad-Java)
 
 <details>
+<summary>Click to expand</summary>
+
+This is the content of the collapsible section. You can include any Markdown-formatted text, lists, or code here.
+
+</details>
+
+<details>
 
 <summary>Sección 2: Intducción a Java</summary>
 
