@@ -247,5 +247,6 @@
 * Contexto Estático y Dinámico - Concepto de variable Estática.
 * [Ejemplo contador de Objetos del tipo Persona](seccion12-Clases-y-Objetos-en-Java/V169_Ejemplo_Contador_de_Objetos_Persona/src/persona/Persona.java)
 * [Ejemplo ID Único en Java](seccion12-Clases-y-Objetos-en-Java/V170_Ejemplo_ID_Unico_en_Java/src/persona)
+* Método estático
 </details>
 

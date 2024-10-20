@@ -110,11 +110,15 @@
                 creados de un tipo de Clase, esa variable va a ser declarada
                 dentro de la misma clase.
 * [V169 Ejemplo contador de Objetos del tipo Persona](V169_Ejemplo_Contador_de_Objetos_Persona/src/persona/)
-    * [Clse Persona](V169_Ejemplo_Contador_de_Objetos_Persona/src/persona/Persona.java)
-    * [Clse PruebaPersona](V169_Ejemplo_Contador_de_Objetos_Persona/src/persona/PruebaPersona.java)
+    * [Clase Persona](V169_Ejemplo_Contador_de_Objetos_Persona/src/persona/Persona.java)
+    * [Clase PruebaPersona](V169_Ejemplo_Contador_de_Objetos_Persona/src/persona/PruebaPersona.java)
 > [!NOTE]
 > Los Atributos Estáticos se asocian con la Clase y se
 > definen con algun valor inicial
 > Los atributos de instancias se asocian con el Objeto creado
+* [V170 Ejemplo ID Único en Java](V170_Ejemplo_ID_Unico_en_Java/src/persona)
+    * [Clase Persona](V170_Ejemplo_ID_Unico_en_Java/src/persona/Persona.java)
+    * [Clase PruebaPersona](V170_Ejemplo_ID_Unico_en_Java/src/persona/PruebaPersona.java)
+* [V171 Método Estático en Java](V171_Metodo_Estatico_en_Java/src)
 
 [Volver](../)
