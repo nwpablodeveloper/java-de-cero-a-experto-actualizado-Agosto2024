@@ -109,7 +109,9 @@
             * Definir una variable Estática para contabilizar los obejtos 
                 creados de un tipo de Clase, esa variable va a ser declarada
                 dentro de la misma clase.
-* [V169 Ejemplo contador de Objetos del tipo Persona](V169_Ejemplo_Contador_de_Objetos_Persona/src/persona/Persona.java)
+* [V169 Ejemplo contador de Objetos del tipo Persona](V169_Ejemplo_Contador_de_Objetos_Persona/src/persona/)
+    * [Clse Persona](V169_Ejemplo_Contador_de_Objetos_Persona/src/persona/Persona.java)
+    * [Clse PruebaPersona](V169_Ejemplo_Contador_de_Objetos_Persona/src/persona/PruebaPersona.java)
 > [!NOTE]
 > Los Atributos Estáticos se asocian con la Clase y se
 > definen con algun valor inicial
