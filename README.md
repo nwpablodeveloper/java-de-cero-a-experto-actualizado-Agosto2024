@@ -22,18 +22,10 @@
 * [Solución - presentate con Java - Presentate en Java ](Seccion02-Introduccion-a-Java/V10_Solucion_Presentate_con_Java/Docs/01-09-00-Solucion-Presentate-UJ.java)
 * Instalación de Apache NetBeans
 * Solución Hola Mundo con NetBeans
-
 </details>
 
 <details>
-
-<summary</summary>
-
-
-
-</details>
-
-
+    <summary>Sección 3: Variables en Java</summary>
 ### [Sección 3: Variables en Java](Seccion03-Variables-en-Java)
 * Variables en Java
 * Ejemplo de Variables en Java
@@ -53,7 +45,10 @@
 * Constantes en Java
 * [Reto Reserva de Hoteles ](Seccion03-Variables-en-Java/V29_Reserva_de_Hoteles/src/ReservaHotel.java)
 * [Solución - Reserva Hotel ](Seccion03-Variables-en-Java/V30_Solucion_Reserva_hoteles/src/ReservaHoteles.java)
+</details>
 
+<details>
+    <summary>Sección 4: Manejo de Cadenas en Java</summary>
 ### [Sección 4: Manejo de Cadenas en Java](Seccion04-Manejo-de-cadenas-en-Java)
 * Menejo de Cadenas en java
 * Ejemplo de Cadenas en Java
@@ -69,6 +64,10 @@
 * [Reto Generador de Email ](Seccion04-Manejo-de-cadenas-en-Java/V42_Reto_Generador_de_Emails/src/GeneradorEmail.java)
 * [Solución - Generador de Emails ](Seccion04-Manejo-de-cadenas-en-Java/V43_Solucion_Generador_de_Emails/src/GeneradroEmails.java)
 
+</details>
+
+<details>
+    <summary>Sección 5: Entrada de datos por consola en Java</summary>
 ### [Sección 5: Entrada de datos por consola en Java](Seccion05-Entrada-de-datos-por-consola-en-java)
 * Clase Scanner y Entrada de Datos
 * Leer Tipo de datos en Java
@@ -82,6 +81,27 @@
 * [Reto - Generador de ID Único ](Seccion05-Entrada-de-datos-por-consola-en-java/V53_Reto_Generador_de_ID_Unico/src/GeneradorIDUnico.java)
 * [Solución - Generador de ID Único ](Seccion05-Entrada-de-datos-por-consola-en-java/V54_Solucion_Generador_de_ID_Unico/src/GeneradorIdUnico.java)
 
+</details>
+
+<details>
+    <summary>Sección 5: Entrada de datos por consola en Java</summary>
+### [Sección 5: Entrada de datos por consola en Java](Seccion05-Entrada-de-datos-por-consola-en-java)
+* Clase Scanner y Entrada de Datos
+* Leer Tipo de datos en Java
+* Conversión Tipos de Datos por Consola
+* Ejemplo - Sistema de Empleados
+* [Reto - Proyecto Recetas de Cocina](Seccion05-Entrada-de-datos-por-consola-en-java/V48_Reto_Proyecto_Recetas_de_Cocina/src/RecetasCocina.java)
+* [Solución - Proyecto Recestas de Cocina ](Seccion05-Entrada-de-datos-por-consola-en-java/V49_Solucion_Proyecto_Recetas_de_Cocina/src/RecetasCocina.java)
+* Números Aleatorios - clase Random en Java
+* Formateo de Cadenas en Java
+* Formateo de Cadenas parte 2
+* [Reto - Generador de ID Único ](Seccion05-Entrada-de-datos-por-consola-en-java/V53_Reto_Generador_de_ID_Unico/src/GeneradorIDUnico.java)
+* [Solución - Generador de ID Único ](Seccion05-Entrada-de-datos-por-consola-en-java/V54_Solucion_Generador_de_ID_Unico/src/GeneradorIdUnico.java)
+
+</details>
+
+<details>
+    <summary>Sección 6: Operadores en Java</summary>
 ### [Sección 6: Operadores en Java](Seccion06-Operadores-en-java)
 * Operadores en Java
 * Operadores Aritméticos en Java
@@ -103,6 +123,10 @@
 * [Solución Cálculo del Área de un Rectángulo ](Seccion06-Operadores-en-java/V72_Solucion_Calculo_del_Area_de_un_Rectangulo/src/CalculoAreaRectangulo.java)
 * Precedencia de Operadores en Java
 
+</details>
+
+<details>
+    <summary>Sección 7: Sentencias de Decisión en Java</summary>
 ### [Sección 7: Sentencias de Decisión en Java](Seccion07-Sentencias-de-Decision-en-java)
 * Sentencias de Control en Java
 * Diagrama de flujo
@@ -134,6 +158,10 @@
 * [Reto - Sistema de Autenticación ](Seccion07-Sentencias-de-Decision-en-java/V101_Reto_Sistema_de_Autenticacion/src/SistemaAutenticacion.java)
 * [Solución - Sistema de Autenticación ](Seccion07-Sentencias-de-Decision-en-java/V102_Solucion_Sistema_de_Autenticacion/src/SistemaAutenticacion.java)
 
+</details>
+
+<details>
+    <summary>Sección 8: Ciclos en Java</summary>
 ### [Sección 8: Ciclos en Java](Seccion08-Ciclos-en-java)
 * Ciclos en Java
 * Ejercicio Ciclo While en Java
@@ -158,6 +186,10 @@
 * [Solución - Reto juego de Adivinanzas](Seccion08-Ciclos-en-java/V122_Solucion_Reto_Juego_de_Adivinanza/src/JuegoAdivinanza.java)
 * [Ejemplo - Dibujar Triangulo de ateriscos](Seccion08-Ciclos-en-java/V123_Ejemplo_dibujar_Rectangulo/src/DibujaTriangulo.java)
 
+</details>
+
+<details>
+    <summary>Sección 9: Arreglos en Java</summary>
 ### [Sección 9: Arreglos en Java](Seccion09-Arreglos-en-java)
 * Arreglos en Java
 * Declarar e inicializar Arreglo 
@@ -169,6 +201,10 @@
 * [Reto - Promedio de Calificaciones](Seccion09-Arreglos-en-java/V132_Reto_Promedio_de_Calificaciones/src/RetoPromedioCalificaciones.java)
 * [Solución - Promedio de Calificaciones](Seccion09-Arreglos-en-java/V133_Solucion_Promedio_de_Calificaciones/src/PromedioCalificaciones.java)
 
+</details>
+
+<details>
+    <summary>Seccion 10: Matrices en Java</summary>
 ### [Seccion 10: Matrices en Java](Seccion10-Matrices-en-Java)
 * Que es una Matriz
 * Ejemplos
@@ -178,6 +214,10 @@
 * [Reto - Suma Diagonal de una Matriz](Seccion10-Matrices-en-Java/V139_Reto_Suma_Diagonal_de_una_matriz/src/RetoSumaDiagonal.java)
 * [Solución - Suma Diagonal de una matriz](Seccion10-Matrices-en-Java/V140_Solucion_Suma_Diagonal_de_una_Matriz/src/DiagonalMatriz.java)
 
+</details>
+
+<details>
+    <summary>Sección 11: Funciones en Java</summary>
 ### [Sección 11: Funciones en Java](Seccion11-Funciones-en-Java)
 * Funciones en Java
 * Ejemplo de funciones
@@ -186,6 +226,10 @@
 * Funcion Recursiva
 * [Ejemplo Funciones Recursivas](Seccion11-Funciones-en-Java/V146_Ejemplo_Funciones_Recursivas/src/FuncionRecursiva.java)
 
+</details>
+
+<details>
+    <summary>Sección 12: Clases y Objetos en Java (POO)</summary>
 ### [Sección 12: Clases y Objetos en Java (POO)](seccion12-Clases-y-Objetos-en-Java)
 * Clases y Objetos en Java
 * Creación Clase Persona en Java
@@ -210,3 +254,5 @@
 * Contexto Estático y Dinámico - Concepto de variable Estática.
 * [Ejemplo contador de Objetos del tipo Persona](seccion12-Clases-y-Objetos-en-Java/V169_Ejemplo_Contador_de_Objetos_Persona/src/persona/Persona.java)
 * [Ejemplo ID Único en Java](seccion12-Clases-y-Objetos-en-Java/V170_Ejemplo_ID_Unico_en_Java/src/persona)
+</details>
+
