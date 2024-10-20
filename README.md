@@ -50,6 +50,7 @@
 
 <details>
     <summary>Sección 4: Manejo de Cadenas en Java</summary>
+
 ### [Sección 4: Manejo de Cadenas en Java](Seccion04-Manejo-de-cadenas-en-Java)
 * Menejo de Cadenas en java
 * Ejemplo de Cadenas en Java
@@ -69,6 +70,7 @@
 
 <details>
     <summary>Sección 5: Entrada de datos por consola en Java</summary>
+
 ### [Sección 5: Entrada de datos por consola en Java](Seccion05-Entrada-de-datos-por-consola-en-java)
 * Clase Scanner y Entrada de Datos
 * Leer Tipo de datos en Java
@@ -86,6 +88,7 @@
 
 <details>
     <summary>Sección 5: Entrada de datos por consola en Java</summary>
+
 ### [Sección 5: Entrada de datos por consola en Java](Seccion05-Entrada-de-datos-por-consola-en-java)
 * Clase Scanner y Entrada de Datos
 * Leer Tipo de datos en Java
@@ -103,6 +106,7 @@
 
 <details>
     <summary>Sección 6: Operadores en Java</summary>
+
 ### [Sección 6: Operadores en Java](Seccion06-Operadores-en-java)
 * Operadores en Java
 * Operadores Aritméticos en Java
@@ -128,6 +132,7 @@
 
 <details>
     <summary>Sección 7: Sentencias de Decisión en Java</summary>
+
 ### [Sección 7: Sentencias de Decisión en Java](Seccion07-Sentencias-de-Decision-en-java)
 * Sentencias de Control en Java
 * Diagrama de flujo
@@ -163,6 +168,7 @@
 
 <details>
     <summary>Sección 8: Ciclos en Java</summary>
+
 ### [Sección 8: Ciclos en Java](Seccion08-Ciclos-en-java)
 * Ciclos en Java
 * Ejercicio Ciclo While en Java
@@ -191,6 +197,7 @@
 
 <details>
     <summary>Sección 9: Arreglos en Java</summary>
+
 ### [Sección 9: Arreglos en Java](Seccion09-Arreglos-en-java)
 * Arreglos en Java
 * Declarar e inicializar Arreglo 
@@ -206,6 +213,7 @@
 
 <details>
     <summary>Seccion 10: Matrices en Java</summary>
+
 ### [Seccion 10: Matrices en Java](Seccion10-Matrices-en-Java)
 * Que es una Matriz
 * Ejemplos
@@ -219,6 +227,7 @@
 
 <details>
     <summary>Sección 11: Funciones en Java</summary>
+
 ### [Sección 11: Funciones en Java](Seccion11-Funciones-en-Java)
 * Funciones en Java
 * Ejemplo de funciones
@@ -231,6 +240,7 @@
 
 <details>
     <summary>Sección 12: Clases y Objetos en Java (POO)</summary>
+
 ### [Sección 12: Clases y Objetos en Java (POO)](seccion12-Clases-y-Objetos-en-Java)
 * Clases y Objetos en Java
 * Creación Clase Persona en Java
