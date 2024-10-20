@@ -26,6 +26,7 @@
 
 <details>
     <summary>Sección 3: Variables en Java</summary>
+
 ### [Sección 3: Variables en Java](Seccion03-Variables-en-Java)
 * Variables en Java
 * Ejemplo de Variables en Java
