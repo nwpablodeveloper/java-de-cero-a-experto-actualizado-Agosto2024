@@ -122,4 +122,10 @@
 * [V171 Método Estático en Java](V171_Metodo_Estatico_en_Java/src/persona)
     - Podemos acceder a los atributos y métodos estaticos de la Clase sin necesidad
         de crear ningun Objeto.
+* [V172 Proyecto Sistema de Ventas](V172_Proyecto_Sistema_de_Ventas/Docs)
+    * [Proyecto](V172_Proyecto_Sistema_de_Ventas/Docs/proyecto.jpg)
+        - La Clase de Producto se asocia a la Clase Orden
+    * [Vista App](V172_Proyecto_Sistema_de_Ventas/Docs/vista-app.jpg)
+
+
 [Volver](../)
