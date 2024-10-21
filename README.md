@@ -249,5 +249,6 @@
 * [Ejemplo ID Único en Java](seccion12-Clases-y-Objetos-en-Java/V170_Ejemplo_ID_Unico_en_Java/src/persona)
 * Método estático
 * Proyecto Sistema de Ventas
+* [Creación Clase Producto - Sistema de Ventas](seccion12-Clases-y-Objetos-en-Java/V173_Creacion_Clase_Producto/src/ventas/Producto.java)
 </details>
 

@@ -124,8 +124,13 @@
         de crear ningun Objeto.
 * [V172 Proyecto Sistema de Ventas](V172_Proyecto_Sistema_de_Ventas/Docs)
     * [Proyecto](V172_Proyecto_Sistema_de_Ventas/Docs/proyecto.jpg)
-        - La Clase de Producto se asocia a la Clase Orden
+        - La Clase de Orde se asocia a la Clase Producto por que tiene un Array de productos
     * [Vista App](V172_Proyecto_Sistema_de_Ventas/Docs/vista-app.jpg)
-
+* [V173 Creación Clase Producto - Sistema de Ventas](V173_Creacion_Clase_Producto/src/ventas)
+    * [Clase Producto](V173_Creacion_Clase_Producto/src/ventas/Producto.java)
+    * [Clase PruebaProducto](V173_Creacion_Clase_Producto/src/ventas/PruebaProducto.java)
+> [!NOTE]
+> Comenzamos con la clase que no tiene relación con ninguna
+> otra Clase
 
 [Volver](../)
