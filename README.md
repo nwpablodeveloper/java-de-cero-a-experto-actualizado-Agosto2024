@@ -255,8 +255,9 @@
 * Método estático
 * Proyecto Sistema de Ventas
 * [Creación Clase Producto y PruebaVentas - Sistema de Ventas](seccion12-Clases-y-Objetos-en-Java/V173_Creacion_Clase_Producto/src/ventas/Producto.java)
-* [V174 Creacion Clase Orden Parte I](seccion12-Clases-y-Objetos-en-Java/V174_Creacion_Clase_Orden_Parte_I/src/ventas)
-* [V175 Creacion Clase Orden Parte II](seccion12-Clases-y-Objetos-en-Java/V175_Creacion_Clase_Orden_Parte_II/src/ventas)
+* [Creacion Clase Orden Parte I](seccion12-Clases-y-Objetos-en-Java/V174_Creacion_Clase_Orden_Parte_I/src/ventas)
+* [Creacion Clase Orden Parte II](seccion12-Clases-y-Objetos-en-Java/V175_Creacion_Clase_Orden_Parte_II/src/ventas)
+* [Proyecto Sistema de Ventas finalizado](seccion12-Clases-y-Objetos-en-Java/V176_Creacion_Clase_Prueba_de_Ventas/src/ventas)
 </details>
 
 

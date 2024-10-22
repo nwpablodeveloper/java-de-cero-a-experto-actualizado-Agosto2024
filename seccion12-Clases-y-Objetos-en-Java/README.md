@@ -136,7 +136,9 @@
 * [V175 Creacion Clase Orden Parte II](V175_Creacion_Clase_Orden_Parte_II/src/ventas)
     * [Clase Producto](V175_Creacion_Clase_Orden_Parte_II/src/ventas/Producto.java)
     * [Clase Orden](V175_Creacion_Clase_Orden_Parte_II/src/ventas/Orden.java)
-
-
+* [V176 Clase de Prueba de Sistema de Ventas](V176_Creacion_Clase_Prueba_de_Ventas/src/ventas)
+    * [Clase Producto](V176_Creacion_Clase_Prueba_de_Ventas/src/ventas/Producto.java)
+    * [Clase Orden](V176_Creacion_Clase_Prueba_de_Ventas/src/ventas/Orden.java)
+    * [Clase PruebaVentas](V176_Creacion_Clase_Prueba_de_Ventas/src/ventas/PruebaVentas.java)
 
 [Volver](../)
