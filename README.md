@@ -267,7 +267,7 @@
 ### Temas Avanzados
 
 <details>
-    <summary>Temas Avanzados</summary>
+    <summary>Sección 13: Temas Avanzados</summary>
 
 ### [Sección 13: Temas Avanzados](Seccion13-Temas-Avanzados-de-Java)
 * Argumentos Variables en Java
