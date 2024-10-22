@@ -3,7 +3,7 @@
 <details>
     <summary>Fundamentos de Programación con Java</summary>
 
-### Fundamentos con Java
+### Fundamentos de Programación con Java
 
 <details>
     <summary>Sección 1: Bienvenidos a la Universidad Java</summary>
@@ -261,7 +261,6 @@
 </details>
 
 </details>
-
 <details>
     <summary>Temas Avanzados</summary>
 
@@ -270,7 +269,8 @@
 <details>
     <summary>Temas Avanzados</summary>
 
-* [V177 Argumentos Variables en Java]()
+### [Sección 13: Temas Avanzados](Seccion13-Temas-Avanzados-de-Java)
+* Argumentos Variables en Java
 
 </details>
 
