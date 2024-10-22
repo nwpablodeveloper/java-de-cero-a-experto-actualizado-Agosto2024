@@ -127,10 +127,12 @@
         - La Clase de Orde se asocia a la Clase Producto por que tiene un Array de productos
     * [Vista App](V172_Proyecto_Sistema_de_Ventas/Docs/vista-app.jpg)
 * [V173 Creación Clase Producto - Sistema de Ventas](V173_Creacion_Clase_Producto/src/ventas)
+    - Comenzamos con la clase que no tiene relación con ninguna otra Clase.
     * [Clase Producto](V173_Creacion_Clase_Producto/src/ventas/Producto.java)
     * [Clase PruebaVentas](V173_Creacion_Clase_Producto/src/ventas/PruebaVentas.java)
-> [!NOTE]
-> Comenzamos con la clase que no tiene relación con ninguna
-> otra Clase
+* [V174 Creacion Clase Orden Parte I](V174_Creacion_Clase_Orden_Parte_I/src/ventas)
+    * [Clase Producto](V174_Creacion_Clase_Orden_Parte_I/src/ventas/Producto.java)
+    * [Clase PruebaVentas](V174_Creacion_Clase_Orden_Parte_I/src/ventas/PruebaVentas.java)
+
 
 [Volver](../)
