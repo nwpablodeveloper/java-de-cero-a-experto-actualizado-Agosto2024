@@ -274,6 +274,7 @@
 * Clases Abstractas
 * Interfaces
 * JavaBeans
+* Manejo de Excepciones
 </details>
 
 </details>

@@ -26,5 +26,8 @@
             sus Setters y Gettesrs para acceder a los atributos.
         * Debe implementar la Interface Seralizable. (Permite enviar a nuestros
             objetos por la red o adiscos duros)
+* [V182 Manejo de Excepciones en Java](V182_Manjejo_de_Excepciones_en_Java/src/Excepciones.java)
+    - Las excepciones pueden aparecer en tiempo de ejecución
+        por ejemplo dividir a un numero entre 0 va dar un error en ejecución y no de código.
 
 [Volver](../)
