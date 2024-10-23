@@ -272,6 +272,8 @@
 * Argumentos Variables en Java
 * Ciclo ForEach
 * Clases Abstractas
+* Interfaces
+* JavaBeans
 </details>
 
 </details>
