@@ -12,6 +12,9 @@ public class PruebaAritmetica {
             System.out.println("resultado = " + resultado);
         }catch (Exception e){
             System.out.println("Error:\n\t" + e);
+        } finally {
+            System.out.println("Este bloque siempre se ejecuta sin importar " +
+                    "si hay o no hay error");
         }
     }
 }

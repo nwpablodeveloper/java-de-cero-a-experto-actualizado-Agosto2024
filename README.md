@@ -275,7 +275,7 @@
 * Interfaces
 * JavaBeans
 * Manejo de Excepciones
-* Menejo de Excepciontes desde un paquete exclusivo
+* Menejo de Excepciontes, Try Catch y Finaly
 </details>
 
 </details>
