@@ -29,5 +29,6 @@
 * [V182 Manejo de Excepciones en Java](V182_Manjejo_de_Excepciones_en_Java/src/Excepciones.java)
     - Las excepciones pueden aparecer en tiempo de ejecución
         por ejemplo dividir a un numero entre 0 va dar un error en ejecución y no de código.
+* [V182 Manejo de Excepciones en Java Parte II](V182_Manjejo_de_Excepciones_en_Java_Parte_II/src/excepciones/)
 
 [Volver](../)
