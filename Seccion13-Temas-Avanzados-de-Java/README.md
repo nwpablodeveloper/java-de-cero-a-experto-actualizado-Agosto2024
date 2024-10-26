@@ -47,8 +47,8 @@
                     vamos a usar la Clase SortedSet para crear Objetos, la misma nos va a ayudar
                     a crear un orden ya que por defecto la Interfacse Set no lo hace. (Sorted = oredenar y Set = no
                     permitir elementos duplicados).
-                - Interface Map (o Diccionario) - Permite crear un mapa de los elementos como un diccionario
-                    vamos a tener la información en la fomra de llave/valor, para ello vamos a hacer 
+                - Interface Map (o Diccionario) - Permite crear un mapa de los elementos como un diccionario,
+                    vamos a tener la información en forma de llave/valor y para ello vamos a hacer 
                         uso de la Clase HashMap.
                         
 
