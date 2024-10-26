@@ -38,7 +38,7 @@
         y otras no, algunas tienen sus elementos oredenados y otras no. 
         * java.util (paquete)
             - Tiene la INTERFACE Collection, es la colección padre de todo los tipos de colecciones.
-                Sus interfaces hijas como son List y Set.
+                Algunas de sus interfaces hijas son List y Set.
                 - Interface List - Permite elementos duplicados y mantienen un orden en el que se agregan
                     los elementos.
                     Para crear objetos (LAS INTERFACES NO PERMITEN CREAR OBJETOS) vamos a usar
