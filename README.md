@@ -277,6 +277,8 @@
 * Manejo de Excepciones
 * Menejo de Excepciontes, Try Catch y Finaly
 * Colecciones
+* Listas
+* Definir el tipo de dato que almacena la List
 </details>
 
 </details>
