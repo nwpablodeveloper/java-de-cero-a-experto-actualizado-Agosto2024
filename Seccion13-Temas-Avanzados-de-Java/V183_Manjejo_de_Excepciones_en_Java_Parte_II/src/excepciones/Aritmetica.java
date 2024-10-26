@@ -16,6 +16,5 @@ public class Aritmetica {
 
         var resultado = numerador /  denominador;
         return resultado;
-
     }
 }
