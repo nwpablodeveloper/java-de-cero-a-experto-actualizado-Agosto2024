@@ -19,6 +19,7 @@
             // Conjunto de métodos a para que las clases implementen
         }
     ```
+    - No permite crear Objetos del tipo Interfaces, no se puede
 * [V181 JavaBeans en Java](V181_JavaBeans_en_Java/src/JavaBeans.java)
     - Es una clase de Java que debe cubrir ciertas características.
         * Debe de tener un constructor vacío. Aunque puede tener más constructores
@@ -32,5 +33,23 @@
 * [V183 Manejo de Excepciones en Java Parte II](V183_Manjejo_de_Excepciones_en_Java_Parte_II/src/excepciones/)
     * [Excepción de Aritmetica](V183_Manjejo_de_Excepciones_en_Java_Parte_II/src/excepciones/Aritmetica.java)
     * [Clase de Prueba](V183_Manjejo_de_Excepciones_en_Java_Parte_II/src/excepciones/PruebaAritmetica.java)
+* [V184 Colecciones en Java](V184_Colecciones_en_Java/src/Docs/Colecciones.jpg)
+    - Una colección representa un grupo de objetos. Algunas colecciones permiten elementos duplicados
+        y otras no, algunas tienen sus elementos oredenados y otras no. 
+            * java.util (paquete)
+                - Tiene la INTERFACE Collection, es la colección padre de todo los tipos de colecciones.
+                    Sus interfaces hijas como son List y Set.
+                    - Interface List - Permite elementos duplicados y mantienen un orden en el que se agregan
+                        los elementos.
+                        Para crear objetos (LAS INTERFACES NO PERMITEN CREAR OBJETOS) vamos a usar
+                        la Clase ArrayList.
+                    - Interface Set - No permiten elementos duplicados y son desordenadas. En esta caso
+                        vamos a usar la Clase SortedSet para crear Objetos, la misma nos va a ayudar
+                        a crear un orden ya que por defecto no lo hace. (Sorted = oredenar y Set = no
+                        permitir elementos duplicados).
+                    - Interface Map (o Diccionario) - Permite crear un mapa de los elementos como un diccionario
+                        vamos a tener la información en la fomra de llave/valor, para ello vamos a hacer 
+                        uso de la Clase HashMap.
+                        
 
 [Volver](../)

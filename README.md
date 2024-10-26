@@ -276,6 +276,7 @@
 * JavaBeans
 * Manejo de Excepciones
 * Menejo de Excepciontes, Try Catch y Finaly
+* Colecciones
 </details>
 
 </details>
