@@ -280,6 +280,7 @@
 * Listas
 * Definir el tipo de dato que almacena la List
 * Funciones Lambda
+* Métodos de Referencia para imprimir Listas
 </details>
 
 </details>
