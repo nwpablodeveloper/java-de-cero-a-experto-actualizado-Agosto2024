@@ -59,7 +59,7 @@
             // Codigo acá
         });
     ``` 
-* [V188 Métdos de Referencia en Java](V188_Metodos_de_Referencia_en_Java/src)
+* [V188 Métdos de Referencia en Java](V188_Metodos_de_Referencia_en_Java/src/Listas.java)
                         
 
 [Volver](../)
