@@ -283,6 +283,7 @@
 * Métodos de Referencia para imprimir Listas
 * Sets
 * Mapas
+* [Planteo Proyecto de Maquina de Snack](Seccion13-Temas-Avanzados-de-Java/V191_Proyecto_de_Maquina_de_Snack/src/)
 </details>
 
 </details>
