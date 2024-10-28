@@ -64,10 +64,11 @@
 * [V189 Sets en Java](V189_Sets_en_Java/src/Sets.java)
     - Los Sets No permiten elementos duplicados y NO mantiene el orden en que fue creado
 * [V190 Manejo de Mpas en java](V190_Manejo_de_Mapas/src/Mapa.java)
-* [V191 Planteo Proyecto de Maquina de Snack - JPG](V191_Proyecto_de_Maquina_de_Snack/Docs/proyecto-maquina-de-Snacks.jpg)
+* [V191 Presentación Proyecto de Maquina de Snack - JPG](V191_Proyecto_de_Maquina_de_Snack/Docs/proyecto-maquina-de-Snacks.jpg)
     - [proyecto maquina de Snacks - JPG](V191_Proyecto_de_Maquina_de_Snack/Docs/proyecto-maquina-de-Snacks.jpg)
     - [app proyecto maquina de Snacks - JPG](V191_Proyecto_de_Maquina_de_Snack/Docs/app-proyecto-maquina-de-Snacks.jpg)
-
+* [V192 Proyecto Maquina de Snacks](V192_Cracion_de_la_Clase_Snack/src/maquina_snacks)
+    - [Clase Sncack](V192_Cracion_de_la_Clase_Snack/src/maquina_snacks/Snack.java)
                         
 
 [Volver](../)
