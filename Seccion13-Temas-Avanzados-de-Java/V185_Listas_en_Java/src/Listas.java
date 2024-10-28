@@ -1,7 +1,8 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
-public class LIstas {
+public class Listas {
     public static void main(String[] args) {
 
         /*
@@ -24,5 +25,7 @@ public class LIstas {
             System.out.println("Día de la semana: " + dia);
         }
 
+        // Otra forma de crar listas
+        List<String> listArray = Arrays.asList("Pablo", "Sophia","Romina");
     }
 }
