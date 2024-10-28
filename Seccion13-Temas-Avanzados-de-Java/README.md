@@ -51,6 +51,7 @@
                     vamos a tener la información en forma de llave/valor y para ello vamos a hacer 
                         uso de la Clase HashMap.
 * [V185 Listas en Java](V185_Listas_en_Java/src/Listas.java)
+    - Las listas PERMITEN ELEMENTOS DUPLICADOS y mantienen el orden en que se fue creando
 * [V186 Manejos de Genéricos](V186_Manejo_de_Genericos/src/Listas.java)
     - Definir el tipo de dato para las listas
 * [V187 Funciones Lambda en Java](V187_Funciones_Lambda/src/Listas.java)
@@ -60,6 +61,8 @@
         });
     ``` 
 * [V188 Métdos de Referencia en Java](V188_Metodos_de_Referencia_en_Java/src/Listas.java)
+* [V189 Sets en Java](V189_Sets_en_Java/src/Sets.java)
+    - Los Sets No permiten elementos duplicados y NO mantiene el orden en que fue creado
                         
 
 [Volver](../)
