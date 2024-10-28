@@ -279,6 +279,7 @@
 * Colecciones
 * Listas
 * Definir el tipo de dato que almacena la List
+* Funciones Lambda
 </details>
 
 </details>

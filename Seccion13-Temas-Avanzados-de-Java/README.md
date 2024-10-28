@@ -52,6 +52,13 @@
                         uso de la Clase HashMap.
 * [V185 Listas en Java](V185_Listas_en_Java/src/Listas.java)
 * [V186 Manejos de Genéricos](V186_Manejo_de_Genericos/src/Listas.java)
+    - Definir el tipo de dato para las listas
+* [V187 Funciones Lambda en Java](V187_Funciones_Lambda/src/Listas.java)
+    ```
+        miLista.forEach(elemento -> {
+            // Codigo acá
+        });
+    ``` 
                         
 
 [Volver](../)
