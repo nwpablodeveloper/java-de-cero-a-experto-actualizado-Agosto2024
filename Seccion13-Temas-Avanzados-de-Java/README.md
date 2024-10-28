@@ -68,7 +68,8 @@
     - [proyecto maquina de Snacks - JPG](V191_Proyecto_de_Maquina_de_Snack/Docs/proyecto-maquina-de-Snacks.jpg)
     - [app proyecto maquina de Snacks - JPG](V191_Proyecto_de_Maquina_de_Snack/Docs/app-proyecto-maquina-de-Snacks.jpg)
 * [V192 Proyecto Maquina de Snacks](V192_Cracion_de_la_Clase_Snack/src/maquina_snacks)
-    - [Clase Sncack](V192_Cracion_de_la_Clase_Snack/src/maquina_snacks/Snack.java)
+    - [V192 - Clase Sncack](V192_Cracion_de_la_Clase_Snack/src/maquina_snacks/Snack.java)
+    - [V193 - Cración de la lista Statica de Snacks](V193_Cracion_de_la_Lista_de_Sncacks/src/maquina_snacks/Snacks.java)
                         
 
 [Volver](../)
