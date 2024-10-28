@@ -282,6 +282,7 @@
 * Funciones Lambda
 * Métodos de Referencia para imprimir Listas
 * Sets
+* Mapas
 </details>
 
 </details>
