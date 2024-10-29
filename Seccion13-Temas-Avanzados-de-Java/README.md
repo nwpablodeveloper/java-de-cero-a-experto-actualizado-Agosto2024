@@ -68,10 +68,11 @@
     - [proyecto maquina de Snacks - JPG](V191_Proyecto_de_Maquina_de_Snack/Docs/proyecto-maquina-de-Snacks.jpg)
     - [app proyecto maquina de Snacks - JPG](V191_Proyecto_de_Maquina_de_Snack/Docs/app-proyecto-maquina-de-Snacks.jpg)
 * [V192 Proyecto Maquina de Snacks](V194_Maquina_de_Snack_Parte_I/src/maquina_snacks)
-    - [V192 - Clase Sncack](V194_Maquina_de_Snack_Parte_I/src/maquina_snacks/Snack.java)
-    - [V193 - Inciar Bloque estatico - Cración de la lista Statica de Snacks](V194_Maquina_de_Snack_Parte_I/src/maquina_snacks/Snacks.java)
-    - [V194 - Maquina de Snacks - Parte I](V194_Maquina_de_Snack_Parte_I/src/maquina_snacks/Snacks.java)
-    - [V195 - Maquina de Snacks - Parte II](V194_Maquina_de_Snack_Parte_I/src/maquina_snacks/Snacks.java)
+    - [V192 - Clase Sncack]()
+    - [V193 - Inciar Bloque estatico - Cración de la lista Statica de Snacks]()
+    - [V194 - Maquina de Snacks - Parte I]()
+    - [V195 - Maquina de Snacks - Parte II - Agregar productos a la compra]()
+    - [V196 - Maquina de Snacks - Parte III - Mostrar Ticket]()
     
 
 [Volver](../)
