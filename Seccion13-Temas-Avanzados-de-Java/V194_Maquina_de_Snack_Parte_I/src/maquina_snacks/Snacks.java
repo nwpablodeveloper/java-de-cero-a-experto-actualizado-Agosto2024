@@ -16,11 +16,7 @@ public class Snacks {
         snacks.add(new Snack("Sandwich", 120));
     }
 
-    public static void agregarSnack(Snack snack){
-        snacks.add(snack);
-    }
-
-    public static void mostrarSnacks(){
+    public static void agregarSnack(){
         var inventarioSnacks = "";
         for (var snack: snacks){
             inventarioSnacks += snack.toString() + "\n";

@@ -284,7 +284,7 @@
 * Sets
 * Mapas
 * [Planteo Proyecto de Maquina de Snack](Seccion13-Temas-Avanzados-de-Java/)
-* [Bloque estatico inicializado](Seccion13-Temas-Avanzados-de-Java/V193_Cracion_de_la_Lista_de_Sncacks/src/maquina_snacks/Snacks.java)
+* [Iniciar un Bloque estatico](Seccion13-Temas-Avanzados-de-Java/V193_Cracion_de_la_Lista_de_Sncacks/src/maquina_snacks/Snacks.java)
 </details>
 
 </details>
