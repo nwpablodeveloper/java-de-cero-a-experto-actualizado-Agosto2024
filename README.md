@@ -283,8 +283,12 @@
 * Métodos de Referencia para imprimir Listas
 * Sets
 * Mapas
-* [Planteo Proyecto de Maquina de Snack](Seccion13-Temas-Avanzados-de-Java/)
-* [Iniciar un Bloque estatico](Seccion13-Temas-Avanzados-de-Java/V193_Cracion_de_la_Lista_de_Sncacks/src/maquina_snacks/Snacks.java)
+* [Planteo Proyecto de Maquina de Snack](Seccion13-Temas-Avanzados-de-Java/V197_Maquina_de_Snack_Parte_IV/src/maquina_snacks)
+    - Clase común
+    - Clase Static
+    - Captura de errores
+    - Bucles, condicionales
+    - Ingreso de datos por consola
 </details>
 
 </details>

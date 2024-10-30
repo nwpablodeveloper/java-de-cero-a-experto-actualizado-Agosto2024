@@ -22,7 +22,7 @@ public class MaquinaSnacks {
         while (!salir){
             try{
                 var opcion = mostrarMenu(consola);
-                
+
                 salir = ejecutarOpciones(opcion, consola, productos);
             }catch (Exception e){
                 System.out.println("Ocurrio un error: " + e.getMessage());
