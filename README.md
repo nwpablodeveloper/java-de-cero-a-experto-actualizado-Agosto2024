@@ -292,9 +292,9 @@
 </details>
 
 <details>
-    <summary>Manejos de Archivos en Java</summary>
+    <summary>Sección 14:Manejos de Archivos en Java</summary>
 
-### [Manejos de Archivos en Jav]()
+### [Sección 14: Manejos de Archivos en Java]()
 <details>
     <summary>Sección 14: Manejo de Archivos en Java</summary>
 
