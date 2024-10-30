@@ -291,7 +291,6 @@
     - Ingreso de datos por consola
 </details>
 
-</details>
 <details>
     <summary>Manejos de Archivos en Java</summary>
 
@@ -299,7 +298,6 @@
 <details>
     <summary>Sección 14: Manejo de Archivos en Java</summary>
 
-### [>Sección 14: Manejo de Archivos en Java](Seccion14-Manejo-de-Archivos-en-Java)
+### [Sección 14: Manejo de Archivos en Java](Seccion14-Manejo-de-Archivos-en-Java)
 * Manejo de Archivos
-</details>
 </details>
