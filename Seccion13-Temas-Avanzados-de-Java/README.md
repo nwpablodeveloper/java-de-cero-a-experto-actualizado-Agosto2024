@@ -74,7 +74,6 @@
     - [V195 - Métodos ejecutarOpcion y ComprarSnack - Parte II - Maquina de Snacks ](V195_Maquina_de_Snack_Parte_II/src/maquina_snacks/MaquinaSnacks.java)
     - [V196 - Método mostrarTicket - Parte III - Maquina de Snacks ](V196_Maquina_de_Snack_Parte_III/src/maquina_snacks/MaquinaSnacks.java)
     - [V197 - Método agregarSnack - Parte IV - Maquina de Snacksk](V197_Maquina_de_Snack_Parte_IV/src/maquina_snacks/MaquinaSnacks.java)
-    * [App Maquina de Snack finalizada](V197_Maquina_de_Snack_Parte_IV/src/maquina_snacks)
     
 
 [Volver](../)
