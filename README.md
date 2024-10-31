@@ -297,5 +297,6 @@
 * Crear un archivo
 * Leer un archivo linea a linea
 * Leer todas las lineas de una sola vez
+* Escribir a un archivo
 
 </details>
