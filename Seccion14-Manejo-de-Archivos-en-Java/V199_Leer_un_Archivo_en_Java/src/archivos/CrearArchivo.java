@@ -4,7 +4,7 @@ import java.io.*;
 
 public class CrearArchivo {
     public static void main(String[] args) {
-        var nombreArhivo = "mi_archivos.txt";
+        var nombreArhivo = "mi_archivo.txt";
         var archivo = new File(nombreArhivo);
 
         try {
