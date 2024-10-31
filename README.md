@@ -296,5 +296,6 @@
 ### [Sección 14: Manejo de Archivos en Java](Seccion14-Manejo-de-Archivos-en-Java)
 * Crear un archivo
 * Leer un archivo linea a linea
+* Leer todas las lineas de una sola vez
 
 </details>
