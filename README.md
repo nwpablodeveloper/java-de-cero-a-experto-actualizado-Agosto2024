@@ -267,7 +267,6 @@
 <details>
     <summary>Sección 13: Temas Avanzados</summary>
 
-### [Sección 13: Temas Avanzados](Seccion13-Temas-Avanzados-de-Java)
 * Argumentos Variables en Java
 * Ciclo ForEach
 * Clases Abstractas
@@ -292,10 +291,9 @@
 
 <details>
     <summary>Sección 14: Manejos de Archivos en Java</summary>
-
 ### [Sección 14: Manejo de Archivos en Java](Seccion14-Manejo-de-Archivos-en-Java)
 <details>
     <summary>Sección 14: Manejo de Archivos en Java</summary>
-
-* Manejo de Archivos
+* Crear un archivo
+* Leer un archivo
 </details>
