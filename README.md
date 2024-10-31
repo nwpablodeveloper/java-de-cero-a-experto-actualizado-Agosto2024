@@ -266,7 +266,8 @@
 ### [Temas Avanzados]()
 <details>
     <summary>Sección 13: Temas Avanzados</summary>
-
+    
+### [Sección 13: Temas Avanzados](Seccion13-Temas-Avanzados-de-Java)
 * Argumentos Variables en Java
 * Ciclo ForEach
 * Clases Abstractas
