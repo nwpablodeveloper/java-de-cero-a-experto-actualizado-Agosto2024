@@ -11,7 +11,7 @@
         * Servicio
         * Dominio
     - Es decir que un paquete tambien es llamado "Capa"
-* [V203 Cración de las capas de la App Multisnacks](V203_Arquitectura_Multicapas_App_Maquina_de_Snacks/src/)
+* [V203 Cración de las capas de la App Maquina de Snacks](V203_Arquitectura_Multicapas_App_Maquina_de_Snacks/src/maquina_snacks_archivos)
     - Refactorización. (Agregar mejoras a un código ya existente)
     - Se craron las capas de: 
         * Presentación
