@@ -1,0 +1,4 @@
+0,papas,1.2
+1,Refresco,0.96
+2,Sandwich,0.2
+3,Refresco,0.96

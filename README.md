@@ -303,5 +303,6 @@
 * Creación servicios Snacks con Manejo de Archivos
 * Agregar Snacks Iniciales al Archivo TXT
 * Escribir nuevos Snacks al arhivo TXT
+* Leer los Snacks del archivo
 
 </details>

@@ -5,8 +5,6 @@ import maquina_snacks_archivos.dominio.Snack;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.PrintWriter;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -26,7 +24,7 @@ public class ServicioSnacksArchivos implements IServicioSnacks{
             existe = archivo.exists();
             if (existe){
                 // Si existe leemos el archivo
-                this.snacks = obtenerSnacks();
+                //this.snacks = obtenerSnacks();
             }else{
                 // Si no existe lo creamos
                 var salida = new PrintWriter(new FileWriter(archivo));
@@ -47,24 +45,6 @@ public class ServicioSnacksArchivos implements IServicioSnacks{
         this.agregarSnack(new Snack("Refresco", .96));
         this.agregarSnack(new Snack("Sandwich", .2));
         this.agregarSnack(new Snack("Refresco", .96));
-    }
-
-    private List<Snack> obtenerSnacks(){
-        var snacks = new ArrayList<Snack>();
-        try{
-            List<String> lineas  = Files.readAllLines(Paths.get(NOMBRE_ARCHIVO));
-            lineas.forEach(linea -> {
-                String[] lineaSnack = linea.split(",");// Parseo
-                var idSnack = lineaSnack[0];
-                var nombre = lineaSnack[1];
-                var precio = lineaSnack[2];
-                var snack = new Snack(nombre, Double.parseDouble(precio));
-                snacks.add(snack);
-            });
-        }catch (Exception e){
-            System.out.println("Error al leer archivo de Snacks: " + e.getMessage());
-        }
-        return snacks;
     }
 
     @Override
