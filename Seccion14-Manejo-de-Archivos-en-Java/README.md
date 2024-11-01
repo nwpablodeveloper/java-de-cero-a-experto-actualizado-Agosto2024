@@ -6,9 +6,18 @@
 * [V202 Proyecto Maquina de Snack con manejo de Archivos](V202_Proyecto_Maquina_de_Snacks_con_Manejo_de_Archivos/Docs/arquitectura-multicapas.jpg)
     - Continuando el proeyecto de maquina de Snack vamos a crear un 
         arquitectura multicapas donde dividiremos el proyecto en los 
-        siguientes paquetes:
+        siguientes paquetes: 
         * Presentación
         * Servicio
         * Dominio
+    - Es decir que un paquete tambien es llamado "Capa"
+* [V203 Cración de las capas de la App Multisnacks](V203_Arquitectura_Multicapas_App_Maquina_de_Snacks/maquina_snacks_archivos)
+    - Refactorización. (Agregar mejoras a un código ya existente)
+    - Se craron las capas de: 
+        * Presentación
+        * Servicio
+        * Dominio
+    - Un paquete se considera que es una "Capa"
+
 
 [Volver](../)
