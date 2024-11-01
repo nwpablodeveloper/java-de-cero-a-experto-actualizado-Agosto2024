@@ -2,13 +2,13 @@ package maquina_snacks_archivos.presentacion;
 
 import maquina_snacks_archivos.dominio.Snack;
 import maquina_snacks_archivos.servicio.IServicioSnacks;
+import maquina_snacks_archivos.servicio.ServicioSnacksArchivos;
 import maquina_snacks_archivos.servicio.ServicioSnacksLista;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-;
 
 public class MaquinaSnacks {
     public static void main(String[] args) {
@@ -20,10 +20,10 @@ public class MaquinaSnacks {
         var consola = new Scanner(System.in);
 
         // Instanciamos la capa de servicios
-        IServicioSnacks servicioSnacks = new ServicioSnacksLista();
+        IServicioSnacks servicioSnacks = new ServicioSnacksArchivos();
 
         List<Snack> productos = new ArrayList<>();
-        System.out.println("\n*** Maquína de Snacks ***");
+        System.out.println("*** Maquína de Snacks ***");
         servicioSnacks.mostrarSnacks();
 
         while (!salir){

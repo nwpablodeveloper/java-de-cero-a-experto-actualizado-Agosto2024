@@ -29,7 +29,7 @@ public class ServicioSnacksArchivos implements IServicioSnacks{
                 // Si no existe lo creamos
                 var salida = new PrintWriter(new FileWriter(archivo));
                 salida.close(); // Si no lo cerramos el archivo no se guarda en el Disco
-                System.out.println("Se ha creado el archivo");
+                System.out.println("\nSe ha creado el archivo: " + NOMBRE_ARCHIVO);
             }
         }catch (Exception e){
             System.out.println("Error al crear el archivo: " + e.getMessage());
@@ -40,11 +40,34 @@ public class ServicioSnacksArchivos implements IServicioSnacks{
         }
     }
 
-    @Override
-    public void agregarSnack(Snack snack) {
-
+    private void cargarSnacksIniciales(){
+        this.agregarSnack(new Snack("papas", 1.2));
+        this.agregarSnack(new Snack("Refresco", .96));
+        this.agregarSnack(new Snack("Sandwich", .2));
+        this.agregarSnack(new Snack("Refresco", .96));
     }
 
+    @Override
+    public void agregarSnack(Snack snack) {
+        // Agregamos el nuevo Snack,
+        // Paso 1 lo agregamos en la lista en memoria
+        this.snacks.add(snack);
+        // 2. Guardamos el Snack en el archivo
+        this.agregarSnackArchivo(snack);
+    }
+
+    private void agregarSnackArchivo(Snack snack){
+        boolean anexar = false;
+        var archivo = new File(NOMBRE_ARCHIVO);
+        try{
+            anexar = archivo.exists();
+            var salida = new PrintWriter(new FileWriter(archivo, anexar));
+            salida.println(snack);
+            salida.close();
+        }catch (Exception e){
+            System.out.println("Error al agregar los Snack: " + e.getMessage());
+        }
+    }
     @Override
     public void mostrarSnacks() {
 
