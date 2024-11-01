@@ -227,7 +227,7 @@
 <details>
     <summary>Sección 12: Clases y Objetos en Java (POO)</summary>
 
-### [Sección 12: Clases y Objetos en Java (POO)](seccion12-Clases-y-Objetos-en-Java)
+### [Sección 12: Clases y Objetos en Java (POO)](Seccion12-Clases-y-Objetos-en-Java)
 * Clases y Objetos en Java
 * Creación Clase Persona en Java
 * Creación Objeto de tipo Persona
@@ -237,26 +237,26 @@
 * Operador This
 * Paquetes
 * Encapsulamiento
-* [Ejemplo de Encapsulamiento en java](seccion12-Clases-y-Objetos-en-Java/V156_Ejemplo_de_Encapsulamiento_en_Java/src)
-* [Solución - Encapsulamiento Clase Persona](seccion12-Clases-y-Objetos-en-Java/V158_Solucion_Encapsulamiento_Clase_Persona/src/)
+* [Ejemplo de Encapsulamiento en java](Seccion12-Clases-y-Objetos-en-Java/V156_Ejemplo_de_Encapsulamiento_en_Java/src)
+* [Solución - Encapsulamiento Clase Persona](Seccion12-Clases-y-Objetos-en-Java/V158_Solucion_Encapsulamiento_Clase_Persona/src/)
 * Herencia
 * Explicación Herencia parte I - Protected (Creación de Clase padre y Clase Hija)
 * Explicación Herencia parte II (Creación de los Objetos de la SuperClase y la SubClase)
 * Sobreescritura
 * Sobreescritura Palabra Super
 * Polimorfismo
-* [Ejemplo Polimorfismo en Java + Modificadores de acceso](seccion12-Clases-y-Objetos-en-Java/V165_Ejemplo_Polimorfismo_en_Java/src)
+* [Ejemplo Polimorfismo en Java + Modificadores de acceso](Seccion12-Clases-y-Objetos-en-Java/V165_Ejemplo_Polimorfismo_en_Java/src)
 * Clase Object - El padre de todas las Clases
 * Método toString()
 * Contexto Estático y Dinámico - Concepto de variable Estática.
-* [Ejemplo contador de Objetos del tipo Persona](seccion12-Clases-y-Objetos-en-Java/V169_Ejemplo_Contador_de_Objetos_Persona/src/persona/Persona.java)
-* [Ejemplo ID Único en Java](seccion12-Clases-y-Objetos-en-Java/V170_Ejemplo_ID_Unico_en_Java/src/persona)
+* [Ejemplo contador de Objetos del tipo Persona](Seccion12-Clases-y-Objetos-en-Java/V169_Ejemplo_Contador_de_Objetos_Persona/src/persona/Persona.java)
+* [Ejemplo ID Único en Java](Seccion12-Clases-y-Objetos-en-Java/V170_Ejemplo_ID_Unico_en_Java/src/persona)
 * Método estático
 * Proyecto Sistema de Ventas
-* [Creación Clase Producto y PruebaVentas - Sistema de Ventas](seccion12-Clases-y-Objetos-en-Java/V173_Creacion_Clase_Producto/src/ventas/Producto.java)
-* [Creacion Clase Orden Parte I](seccion12-Clases-y-Objetos-en-Java/V174_Creacion_Clase_Orden_Parte_I/src/ventas)
-* [Creacion Clase Orden Parte II](seccion12-Clases-y-Objetos-en-Java/V175_Creacion_Clase_Orden_Parte_II/src/ventas)
-* [Proyecto Sistema de Ventas finalizado](seccion12-Clases-y-Objetos-en-Java/V176_Creacion_Clase_Prueba_de_Ventas/src/ventas)
+* [Creación Clase Producto y PruebaVentas - Sistema de Ventas](Seccion12-Clases-y-Objetos-en-Java/V173_Creacion_Clase_Producto/src/ventas/Producto.java)
+* [Creacion Clase Orden Parte I](Seccion12-Clases-y-Objetos-en-Java/V174_Creacion_Clase_Orden_Parte_I/src/ventas)
+* [Creacion Clase Orden Parte II](Seccion12-Clases-y-Objetos-en-Java/V175_Creacion_Clase_Orden_Parte_II/src/ventas)
+* [Proyecto Sistema de Ventas finalizado](Seccion12-Clases-y-Objetos-en-Java/V176_Creacion_Clase_Prueba_de_Ventas/src/ventas)
 </details>
 
 </details>
