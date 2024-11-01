@@ -299,7 +299,8 @@
 * Leer todas las lineas de una sola vez
 * Escribir a un archivo
 * Creación de Capas en la App Maquina de Snacks
-* Creando la Interface de la App.
+* Creando la la Interface de Servicios.
 * Creación servicios Snacks con Manejo de Archivos
+* Agregar Snacks Iniciales al Archivo
 
 </details>
