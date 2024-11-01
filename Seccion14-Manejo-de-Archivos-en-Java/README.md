@@ -18,7 +18,7 @@
         * Servicio
         * Dominio
     - Un paquete se considera que es una "Capa"
-* [V204 Creación e implementación de la Interface IServicioSnack](V204_Creacion_Interface_IServcioSnack/src/maquina_snacks_archivos)
-* [V205 Creacion de Servicio con manejo de archivos](V205_Clase_Servicio_Snacks_con_Manejo_de_Archivos/src/maquina_snacks_archivos)
+* [V204 Creación e implementación de la Interface IServicioSnack](V204_Creacion_Interface_IServcioSnack/src/maquina_snacks_archivos/servicio/IServicioSnacks.java)
+* [V205 Creacion de Servicio con manejo de archivos](V205_Clase_Servicio_Snacks_con_Manejo_de_Archivos/src/maquina_snacks_archivos/servicio/ServicioSnacksArchivos.java)
 
 [Volver](../)
