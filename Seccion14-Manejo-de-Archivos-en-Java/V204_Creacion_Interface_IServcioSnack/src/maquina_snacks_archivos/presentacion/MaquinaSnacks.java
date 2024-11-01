@@ -20,16 +20,16 @@ public class MaquinaSnacks {
         var consola = new Scanner(System.in);
 
         // Instanciamos la capa de servicios
-        IServicioSnacks serviciosSnacks = new ServicioSnacksLista();
+        IServicioSnacks servicioSnacks = new ServicioSnacksLista();
 
         List<Snack> productos = new ArrayList<>();
         System.out.println("\n*** Maquína de Snacks ***");
-        serviciosSnacks.mostrarSnacks();
+        servicioSnacks.mostrarSnacks();
 
         while (!salir){
             try{
                 var opcion = mostrarMenu(consola);
-                salir = ejecutarOpciones(opcion, consola, productos, serviciosSnacks);
+                salir = ejecutarOpciones(opcion, consola, productos, servicioSnacks);
             }catch (Exception e){
                 System.out.println("Ocurrio un error: " + e.getMessage());
             }finally {

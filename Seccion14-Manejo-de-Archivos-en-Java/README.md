@@ -18,6 +18,6 @@
         * Servicio
         * Dominio
     - Un paquete se considera que es una "Capa"
-* [V204 Creación de la Interface IServicioSnack](V204_Creacion_Interface_IServcioSnack)
+* [V204 Creación e implementación de la Interface IServicioSnack](V204_Creacion_Interface_IServcioSnack/src/maquina_snacks_archivos)
 
 [Volver](../)
