@@ -301,6 +301,7 @@
 * Creación de Capas en la App Maquina de Snacks
 * Creando la la Interface de Servicios.
 * Creación servicios Snacks con Manejo de Archivos
-* Agregar Snacks Iniciales al Archivo
+* Agregar Snacks Iniciales al Archivo TXT
+* Escribir nuevos Snacks al arhivo TXT
 
 </details>
