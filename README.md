@@ -304,5 +304,6 @@
 * Agregar Snacks Iniciales al Archivo TXT
 * Escribir nuevos Snacks al arhivo TXT
 * Leer los Snacks del archivo
+* Mostrar los Snacks desde el Archivo TXT
 
 </details>

@@ -23,5 +23,6 @@
 * [V206 Agregar Snacks Iniciales al Archivo](V206_Agregar_Snacks_Iniciales_al_Archivosrc/src/maquina_snacks_archivos/servicio/ServicioSnacksArchivos.java)
 * [V207 Escribir Snacks al Archivo TXT](V207_Escribir_Snacks_al_Archivo/src/maquina_snacks_archivos/servicio/ServicioSnacksArchivos.java)
 * [V208 Obtener Snacks del archivo](V208_Obtener_Snacks_Archivo/src/maquina_snacks_archivos/servicio/ServicioSnacksArchivos.java)
+* [V209 Mostrar los Snacks desde el archivo TXT](V209_Mostrar_Snacks_del_Archivosrc/maquina_snacks_archivos/servicio/ServicioSnacksArchivos.java)
 
 [Volver](../)
