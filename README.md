@@ -305,5 +305,10 @@
 * Escribir nuevos Snacks al arhivo TXT
 * Leer los Snacks del archivo
 * Mostrar los Snacks desde el Archivo TXT
+</details>
+<details>
+    <summary>Sección 15: Conexión a Base de Datos con Java JDBC y MySql</summary>
 
+### [Sección 15: Conexión a Base de Datos con Java JDBC y MySql](Seccion15-conexion-a-Base-de-Datos-con-JavaJDBC-y-MySql)
+    
 </details>
