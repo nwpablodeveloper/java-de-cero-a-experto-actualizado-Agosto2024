@@ -4,6 +4,7 @@ import maquina_snacks_archivos.dominio.Snack;
 
 import java.io.File;
 import java.io.FileWriter;
+import java.io.IOException;
 import java.io.PrintWriter;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -90,7 +91,12 @@ public class ServicioSnacksArchivos implements IServicioSnacks{
     }
     @Override
     public void mostrarSnacks() {
-
+        System.out.println("--- Snacks en el Inventario ---");
+        var inventarioSnacks = "";
+        for (var snack : this.snacks){
+            inventarioSnacks += snack.toString() + "\n";
+        }
+        System.out.println(inventarioSnacks);
     }
 
     @Override
