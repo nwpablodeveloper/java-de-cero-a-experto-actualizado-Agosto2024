@@ -18,9 +18,9 @@
         * INSERT -> Agrega información
         * UDATE -> Actualiza información
         * DELETE -> Eliminar Información
-* [V212 Demo App de Zona Fit con Java JDBC y MySql](V212_Demo_Aplicacion_de_Zona_Fit_con_JavaJDBC_y_MySq)   
-    * [Capas de la App.](V212_Demo_Aplicacion_de_Zona_Fit_con_JavaJDBC_y_MySq/aplicacion.jpg)
-    * [Demo de la App](V212_Demo_Aplicacion_de_Zona_Fit_con_JavaJDBC_y_MySq/demo1.jpg)
-        * [1. listar clientes](V212_Demo_Aplicacion_de_Zona_Fit_con_JavaJDBC_y_MySq/listar-clientes.jpg)
+* [V212 Demo App de Zona Fit con Java JDBC y MySql](V212_Demo_Aplicacion_de_Zona_Fit_con_JavaJDBC_y_MySql)   
+    * [Capas de la App.](V212_Demo_Aplicacion_de_Zona_Fit_con_JavaJDBC_y_MySql/aplicacion.jpg)
+    * [Demo de la App](V212_Demo_Aplicacion_de_Zona_Fit_con_JavaJDBC_y_MySql/demo1.jpg)
+        * [1. listar clientes](V212_Demo_Aplicacion_de_Zona_Fit_con_JavaJDBC_y_MySql/listar-clientes.jpg)
 
 [Volver](../)
