@@ -310,6 +310,7 @@
     <summary>Sección 15: Conexión a Base de Datos con Java JDBC y MySql</summary>
 
 ### [Sección 15: Conexión a Base de Datos con Java JDBC y MySql](Seccion15-conexion-a-Base-de-Datos-con-JavaJDBC-y-MySql)
- * Introducción    
+* Introducción    
+* Domostración de App. Zona Fit a desarrollar
 
 </details>
