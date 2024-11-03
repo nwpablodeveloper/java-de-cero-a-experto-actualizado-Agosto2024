@@ -31,9 +31,9 @@
         ```sql
             -- Crando una base de datos llamada "zona_fit_db"
             CREATE SCHEMA `zona_fit_db` ;
-        ```sql
+        ```
     - Set as defoult Schema (para seleccionar como db por defecto)
-    - [Create Table (Tables de la db)](V214_Creacion_de_la_Tabla_Cliente_de_la_App_Zona_Fit/tabla-cliente.sql)
+    - [Create Table (Tables de la db)](V214_Creacion_de_la_Tabla_Cliente_de_la_App_Zona_Fit/tabla-clientes.sql)
     ```sql
         -- SELECT * FROM zona_fit_db.clientes;
         -- No es necesario indicar la DB si ya estamos conectados a la misma
