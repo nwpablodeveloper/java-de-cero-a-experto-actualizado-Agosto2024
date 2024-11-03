@@ -42,6 +42,9 @@
 * [V215 Sentencia SELECT e INSERT en MySql](V215_Sentencia_SELECT_e_INSERT_en_MySql)
     * [select.sql](V215_Sentencia_SELECT_e_INSERT_en_MySql/select.sql)
     * [insert.sql](V215_Sentencia_SELECT_e_INSERT_en_MySql/insert.sql)
+* [V216 Sentencias UPDATE y DELETE en MySql](V216_Sentencias_UPDATE_y_DELETE_en_MySql)
+    * [update.sql](V216_Sentencias_UPDATE_y_DELETE_en_MySql/update.sql)
+    * [delete.sql](V216_Sentencias_UPDATE_y_DELETE_en_MySql/delete.sql)
        
 
 [Volver](../)
