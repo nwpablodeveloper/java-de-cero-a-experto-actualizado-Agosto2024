@@ -314,4 +314,5 @@
 * Domostración de App. Zona Fit a desarrollar
 * Instalación de MySql
 * Creando la Tabla Cliente
+* CRUD - Create Read Update Delete
 </details>

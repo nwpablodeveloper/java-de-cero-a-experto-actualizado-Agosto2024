@@ -39,6 +39,9 @@
         -- No es necesario indicar la DB si ya estamos conectados a la misma
         SELECT * FROM clientes;
     ```
+* [V215 Sentencia SELECT e INSERT en MySql](V215_Sentencia_SELECT_e_INSERT_en_MySql)
+    * [select.sql](V215_Sentencia_SELECT_e_INSERT_en_MySql/select.sql)
+    * [insert.sql](V215_Sentencia_SELECT_e_INSERT_en_MySql/insert.sql)
        
 
 [Volver](../)
