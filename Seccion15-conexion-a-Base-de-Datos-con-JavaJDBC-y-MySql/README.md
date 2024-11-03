@@ -27,7 +27,7 @@
     - Schema o Base de Datos es lo mismo
 * [V214 Cración de la Tabla Cliente](V214_Creacion_de_la_Tabla_Cliente_de_la_App_Zona_Fit/tabla-cliente.jpg)
     - Crear Schema (Base de Datos)
-        * Click derecho y New Schema (tambien desde el icono DB con el +)
+        > Click derecho y New Schema (tambien desde el icono DB con el +)
         ```sql
             -- Crando una base de datos llamada "zona_fit_db"
             CREATE SCHEMA `zona_fit_db` ;
