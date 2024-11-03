@@ -313,4 +313,5 @@
 * Introducción    
 * Domostración de App. Zona Fit a desarrollar
 * Instalación de MySql
+* Creando la Tabla Cliente
 </details>

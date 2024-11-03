@@ -25,5 +25,20 @@
 * [V213 Instalación de MySql]()
     * [Download Community Server](https://dev.mysql.com/downloads/mysql/8.0.html)
     - Schema o Base de Datos es lo mismo
+* [V214 Cración de la Tabla Cliente](V214_Creacion_de_la_Tabla_Cliente_de_la_App_Zona_Fit/tabla-cliente.jpg)
+    - Crear Schema (Base de Datos)
+        * Click derecho y New Schema (tambien desde el icono DB con el +)
+        ```sql
+            -- Crando una base de datos llamada "zona_fit_db"
+            CREATE SCHEMA `zona_fit_db` ;
+        ```sql
+    - Set as defoult Schema (para seleccionar como db por defecto)
+    - [Create Table (Tables de la db)](V214_Creacion_de_la_Tabla_Cliente_de_la_App_Zona_Fit/tabla-cliente.sql)
+    ```sql
+        -- SELECT * FROM zona_fit_db.clientes;
+        -- No es necesario indicar la DB si ya estamos conectados a la misma
+        SELECT * FROM clientes;
+    ```
+       
 
 [Volver](../)
