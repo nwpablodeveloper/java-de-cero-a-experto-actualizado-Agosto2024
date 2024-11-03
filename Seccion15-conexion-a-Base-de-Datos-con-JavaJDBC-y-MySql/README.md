@@ -22,5 +22,8 @@
     * [Capas de la App.](V212_Demo_Aplicacion_de_Zona_Fit_con_JavaJDBC_y_MySql/aplicacion.jpg)
     * [Demo de la App](V212_Demo_Aplicacion_de_Zona_Fit_con_JavaJDBC_y_MySql/demo1.jpg)
         * [1. listar clientes](V212_Demo_Aplicacion_de_Zona_Fit_con_JavaJDBC_y_MySql/listar-clientes.jpg)
+* [V213 Instalación de MySql]()
+    * [Download Community Server](https://dev.mysql.com/downloads/mysql/8.0.html)
+    - Schema o Base de Datos es lo mismo
 
 [Volver](../)
