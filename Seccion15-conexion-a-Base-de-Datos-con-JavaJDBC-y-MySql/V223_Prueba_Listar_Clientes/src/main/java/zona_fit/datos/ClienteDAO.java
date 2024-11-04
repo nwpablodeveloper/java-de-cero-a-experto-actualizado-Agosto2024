@@ -59,15 +59,10 @@ public class ClienteDAO implements IClienteDAO{
 
     public static void main(String[] args) {
         System.out.println("*** Listado de Clientes ***");
-        var cliente = new ClienteDAO();
-        var clientes = cliente.listarClientes();
-        if(clientes != null){
-            clientes.forEach(elem -> {
-                System.out.println("cliente = " + elem);
-            });
-        }else{
-            System.out.println("No hay Clientes");
-        }
-
+        var clienteDao = new ClienteDAO();
+        var clientes = clienteDao.listarClientes();
+        clientes.forEach(elem -> {
+            System.out.println("cliente = " + elem);
+        });
     }
 }
