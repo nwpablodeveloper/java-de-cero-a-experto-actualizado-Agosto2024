@@ -78,7 +78,7 @@
 * [V223 Prueba Listar Clientes - psvm](V222_Listar_Clientes/src/main/java/zona_fit/datos/ClienteDAO.java)
 * [V224 Buscar Cliente por ID en la DB](V224_Buscar_Cliente_por_Id/src/main/java/zona_fit/datos/ClienteDAO.java)
 * [V225 Agregar Cliente a la DB](V225_Agregar_Cliente/src/main/java/zona_fit/datos/ClienteDAO.java)
-* [V226 Prueba Agregar Cliente](V226_Prueba_Agregar_Cliente/src/main/java/zona_fit/datos/ClienteDAO.java)
-
+* [V226 Prueba Agregar Cliente a la DB](V226_Prueba_Agregar_Cliente/src/main/java/zona_fit/datos/ClienteDAO.java)
+* [V227 Modificar Cliente de la DB](V227_Modificar_Cliente/src/main/java/zona_fit/datos/ClienteDAO.java)
 
 [Volver](../)
