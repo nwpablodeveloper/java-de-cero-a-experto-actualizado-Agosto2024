@@ -66,5 +66,6 @@
 > 2. Luego click en el icono de Maven (barra lateral derecha)
 > 3. Reload All Maven
 * [V218 Clase de Conexión a la Base de Datos](V218_Clase_de_Conexion_a_la_Base_de_Datos_con_Java_JDBC)
+    - Crear un objeto de tipo Conexión
 
 [Volver](../)
