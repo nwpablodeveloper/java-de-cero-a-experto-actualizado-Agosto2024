@@ -320,5 +320,6 @@
 * Clase de Conexión a la Base de Datos
 * Clase de dominio
 * Patrón DAO (Data Access Object)
-* Interface DAO (Cliente)
+* IClienteDAO y ClienteDAO(Cliente)
+
 </details>
