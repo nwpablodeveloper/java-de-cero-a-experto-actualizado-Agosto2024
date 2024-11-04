@@ -69,5 +69,6 @@
     - Crear un objeto de tipo Conexión
 * [V219 Creación de la Clase de Dominio](V219_Creacion_Clase_de_Dominio/src/main/java/zona_fit/dominio/Cliente.java)
 * [V220 Patrón de diseño DAO](V220_Patron_de_Disenio_DAO/Docs/patron-de-disenio-DAO.jpg)
+* [V221 Interface de Cliente DAO](V221_Interface_Cliente_DAO)
 
 [Volver](../)
