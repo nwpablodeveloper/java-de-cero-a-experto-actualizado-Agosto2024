@@ -123,6 +123,23 @@ public class ClienteDAO implements IClienteDAO{
 
     @Override
     public boolean eliminarCliente(Cliente cliente) {
+        PreparedStatement ps;
+        Connection con = getConection();
+        var sql = "DELETE FROM clientes WHERE id=?";
+        try{
+            ps = con.prepareStatement(sql);
+            ps.setInt(1, cliente.getId());
+            ps.execute();
+            return true;
+        }catch (Exception e){
+            System.out.println("Error al eliminar el Cliente: " + e.getMessage());
+        }finally {
+            try{
+                con.close();
+            }catch (Exception e){
+                System.out.println("Error al cerrar la conexión al eliminar el cliente: " + e.getMessage());
+            }
+        }
         return false;
     }
 
@@ -147,7 +164,7 @@ public class ClienteDAO implements IClienteDAO{
 
         // ------------------------------------------------------
         System.out.println("\n*** Agregar Cliente ***");
-        var nuevoCliente = new Cliente("Pablo", "Veiga", 151);
+        var nuevoCliente = new Cliente("Pablo", "Veiga", 134546);
         System.out.println("Se agrega: " + nuevoCliente);
         var agregado = clienteDao.agregarCliente(nuevoCliente);
         if (agregado)
@@ -157,7 +174,7 @@ public class ClienteDAO implements IClienteDAO{
         // ------------------------------------------------------
 
         System.out.println("\n*** Modificar Cliente ***");
-        var modificarCliente = new Cliente(15, "Pablo Andres", "Veiga", 151);
+        var modificarCliente = new Cliente(15, "Pablo", "Veiga", 151);
         var modificado = clienteDao.modificarCliente(modificarCliente);
         if(modificado){
             System.out.println("El cliente fue editado");
@@ -166,12 +183,20 @@ public class ClienteDAO implements IClienteDAO{
         }
 
         // ------------------------------------------------------
+        System.out.println("\n*** Eliminar Cliente ***");
+        var clienteEliminar = new Cliente(40);
+        var eliminado = clienteDao.eliminarCliente(clienteEliminar);
+        if (eliminado)
+            System.out.println("Cliente Eliminado");
+        else
+            System.out.println("No se pudo eliminar");
+        // ------------------------------------------------------
 
         System.out.println("\n*** Listado de Clientes ***");
 
         var clientes = clienteDao.listarClientes();
-        clientes.forEach(elem -> {
-            System.out.println("cliente = " + elem);
+        clientes.forEach(registro -> {
+            System.out.println("cliente = " + registro);
         });
 
 
