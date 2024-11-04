@@ -318,4 +318,5 @@
 * CRUD - UPDATE Y DELETE
 * Agregar dependencias MySql a la App
 * Clase de Conexión a la Base de Datos
+* Clase de dominio
 </details>
