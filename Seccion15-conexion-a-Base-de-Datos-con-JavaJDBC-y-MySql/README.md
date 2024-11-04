@@ -52,11 +52,6 @@
         - java -> Código fuente
         - test -> para las pruebas de nuestra App.
     - [pom.xml - Archivo para administrar las librerias](V217_Creacion_de_la_Aplicacion_Zona_fit_con_Java_y_Maven/pom.xml)
-> [!WARNING]  
-> 1. Agragar la dependencia de MySql
-> 2. Luego click en el icono de Maven (barra lateral derecha)
-> 3. Reload All Maven
-
     ```xml
         <dependencies>
             <dependency>
@@ -66,5 +61,9 @@
             </dependency>
         </dependencies>
     ```
+> [!WARNING]  
+> 1. Agragar la dependencia de MySql
+> 2. Luego click en el icono de Maven (barra lateral derecha)
+> 3. Reload All Maven
 
 [Volver](../)
