@@ -68,6 +68,6 @@
 * [V218 Clase de Conexión a la Base de Datos](V218_Clase_de_Conexion_a_la_Base_de_Datos_con_Java_JDBC/src/main/java/zona_fit/conexion/Conexion.java)
     - Crear un objeto de tipo Conexión
 * [V219 Creación de la Clase de Dominio](V219_Creacion_Clase_de_Dominio/src/main/java/zona_fit/dominio/Cliente.java)
-* [V220 Patrón de diseño DAO](V220_Patron_de_Disenio_DAO)
+* [V220 Patrón de diseño DAO](V220_Patron_de_Disenio_DAO/Docs/patron-de-disenio-DAO.jpg)
 
 [Volver](../)
