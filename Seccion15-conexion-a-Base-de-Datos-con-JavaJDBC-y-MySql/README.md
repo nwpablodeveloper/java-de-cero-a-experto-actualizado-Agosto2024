@@ -76,6 +76,6 @@
     - Interface PreparedStatement - Evita inyección de SQL. Támbin nos va ayudar a preparar la sentencia SQL
     - Interface ResultSet - Guarda los datos obtenido de una DB y nos deja navegar por filas en ellos
 * [V223 Prueba Listar Clientes - psvm](V222_Listar_Clientes/src/main/java/zona_fit/datos/ClienteDAO.java)
-
+* [V224 Buscar Cliente por ID]()
 
 [Volver](../)
