@@ -321,6 +321,8 @@
 * Clase de dominio
 * Patrón DAO (Data Access Object)
 * IClienteDAO y ClienteDAO(Cliente)
+### CRUD
 * Listar Clientes desde la DB
-* Buscar Cliente por ID
+* Buscar Cliente por ID en la DB
+* Agregar Cliente a la DB
 </details>
