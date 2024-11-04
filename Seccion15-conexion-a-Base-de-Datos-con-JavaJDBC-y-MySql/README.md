@@ -62,8 +62,8 @@
         </dependencies>
     ```
 > [!WARNING]  
-> 1 Agregando la dependencia de MySql
-> 2 Luego click en el icono de Maven (barra lateral derecha)
-> 3 Reload All Maven
+> * Agregando la dependencia de MySql
+> * Luego click en el icono de Maven (barra lateral derecha)
+> * Reload All Maven
 
 [Volver](../)
