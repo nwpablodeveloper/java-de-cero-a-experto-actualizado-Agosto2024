@@ -73,7 +73,6 @@ public class ClienteDAO implements IClienteDAO{
     @Override
     public boolean agregarCliente(Cliente cliente) {
         PreparedStatement ps;
-        ResultSet rs;
         Connection con = getConection();
         var sql = "INSERT INTO clientes (nombre, apellido, membresia)" +
                 "VALUES (?, ?, ?)";
@@ -98,6 +97,27 @@ public class ClienteDAO implements IClienteDAO{
 
     @Override
     public boolean modificarCliente(Cliente cliente) {
+        PreparedStatement ps;
+        Connection con = getConection();
+        var sql = "UPDATE clientes SET nombre = ?, apellido = ?, membresia = ? " +
+                "WHERE id = ?";
+        try{
+            ps = con.prepareStatement(sql);
+            ps.setString(1, cliente.getNombre());
+            ps.setString(2, cliente.getApellido());
+            ps.setInt(3, cliente.getMembresia());
+            ps.setInt(4, cliente.getId());
+            ps.execute();
+            return true;
+        }catch (Exception e){
+            System.out.println("Error al modificar el Cliente: " + e.getMessage());
+        }finally {
+            try{
+                con.close();
+            }catch (Exception e){
+                System.out.println("Error al cerrar la conexión para editar al Cliente: " + e.getMessage());
+            }
+        }
         return false;
     }
 
@@ -134,6 +154,17 @@ public class ClienteDAO implements IClienteDAO{
             System.out.println("Cliente Agregado: " + nuevoCliente);
         else
             System.out.println("No se agrego el Cliente");
+        // ------------------------------------------------------
+
+        System.out.println("\n*** Modificar Cliente ***");
+        var modificarCliente = new Cliente(15, "Pablo Andres", "Veiga", 151);
+        var modificado = clienteDao.modificarCliente(modificarCliente);
+        if(modificado){
+            System.out.println("El cliente fue editado");
+        }else{
+            System.out.println("No se pudo modificar al cliente");
+        }
+
         // ------------------------------------------------------
 
         System.out.println("\n*** Listado de Clientes ***");
