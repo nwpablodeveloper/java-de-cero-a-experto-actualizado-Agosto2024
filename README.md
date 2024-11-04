@@ -325,4 +325,5 @@
 * Listar Clientes desde la DB
 * Buscar Cliente por ID en la DB
 * Agregar Cliente a la DB
+* Modificar Cliente de la DB
 </details>
