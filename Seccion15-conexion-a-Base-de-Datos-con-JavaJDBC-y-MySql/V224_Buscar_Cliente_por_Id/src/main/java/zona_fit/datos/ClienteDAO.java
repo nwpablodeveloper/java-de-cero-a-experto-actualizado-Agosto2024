@@ -43,7 +43,40 @@ public class ClienteDAO implements IClienteDAO{
     }
 
     @Override
-    public boolean actualizarClientePorId(Cliente cliente) {
+    public boolean buscarClientePorId(Cliente cliente){
+        PreparedStatement ps;
+        ResultSet rs;
+        Connection con = getConection();
+        var sql = "SELECT * FROM clientes WHERE id = ?";
+        try{
+            ps = con.prepareStatement(sql);
+            ps.setInt(1, cliente.getId()); // Indicamos el ID a buscar con este argumento
+            rs = ps.executeQuery();
+            if(rs.next()){
+                cliente.setNombre(rs.getString("nombre"));
+                cliente.setApellido(rs.getString("apellido"));
+                cliente.setMembresia(rs.getInt("membresia"));
+                return true;
+            }
+        }catch (Exception e){
+            System.out.println("Error al buscar al cliente por ID: " + e.getMessage());
+        }finally {
+            try{
+                con.close();
+            }catch (Exception e){
+                System.out.println("Error al cerrar la conección al buscar por ID: " + e.getMessage());
+            }
+        }
+        return false;
+    }
+
+    @Override
+    public boolean agregarCliente(Cliente cliente) {
+        return false;
+    }
+
+    @Override
+    public boolean modificarCliente(Cliente cliente) {
         return false;
     }
 
@@ -52,17 +85,28 @@ public class ClienteDAO implements IClienteDAO{
         return false;
     }
 
-    @Override
-    public boolean insertarCliente(Cliente cliente) {
-        return false;
-    }
-
     public static void main(String[] args) {
-        System.out.println("*** Listado de Clientes ***");
+
         var clienteDao = new ClienteDAO();
+
+        System.out.println("\n*** Listado de Clientes ***");
         var clientes = clienteDao.listarClientes();
         clientes.forEach(elem -> {
             System.out.println("cliente = " + elem);
         });
+
+
+        System.out.println("\n*** Buscar Cliente por id ***");
+
+        var cliente1 = new Cliente(5);
+        // Mostramos el resto de los atributos que estan por default
+        System.out.println("cliente1 = " + cliente1);
+        var encontrado = clienteDao.buscarClientePorId(cliente1);
+        if (encontrado){
+            System.out.println("encontrado = " + encontrado);
+        }else{
+            System.out.println("No se encontro ningun cliente de ID: " + cliente1.getId());
+        }
+
     }
 }
