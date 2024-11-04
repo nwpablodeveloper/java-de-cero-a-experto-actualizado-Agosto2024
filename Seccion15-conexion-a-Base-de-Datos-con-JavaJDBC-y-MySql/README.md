@@ -45,6 +45,25 @@
 * [V216 Sentencias UPDATE y DELETE en MySql](V216_Sentencias_UPDATE_y_DELETE_en_MySql)
     * [update.sql](V216_Sentencias_UPDATE_y_DELETE_en_MySql/update.sql)
     * [delete.sql](V216_Sentencias_UPDATE_y_DELETE_en_MySql/delete.sql)
-       
+* [V217 Creación de la Aplicación Zona Fit con Java y Maven](V217_Creacion_de_la_Aplicacion_Zona_fit_con_Java_y_Maven)
+    - Creamos el proyecto con Maven
+    - Directorio: 
+        - resources -> sirve para poner contenido estatico como imagenes
+        - java -> Código fuente
+        - test -> para las pruebas de nuestra App.
+    - [pom.xml - Archivo para administrar las librerias](V217_Creacion_de_la_Aplicacion_Zona_fit_con_Java_y_Maven)
+    ```xml
+        <dependencies>
+            <dependency>
+                <groupId>com.mysql</groupId>
+                <artifactId>mysql-connector-j</artifactId>
+                <version>8.0.33</version>
+            </dependency>
+        </dependencies>
+    ```
+    > [!WARNING]
+    > 1. Agregando la libreria de MySql
+    > 2. Luego click en el icono de Maven (barra lateral derecha)
+    > 3. Reload All Maven
 
 [Volver](../)

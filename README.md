@@ -314,5 +314,7 @@
 * Domostración de App. Zona Fit a desarrollar
 * Instalación de MySql
 * Creando la Tabla Cliente
-* CRUD - Create Read Update Delete
+* CRUD - CREATE y READ
+* CRUD - UPDATE Y DELETE
+* Agregar dependencias MySql a la App
 </details>
