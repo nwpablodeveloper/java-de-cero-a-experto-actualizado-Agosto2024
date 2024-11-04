@@ -82,7 +82,7 @@ public class ClienteDAO implements IClienteDAO{
             ps.setString(1, cliente.getNombre());
             ps.setString(2, cliente.getApellido());
             ps.setInt(3, cliente.getMembresia());
-            ps.executeQuery();
+            ps.execute();
             return true;
         }catch (Exception e){
             System.out.println("Error al agregar cliente: " + e.getMessage());
@@ -107,27 +107,42 @@ public class ClienteDAO implements IClienteDAO{
     }
 
     public static void main(String[] args) {
-
         var clienteDao = new ClienteDAO();
 
-        System.out.println("\n*** Listado de Clientes ***");
-        var clientes = clienteDao.listarClientes();
-        clientes.forEach(elem -> {
-            System.out.println("cliente = " + elem);
-        });
+        // ------------------------------------------------------
 
 
+        // ------------------------------------------------------
         System.out.println("\n*** Buscar Cliente por id ***");
 
         var cliente1 = new Cliente(5);
         // Mostramos el resto de los atributos que estan por default
-        System.out.println("cliente1 = " + cliente1);
+        System.out.println("ID 5:  " + cliente1);
         var encontrado = clienteDao.buscarClientePorId(cliente1);
         if (encontrado){
             System.out.println("encontrado = " + encontrado);
         }else{
             System.out.println("No se encontro ningun cliente de ID: " + cliente1.getId());
         }
+
+        // ------------------------------------------------------
+        System.out.println("\n*** Agregar Cliente ***");
+        var nuevoCliente = new Cliente("Pablo", "Veiga", 151);
+        System.out.println("Se agrega: " + nuevoCliente);
+        var agregado = clienteDao.agregarCliente(nuevoCliente);
+        if (agregado)
+            System.out.println("Cliente Agregado: " + nuevoCliente);
+        else
+            System.out.println("No se agrego el Cliente");
+        // ------------------------------------------------------
+
+        System.out.println("\n*** Listado de Clientes ***");
+
+        var clientes = clienteDao.listarClientes();
+        clientes.forEach(elem -> {
+            System.out.println("cliente = " + elem);
+        });
+
 
     }
 }
