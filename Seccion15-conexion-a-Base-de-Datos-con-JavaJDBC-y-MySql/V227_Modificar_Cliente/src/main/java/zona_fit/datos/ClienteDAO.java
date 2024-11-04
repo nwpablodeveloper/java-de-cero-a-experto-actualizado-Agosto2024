@@ -147,7 +147,7 @@ public class ClienteDAO implements IClienteDAO{
 
         // ------------------------------------------------------
         System.out.println("\n*** Agregar Cliente ***");
-        var nuevoCliente = new Cliente("Pablo", "Veiga", 151);
+        var nuevoCliente = new Cliente("Pablo", "Veiga", 153);
         System.out.println("Se agrega: " + nuevoCliente);
         var agregado = clienteDao.agregarCliente(nuevoCliente);
         if (agregado)
@@ -157,7 +157,7 @@ public class ClienteDAO implements IClienteDAO{
         // ------------------------------------------------------
 
         System.out.println("\n*** Modificar Cliente ***");
-        var modificarCliente = new Cliente(15, "Pablo Andres", "Veiga", 151);
+        var modificarCliente = new Cliente(31, "Pablo Andres", "Veiga", 151);
         var modificado = clienteDao.modificarCliente(modificarCliente);
         if(modificado){
             System.out.println("El cliente fue editado");
