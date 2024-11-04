@@ -81,7 +81,7 @@
 * [V226 Prueba Agregar Cliente a la DB](V226_Prueba_Agregar_Cliente/src/main/java/zona_fit/datos/ClienteDAO.java)
 * [V227 Modificar Cliente de la DB](V227_Modificar_Cliente/src/main/java/zona_fit/datos/ClienteDAO.java)
 * [V228](V228_Eliminar_Cliente/src/main/java/zona_fit/datos/ClienteDAO.java)
-* [v229 Repaso de la Clase ClienteDAO](V229_Repaso_de_la_Clase_ClienteDAO)
+* [v229 Reto Crear el Menú y la interface para el usuario](V229_Repaso_de_la_Clase_ClienteDAO)
     - Crear el Menú de la App para:
         - Listar
         - Agregar
