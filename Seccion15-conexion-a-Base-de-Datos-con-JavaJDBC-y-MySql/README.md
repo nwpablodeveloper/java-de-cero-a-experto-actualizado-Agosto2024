@@ -84,6 +84,7 @@
 * [v229 Reto Crear el Menú y la interface para el usuario](V229_Reto_Crear_la_presentacion_de_la_App_Zona_Fit/src/main/java/zona_fit/presentacion/ZonaFitApp.java)
     - Crear el Menú de la App para:
         - Listar
+        - Buscar
         - Agregar
         - Modificar
         - Eliminar
