@@ -50,6 +50,8 @@ public class ZonaFitApp {
             case 1 -> listarClientes(clienteDao);
             case 2 -> agregarCliente(consola, clienteDao);
             case 3 -> buscarClientePorId(consola, clienteDao);
+            case 4 -> modificarCliente(consola, clienteDao);
+            case 5 -> eliminarCliente(consola, clienteDao);
             case 6 -> {
                 System.out.println("Lo esperamos pronto, Bye!");
                 return true;
@@ -97,6 +99,32 @@ public class ZonaFitApp {
             System.out.println("Se 1 cliente con ID: " + cliente.getId());
         else
             System.out.println("No se encontraron resultados");
+
+    }
+
+    private static void modificarCliente(Scanner consola, IClienteDAO clienteDao){
+        Cliente cliente = new Cliente();
+        System.out.print("ID del cliente a modificar? ");
+        cliente.setId(Integer.parseInt(consola.nextLine()));
+        System.out.print("Nombre a modificar? ");
+        cliente.setNombre(consola.nextLine());
+        System.out.print("Apellido a modifar? ");
+        cliente.setApellido(consola.nextLine());
+
+        if(clienteDao.modificarCliente(cliente)) {
+            System.out.println("El cliente fue modifado exitosamente");
+            listarClientes(clienteDao);
+        }
+    }
+
+    private static void eliminarCliente(Scanner consola, IClienteDAO clienteDao){
+        Cliente cliente = new Cliente();
+        System.out.print("Cúal es el ID del cliente que quiere borrar? ");
+        cliente.setId(Integer.parseInt(consola.nextLine()));
+
+        if(clienteDao.eliminarCliente(cliente)){
+            System.out.println("Se elimino el cliente con ID: " + cliente.getId());
+        }
 
     }
 }
