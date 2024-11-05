@@ -96,7 +96,7 @@ public class ZonaFitApp {
         Cliente cliente = new Cliente(Integer.parseInt(consola.nextLine()));
 
         if(clienteDao.buscarClientePorId(cliente))
-            System.out.println("Se 1 cliente con ID: " + cliente.getId());
+            System.out.println("Se encontro 1 cliente con ID: " + cliente.getId());
         else
             System.out.println("No se encontraron resultados");
 

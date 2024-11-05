@@ -141,7 +141,7 @@ public class ClienteDAO implements IClienteDAO{
         }
         return false;
     }
-
+/*
     public static void main(String[] args) {
         var clienteDao = new ClienteDAO();
 
@@ -197,7 +197,6 @@ public class ClienteDAO implements IClienteDAO{
         clientes.forEach(registro -> {
             System.out.println("cliente = " + registro);
         });
-
-
     }
+*/
 }
