@@ -49,6 +49,7 @@ public class ZonaFitApp {
         switch(opcion){
             case 1 -> listarClientes(clienteDao);
             case 2 -> agregarCliente(consola, clienteDao);
+            case 3 -> buscarClientePorId(consola, clienteDao);
             case 6 -> {
                 System.out.println("Lo esperamos pronto, Bye!");
                 return true;
@@ -85,6 +86,18 @@ public class ZonaFitApp {
                     Fue agregado exitosamente
                     """, cliente);
         }
+    }
+
+    private static void buscarClientePorId(Scanner consola, IClienteDAO clienteDao){
+
+        System.out.print("Ingrese el nro. de ID de Cliente: ");
+        Cliente cliente = new Cliente(Integer.parseInt(consola.nextLine()));
+
+        if(clienteDao.buscarClientePorId(cliente))
+            System.out.println("Se 1 cliente con ID: " + cliente.getId());
+        else
+            System.out.println("No se encontraron resultados");
+
     }
 }
 
