@@ -47,7 +47,7 @@ public class ZonaFitApp {
         switch (opcion){
             case 1 -> { // 1. Listar Clientes
                 var clientes = clienteDao.listarClientes();
-                clientes.forEach(System.out::print);
+                clientes.forEach(System.out::println);
             }
             case 2 -> { // 2. Buscar Cliente por ID
                 System.out.print("Introduce el ID del cliente a buscar: ");
@@ -58,6 +58,23 @@ public class ZonaFitApp {
                     System.out.println("Cliente encontrado: " + cliente);
                 else
                     System.out.println("No se encontro ningun cliente");
+            }
+            case 3 -> { // 3. Agregar Cliente
+                System.out.println("--- Agregar Cliente ---");
+                System.out.print("Nombre: ");
+                var nombre = consola.nextLine();
+                System.out.print("Apellido: ");
+                var apellido = consola.nextLine();
+                System.out.print("Membresia: ");
+                var membresia = Integer.parseInt(consola.nextLine());
+
+                // Creamos el objeto
+                var cliente = new Cliente(nombre, apellido, membresia);
+                var agregado = clienteDao.agregarCliente(cliente);
+                if (agregado)
+                    System.out.println("Cliente agregado");
+                else
+                    System.out.println("No se agrego");
             }
         }
         return salir;
