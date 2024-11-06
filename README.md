@@ -332,4 +332,5 @@ ___
 * Listar Clientes desde el menú Zona Fit
 * Buscar Cliente desde el menú Zona Fit
 * Agregar Cliente desde el Menú Zona Fit
+* Modificar Cliente desde el Menú Zona Fit
 </details>
