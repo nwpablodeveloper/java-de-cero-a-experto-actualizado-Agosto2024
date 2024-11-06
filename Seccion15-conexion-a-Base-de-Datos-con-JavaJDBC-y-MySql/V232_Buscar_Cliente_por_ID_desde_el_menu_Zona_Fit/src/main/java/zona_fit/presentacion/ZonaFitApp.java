@@ -2,6 +2,7 @@ package zona_fit.presentacion;
 
 import zona_fit.datos.ClienteDAO;
 import zona_fit.datos.IClienteDAO;
+import zona_fit.dominio.Cliente;
 
 import java.util.Scanner;
 
@@ -48,7 +49,20 @@ public class ZonaFitApp {
                 var clientes = clienteDao.listarClientes();
                 clientes.forEach(System.out::print);
             }
+            case 2 -> { // 2. Buscar Cliente por ID
+                System.out.print("Introduce el ID del cliente a buscar: ");
+                var idCliente = Integer.parseInt(consola.nextLine());
+                var cliente = new Cliente(idCliente);
+                var encontrado = clienteDao.buscarClientePorId(cliente);
+                if(encontrado)
+                    System.out.println("Cliente encontrado: " + cliente);
+                else
+                    System.out.println("No se encontro ningun cliente");
+            }
         }
         return salir;
     }
+
+
+
 }
