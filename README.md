@@ -333,4 +333,5 @@ ___
 * Buscar Cliente desde el menú Zona Fit
 * Agregar Cliente desde el Menú Zona Fit
 * Modificar Cliente desde el Menú Zona Fit
+* Eliminar un Cliente desde el Menú Zona Fit
 </details>
