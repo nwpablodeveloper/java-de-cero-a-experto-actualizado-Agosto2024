@@ -96,5 +96,6 @@ ___
 * [V231 Listar Clientes desde el Menu App ZonaFit](V231_Listar_Clientes_desde_el_Menu_App_ZonaFit/src/main/java/zona_fit/presentacion/ZonaFitApp.java)
 * [V232 Buscar Cliente por ID desde el menu Zona Fit](V232_Buscar_Cliente_por_ID_desde_el_menu_Zona_Fit/src/main/java/zona_fit/presentacion/ZonaFitApp.java)
 * [V233 Agregar Cliente desde el Menú Zona Fit](V233_Agregar_Cliente_desde_el_Menu_Zona_Fit/src/main/java/zona_fit/presentacion/ZonaFitApp.java)
+* [V234 Modificar Cliente desde el Menú Zona Fit](V234_Modificar_Cliente_desde_Menu_Zona_Fit/src/main/java/zona_fit/presentacion/ZonaFitApp.java)
 
 [Volver](../)
