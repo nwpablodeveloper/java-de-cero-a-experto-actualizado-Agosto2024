@@ -326,6 +326,10 @@
 * Buscar Cliente por ID en la DB
 * Agregar Cliente a la DB
 * Modificar Cliente de la DB
-___
 Solución por el instructor
+___
+* Crear el menú
+* Listar Clientes desde el menú Zona Fit
+* Buscar Cliente desde el menú Zona Fit
+* Agregar Cliente desde el Menú Zona Fit
 </details>
