@@ -92,6 +92,7 @@ ___
         - Eliminar
 ___
 ### Solución por parte del Instructor
-* [V230 Solucion Menú Aplicación Zona Fit](V230_Solucion_Menu_Aplicacion_Zona_Fit)
+* [V230 Solucion Menú Aplicación Zona Fit](V230_Solucion_Menu_Aplicacion_Zona_Fit/src/main/java/zona_fit/presentacion/ZonaFitApp.java)
+* [V231 Listar Clientes desde el Menu App ZonaFit](V231_Listar_Clientes_desde_el_Menu_App_ZonaFit/src/main/java/zona_fit/presentacion/ZonaFitApp.java)
 
 [Volver](../)
