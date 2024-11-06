@@ -81,8 +81,8 @@
 * [V226 Prueba Agregar Cliente a la DB](V226_Prueba_Agregar_Cliente/src/main/java/zona_fit/datos/ClienteDAO.java)
 * [V227 Modificar Cliente de la DB](V227_Modificar_Cliente/src/main/java/zona_fit/datos/ClienteDAO.java)
 * [V228](V228_Eliminar_Cliente/src/main/java/zona_fit/datos/ClienteDAO.java)
-### Reto Crear Menú para el CRUD
 ___
+### Reto Crear Menú para el CRUD
 * [v229 Reto Crear el Menú y la interface para el usuario](V229_Reto_Crear_la_presentacion_de_la_App_Zona_Fit/src/main/java/zona_fit/presentacion/ZonaFitApp.java)
     - Crear el Menú de la App para:
         - Listar
@@ -90,9 +90,10 @@ ___
         - Agregar
         - Modificar
         - Eliminar
-### Solución por parte del Instructor
 ___
+### Solución por parte del Instructor
 * [V230 Solucion Menú Aplicación Zona Fit](V230_Solucion_Menu_Aplicacion_Zona_Fit/src/main/java/zona_fit/presentacion/ZonaFitApp.java)
 * [V231 Listar Clientes desde el Menu App ZonaFit](V231_Listar_Clientes_desde_el_Menu_App_ZonaFit/src/main/java/zona_fit/presentacion/ZonaFitApp.java)
+* [V232 Buscar Cliente por ID desde el menu Zona Fit](V232_Buscar_Cliente_por_ID_desde_el_menu_Zona_Fit/src/main/java/zona_fit/presentacion/ZonaFitApp.java)
 
 [Volver](../)
