@@ -321,9 +321,11 @@
 * Clase de dominio
 * Patrón DAO (Data Access Object)
 * IClienteDAO y ClienteDAO(Cliente)
-#### CRUD (CREATE - READ - UPDATE - DELETE)
+#### RETO CREAR MENÚ PARA EL CRUD (CREATE - READ - UPDATE - DELETE)
 * Listar Clientes desde la DB
 * Buscar Cliente por ID en la DB
 * Agregar Cliente a la DB
 * Modificar Cliente de la DB
+___
+Solución por el instructor
 </details>
