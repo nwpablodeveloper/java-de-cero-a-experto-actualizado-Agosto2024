@@ -19,8 +19,8 @@ public class ZonaFitApp {
 
         while (!salir) {
             try{
-                mostrarMenu();
-//                salir = ejecutarOpciones(consola, clienteDao);
+                var opcion =mostrarMenu(consola);
+                salir = ejecutarOpciones(consola, opcion, clienteDao);
             }catch (Exception e){
                 System.out.println("Error al ejecutar opciones del menú: " + e.getMessage());
             }
@@ -28,7 +28,7 @@ public class ZonaFitApp {
         }
     }
 
-    private static void mostrarMenu(){
+    private static int mostrarMenu(Scanner consola){
         System.out.print("""
                 *** zona Fit (GYM)
                 1. Listar Clientes
@@ -38,5 +38,17 @@ public class ZonaFitApp {
                 5. Eliminar Cliente
                 6. Salir
                 Elige una opción:\s""");
+        return Integer.parseInt(consola.nextLine());
+    }
+
+    private static boolean ejecutarOpciones(Scanner consola, int opcion, IClienteDAO clienteDao){
+        var salir = false;
+        switch (opcion){
+            case 1 -> { // 1. Listar Clientes
+                var clientes = clienteDao.listarClientes();
+                clientes.forEach(System.out::print);
+            }
+        }
+        return salir;
     }
 }
