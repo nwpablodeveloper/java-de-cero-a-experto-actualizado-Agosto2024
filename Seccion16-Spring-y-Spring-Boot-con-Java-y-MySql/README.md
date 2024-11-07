@@ -1,7 +1,22 @@
 # Sección 16: Spring y Spring Boot con Java y MySql
 * [V237 Demo Zona Fit](V237_Demo_Zona_Fit/Docs/Arquitectura.jpg)
-* [V238 Introducción a Spring Boot](V238_Introduccion_a_Spring_y_Spring_Boot/Docs/introduccion_Spring.jpg)
+* [V238 Introducción a Spring Boot](V238_Introduccion_a_Spring_y_Spring_Boot/Docs/)
     * [Spring Frameworks](V238_Introduccion_a_Spring_y_Spring_Boot/Docs/introduccion_Spring.jpg)
     * [Spring Frameworks](V238_Introduccion_a_Spring_y_Spring_Boot/Docs/spring-boot.jpg)
+* [V239 Creación Proyecto con Spring y Spring boot](239_Creación_Proyecto_con_Spring_y_Spring_Boot)
+    - Vamos al siguiente link y configuramos el Framwork
+    * [Spring Initiazlizr](https://start.spring.io/)
+        - MAVEN - Para administrar facilmente nuestras librerias
+        - Lenguaje - Java
+        - Versión por default
+        - Enpaquetemiento de tipo "JAR" - por que es una App de Consola
+        - Versión de Java mas reciente
+    * Dependencias
+        - JPA - Spring Data JPA - Nos va a permitir establecer la conexión con la DB
+        - MySql Driver
+        - Lombok - Esta libreria reduce el código repetitivo
+* [V240 Abrir proyecto de Spring con IntellijIDEA]()
+    * Invalidate Caches del IDE
+* [241]()
 
 [Volver](../)
