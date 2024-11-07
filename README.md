@@ -344,5 +344,5 @@ ___
 * Introducción a Spring y Spring Boot
 * Creación Proyecto con Spring Boot
 * Configuración Incial de la DB del Proyecto Zona Fit
-* Arquitectura del proyecto
+* Creacion de la Clase de Entidad de Cliente con JPA
 </details>
