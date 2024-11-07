@@ -18,5 +18,8 @@
 * [V240 Abrir proyecto de Spring con IntellijIDEA]()
     * Invalidate Caches del IDE
 * [V241 Configuracion Inicial Proyecto Zona Fita](V241_Configuracion_Inicial_Proyecto_Zona_Fita)
+    - [Configurar Base de datos](V241_Configuracion_Inicial_Proyecto_Zona_Fita/src/main/resources/application.properties)
+    - [Este archivo evita enviar mucha info a la consola](V241_Configuracion_Inicial_Proyecto_Zona_Fita/src/main/resources/logback-spring.xml)
+
 
 [Volver](../)
