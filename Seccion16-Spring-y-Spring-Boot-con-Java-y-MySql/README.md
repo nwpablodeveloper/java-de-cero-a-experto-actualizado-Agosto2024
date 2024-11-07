@@ -17,6 +17,6 @@
         - Lombok - Esta libreria reduce el código repetitivo
 * [V240 Abrir proyecto de Spring con IntellijIDEA]()
     * Invalidate Caches del IDE
-* [241]()
+* [V241 Configuracion Inicial Proyecto Zona Fita](V241_Configuracion_Inicial_Proyecto_Zona_Fita)
 
 [Volver](../)

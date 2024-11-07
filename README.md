@@ -343,4 +343,5 @@ ___
 * Arquitectura de la App con Spring
 * Introducción a Spring y Spring Boot
 * Creación Proyecto con Spring Boot
+* Configuración Incial del Proyecto Zona Fit
 </details>
