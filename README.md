@@ -345,4 +345,6 @@ ___
 * Creación Proyecto con Spring Boot
 * Configuración Incial de la DB del Proyecto Zona Fit
 * Creacion de la Clase de Entidad de Cliente con JPA
+    - Clase de Identidad Cliente con Jakarta y Lomnbok
+* Cracon Interface de Repositorio de Cliente Con Spring
 </details>

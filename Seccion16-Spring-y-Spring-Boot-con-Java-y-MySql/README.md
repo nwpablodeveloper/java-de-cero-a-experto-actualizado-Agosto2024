@@ -22,5 +22,6 @@
     - [Este archivo evita enviar mucha info a la consola](V241_Configuracion_Inicial_Proyecto_Zona_Fita/src/main/resources/logback-spring.xml)
 * [V242 Arquitectura con Spring Framework]()
 * [V243 Creacion de la Clase de Entidad de Cliente con JPA](V243_Creacion_de_la_Clase_de_Entidad_de_Cliente_con_JPA)
+    * [Clase Cliente con Jakarta y Lombok](V243_Creacion_de_la_Clase_de_Entidad_de_Cliente_con_JPA/src/main/java/gm/zona_fit/modelo/Cliente.java)
 
 [Volver](../)
