@@ -346,5 +346,6 @@ ___
 * Configuración Incial de la DB del Proyecto Zona Fit
 * Creacion de la Clase de Entidad de Cliente con JPA
     - Clase de Identidad Cliente con Jakarta y Lomnbok
-* Cracon Interface de Repositorio de Cliente Con Spring
+* Clase Repositorio para el tipo de Dato Cliente
+    - CRUD con la Interface JpaRepository para el tipo de Objeto a Trabajar
 </details>
