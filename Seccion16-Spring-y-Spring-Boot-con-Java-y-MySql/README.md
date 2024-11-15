@@ -30,6 +30,7 @@
     * [Clase Repositorio para el tipo Cliente](V244_Cracon_Interface_de_Repositorio_de_Cliente_Con_Spring/src/main/java/gm/zona_fit/repositorio/ClienteRepositorio.java)
         - Esta Clase te genera los metodos necesario para hacer un CRUD
             Con la entidad a trabajar (en este Claso la Entidad Cliente)
-* [V255 Creacion Interface de ClienteServicio]()
+* [V255 Creacion Interface de ClienteServicio](V246_Creacion_Clase_ClienteServicio_con_Spring/src/main/java/gm/zona_fit/servicio/IClienteServicio.java)
+* [V246 Creacion Clase ClienteServicio con Spring]()
 
 [Volver](../)
