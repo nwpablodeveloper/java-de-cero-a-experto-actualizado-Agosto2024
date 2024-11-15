@@ -25,10 +25,11 @@
     * [Clase Cliente con Jakarta y Lombok](V243_Creacion_de_la_Clase_de_Entidad_de_Cliente_con_JPA/src/main/java/gm/zona_fit/modelo/Cliente.java)
     - Jakarta Genera la identidad de la Clase para guardar en la Base de Datos
     - Lombok - Ahorra código generando de forma automatica
-* [V244 Cracon Interface de Repositorio de Cliente Con Spring](V244_Cracon_Interface_de_Repositorio_de_Cliente_Con_Spring)
+* [V244 Cracon Interface de Repositorio de Cliente Con Spring](V244_Cracon_Interface_de_Repositorio_de_Cliente_Con_Spring/src/main/java/gm/zona_fit/repositorio/ClienteRepositorio.java)
     - Paquete de repositorio - Spring lo pide
-    * [Clase Repositorio para el tipo Cliente]()
+    * [Clase Repositorio para el tipo Cliente](V244_Cracon_Interface_de_Repositorio_de_Cliente_Con_Spring/src/main/java/gm/zona_fit/repositorio/ClienteRepositorio.java)
         - Esta Clase te genera los metodos necesario para hacer un CRUD
             Con la entidad a trabajar (en este Claso la Entidad Cliente)
+* [V255 Creacion Interface de ClienteServicio]()
 
 [Volver](../)
