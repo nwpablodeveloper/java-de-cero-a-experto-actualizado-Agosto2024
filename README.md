@@ -347,5 +347,6 @@ ___
 * Creacion de la Clase de Entidad de Cliente con JPA
     - Clase de Identidad Cliente con Jakarta y Lomnbok
 * Clase Repositorio para el tipo de Dato Cliente
-    - CRUD con la Interface JpaRepository para el tipo de Objeto a Trabajar
+* Creacion Interface de ClienteServicio
+* Creación de la Clase ClienteServicio con Spring
 </details>
