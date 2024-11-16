@@ -6,10 +6,10 @@ import java.util.List;
 
 public interface IClienteServicio {
     public List<Cliente> listarClientes();
-    public Cliente buscarCliente(String Cliente);
+    public Cliente buscarCliente(Integer idCliente);
 
     // Actualiza o guarda dependiendo del ID si lo recibe Null o no
     public  void guardarCliente(Cliente cliente);
 
-    public void eliminarCliente(String Cliente);
+    public void eliminarCliente(Cliente cliente);
 }
