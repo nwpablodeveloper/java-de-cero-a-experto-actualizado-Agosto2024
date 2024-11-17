@@ -349,5 +349,6 @@ ___
 * Clase Repositorio para el tipo de Dato Cliente
 * Creacion Interface de ClienteServicio
 * Creación de la Clase ClienteServicio con Spring
-* Presentación Zona Fit
+* Logger y run para ejecutar nuestra App
+* Menu App Zona Fit con Spring
 </details>
