@@ -37,6 +37,7 @@
         - Settings -> Plugins
 * [V248 clase Presentacion Zona Fit](V248_clase_Presentacion_Zona_Fit/src/main/java/gm/zona_fit/ZonaFitApplication.java)
 * [V249 Menu App Zona Fit con Spring](V249_Menu_App_Zona_Fit_con_Spring/src/main/java/gm/zona_fit/ZonaFitApplication.java)
-* [V250 Listado de Clientes App Zona Fit con Spring]()
+* [V250 Listado de Clientes App Zona Fit con Spring](V250_Listado_de_Clientes_App_Zona_Fit_con_Spring/src/main/java/gm/zona_fit/ZonaFitApplication.java)
+* [V251 Agregar y modificar Cliente App Zona Fit con Spring]()
 
 [Volver](../)
