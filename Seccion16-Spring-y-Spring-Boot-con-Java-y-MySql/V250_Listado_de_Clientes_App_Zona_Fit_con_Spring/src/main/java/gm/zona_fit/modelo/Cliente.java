@@ -1,9 +1,6 @@
 package gm.zona_fit.modelo;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
+import jakarta.persistence.*;
 import lombok.*;
 
 /*
@@ -19,6 +16,7 @@ import lombok.*;
 @AllArgsConstructor // Constructor con todos los argumentos
 @EqualsAndHashCode  // Comparador Equals and Hash
 @ToString           // Metodo toString
+@Table(name = "clientes") // Indicar el nombre de la tabla para este entidad
 public class Cliente {
 
     @Id // Indicamos a "jakarte" como Clave primaria

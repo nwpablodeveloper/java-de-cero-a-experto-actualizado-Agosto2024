@@ -30,12 +30,13 @@
     * [Clase Repositorio para el tipo Cliente](V244_Cracon_Interface_de_Repositorio_de_Cliente_Con_Spring/src/main/java/gm/zona_fit/repositorio/ClienteRepositorio.java)
         - Esta Clase te genera los metodos necesario para hacer un CRUD
             Con la entidad a trabajar (en este Claso la Entidad Cliente)
-* [V255 Creacion Interface de ClienteServicio](V245_Creacion_Interface_de_ClienteServicio/src/main/java/gm/zona_fit/servicio/IClienteServicio.java)
+* [V245 Creacion Interface de ClienteServicio](V245_Creacion_Interface_de_ClienteServicio/src/main/java/gm/zona_fit/servicio/IClienteServicio.java)
 * [V246 Creacion Clase ClienteServicio con Spring](V246_Creacion_Clase_ClineteServicio_con_Spring/src/main/java/gm/zona_fit/servicio/ClienteServicio.java)
-* [V247]()
+* [V247 Istalar Plugings de Lombok]()
     - Instalar Pluging de Lombok
         - Settings -> Plugins
 * [V248 clase Presentacion Zona Fit](V248_clase_Presentacion_Zona_Fit/src/main/java/gm/zona_fit/ZonaFitApplication.java)
 * [V249 Menu App Zona Fit con Spring](V249_Menu_App_Zona_Fit_con_Spring/src/main/java/gm/zona_fit/ZonaFitApplication.java)
+* [V250 Listado de Clientes App Zona Fit con Spring]()
 
 [Volver](../)

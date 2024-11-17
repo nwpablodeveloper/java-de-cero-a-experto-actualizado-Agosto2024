@@ -351,5 +351,5 @@ ___
 * Creación de la Clase ClienteServicio con Spring
 * Logger y run para ejecutar nuestra App
 * Menu App Zona Fit con Spring
-* Listado de Clientes App Zona Fit con Spring
+* Listado de Clientes App Zona Fit con Springs
 </details>
