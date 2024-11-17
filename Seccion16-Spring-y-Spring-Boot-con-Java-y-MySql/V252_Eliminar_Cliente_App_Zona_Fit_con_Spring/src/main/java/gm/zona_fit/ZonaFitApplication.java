@@ -110,6 +110,22 @@ public class ZonaFitApplication implements CommandLineRunner {
 					logger.info("Cliente no encontrado");
 				}
 			}
+			case 5-> {
+				logger.info("--- Eliminar cliente ---");
+				logger.info("Id Cliente? ");
+				var idCliente = Integer.parseInt(consola.nextLine());
+				var cliente = clienteServicio.buscarCliente(idCliente);
+				if (cliente != null){
+					clienteServicio.eliminarCliente(cliente);
+				}else{
+					logger.info("No se enecontro ningun cliente con ese ID: " + idCliente);
+				}
+			}
+			case 6 -> {
+				logger.info("Cerrando App. Zona Fit. Bye!");
+				salir = true;
+			}
+			default -> logger.info("Opción no reconocida");
 		}
 		return salir;
 	}
