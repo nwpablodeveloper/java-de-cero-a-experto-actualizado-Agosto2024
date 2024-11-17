@@ -67,8 +67,18 @@ public class ZonaFitApplication implements CommandLineRunner {
 		var salir = false;
 		switch (opcion){
 			case 1 -> {
+				logger.info(nl + "--- Listado de Clientes ---");
 				List<Cliente> clientes = clienteServicio.listarClientes();
 				clientes.forEach(cliente -> logger.info(cliente.toString() + nl ));
+			}
+			case 2 -> {
+				logger.info(nl + "--- Buscar Cliente por ID ---");
+				Cliente cliente = clienteServicio.buscarCliente(
+						Integer.parseInt(consola.nextLine()));
+				if (cliente != null)
+					logger.info(cliente.toString());
+				else
+					logger.info("No hay clientes");
 			}
 		}
 		return salir;
