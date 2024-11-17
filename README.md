@@ -355,5 +355,6 @@ ___
 ---
 * Listado de Clientes App Zona Fit con Springs
 * Buscar Cliente por ID
-* Agregar Cliente
+* Agregar o modificar Cliente
+* Eliminar Cliente App Zona Fit con Spring
 </details>
