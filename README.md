@@ -349,4 +349,5 @@ ___
 * Clase Repositorio para el tipo de Dato Cliente
 * Creacion Interface de ClienteServicio
 * Creación de la Clase ClienteServicio con Spring
+* Presentación Zona Fit
 </details>
