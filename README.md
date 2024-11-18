@@ -362,11 +362,11 @@ ___
 <details>
     <summary>Aplicaciones de Escritorio</summary>
 
-### [Aplicaciones de escritorio]()
+### [Creando Aplicaciones]()
 <details>
-    <summary>Sección 16: Aplicaciones de Escritorio (GUI) con Swing y Java</summary>
+    <summary>Sección 17: Aplicaciones de Escritorio (GUI) con Swing y Java</summary>
     
-### [Sección 16: Aplicaciones de Escritorio (GUI) con Swing y Java](Aplicaciones-de-Escritorio-GUI-con-Swing-y-Java)
+### [Sección 17: Aplicaciones de Escritorio (GUI) con Swing y Java](Seccion17-Aplicaciones-de-Escritorio-GUI-con-Swing-y-Java)
 * Argumentos Variables en Java
 * Ciclo ForEach
 * Clases Abstractas
