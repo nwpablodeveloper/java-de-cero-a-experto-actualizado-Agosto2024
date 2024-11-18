@@ -375,5 +375,6 @@ ___
 * Creando los componentes de la vista de Login
 * Creación del Objeto Login Form con 
 * Validacion del Login
+* Creacion de la Clase Forma con Swing
 </details>
 </details>

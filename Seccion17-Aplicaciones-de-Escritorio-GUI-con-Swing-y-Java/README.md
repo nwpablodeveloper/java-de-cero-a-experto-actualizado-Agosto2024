@@ -37,5 +37,7 @@ Sección 17: Aplicaciones de Escritorio (GUI) con Swing y Java
 * [V259 Demo App Login con Swing](V259_Demo_App_Login_con_Swing/demo-login.jpg)
 * [V260 Creacion del Componente de Vista del Login con Swing](V260_Creacion_del_Componente_de_Vista_del_Login_con_Swing/src/main/java)
 * [V261 Crear Objeto Login Form con Swing](V261_Crear_Objeto_Login_Form_con_Swing/src/main/java/LoginForm.java)
-
+* [V262 Validacion del Login](V262_Validacion_del_Login/src/main/java/LoginForm.java)
+* [V263 Demo App Zona Fit con Swing y Spring](V263_Demo_App_Zona_Fit_con_Swing_y_Spring/demo-zona-fit.jpg)
+* [V264 Creacion de la Clase Forma con Swing]()
 [Volver](../)
