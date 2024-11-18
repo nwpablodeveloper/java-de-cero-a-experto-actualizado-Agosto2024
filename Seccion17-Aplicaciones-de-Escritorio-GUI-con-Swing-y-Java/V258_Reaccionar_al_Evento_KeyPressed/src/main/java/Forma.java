@@ -1,31 +1,30 @@
 import com.formdev.flatlaf.FlatDarculaLaf;
 
 import javax.swing.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
+import java.awt.event.KeyAdapter;
+import java.awt.event.KeyEvent;
 
 public class Forma extends JFrame {
 
     private JPanel panelPrincipal;
     private JTextField campoTexto;
-    private JPanel replicadorLabel;
+    private JPanel JPanel;
+    private JLabel replicadorLabel;
 
     public Forma(){
         inicializarForma();
 
-        /*
-            // Poner el moouse sobre ActionListener y convertir a Lambda
-        campoTexto.addActionListener(new ActionListener() {
+        campoTexto.addKeyListener(new KeyAdapter() {
             @Override
-            public void actionPerformed(ActionEvent e) {
-
+            public void keyTyped(KeyEvent e) {
+                super.keyTyped(e);
+                replicarTexto();
             }
-        });*/
-
-        // Conversión simplificada Lambda
-        campoTexto.addActionListener(e -> {
-            System.out.println("Se dispara");
         });
+    }
+
+    private void replicarTexto(){
+        this.replicadorLabel.setText(this.campoTexto.getText());
     }
 
     private void inicializarForma(){
