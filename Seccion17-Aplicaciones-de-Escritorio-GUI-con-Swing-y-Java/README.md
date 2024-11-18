@@ -11,5 +11,8 @@ Sección 17: Aplicaciones de Escritorio (GUI) con Swing y Java
         * JFrame -> Es el componente principal 
         * Jpanel -> Esta detro de un JFrame 
         * JButon, JTextFieldName, JPassword, etc. -> Estan dentron de un JPanel
+* [V254 V254 Creacion Aplicacion con Swing]()
+    1. Crear Proyecto
+    2. Dentro del directorio main->java - New->Swing UI Designer->GUI Form
 
 [Volver](../)
