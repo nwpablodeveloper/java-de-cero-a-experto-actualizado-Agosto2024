@@ -358,3 +358,17 @@ ___
 * Agregar o modificar Cliente
 * Eliminar Cliente App Zona Fit con Spring
 </details>
+</details>
+<details>
+    <summary>Aplicaciones de Escritorio</summary>
+
+### [Aplicaciones de escritorio]()
+<details>
+    <summary>Sección 16: Aplicaciones de Escritorio (GUI) con Swing y Java</summary>
+    
+### [Sección 16: Aplicaciones de Escritorio (GUI) con Swing y Java](Aplicaciones-de-Escritorio-GUI-con-Swing-y-Java)
+* Argumentos Variables en Java
+* Ciclo ForEach
+* Clases Abstractas
+</details>
+</details>

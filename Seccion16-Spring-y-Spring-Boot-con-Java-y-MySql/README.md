@@ -39,6 +39,6 @@
 * [V249 Menu App Zona Fit con Spring](V249_Menu_App_Zona_Fit_con_Spring/src/main/java/gm/zona_fit/ZonaFitApplication.java)
 * [V250 Listado de Clientes App Zona Fit con Spring](V250_Listado_de_Clientes_App_Zona_Fit_con_Spring/src/main/java/gm/zona_fit/ZonaFitApplication.java)
 * [V251 Agregar y modificar Cliente App Zona Fit con Spring](V251_Agregar_y_modificar_Cliente_App_Zona_Fit_con_Spring/src/main/java/gm/zona_fit/ZonaFitApplication.java)
-* [V252 Eliminar Cliente App Zona Fit con Spring]()
+* [V252 Eliminar Cliente App Zona Fit con Spring](V252_Eliminar_Cliente_App_Zona_Fit_con_Spring/src/main/java/gm/zona_fit/ZonaFitApplication.java)
 
 [Volver](../)
