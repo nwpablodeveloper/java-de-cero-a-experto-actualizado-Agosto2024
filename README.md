@@ -360,15 +360,13 @@ ___
 </details>
 </details>
 <details>
-    <summary>Aplicaciones de Escritorio</summary>
+    <summary>Creando Aplicaciones</summary>
 
 ### [Creando Aplicaciones]()
 <details>
     <summary>Sección 17: Aplicaciones de Escritorio (GUI) con Swing y Java</summary>
     
 ### [Sección 17: Aplicaciones de Escritorio (GUI) con Swing y Java](Seccion17-Aplicaciones-de-Escritorio-GUI-con-Swing-y-Java)
-* Argumentos Variables en Java
-* Ciclo ForEach
-* Clases Abstractas
+* Introducción a GUI (Graphical User Interface)
 </details>
 </details>
