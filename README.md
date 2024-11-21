@@ -377,5 +377,6 @@ ___
 * Validacion del Login
 * Creacion de la Clase Forma con Swing
 * Ejecucion Inicial App Zona Fit con Swing y Spring
+* Creacion de la Tabla de Listado de Clientes con Swing
 </details>
 </details>
