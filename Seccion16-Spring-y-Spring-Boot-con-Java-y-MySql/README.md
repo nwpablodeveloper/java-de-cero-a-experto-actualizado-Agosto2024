@@ -15,6 +15,8 @@
         - JPA - Spring Data JPA - Nos va a permitir establecer la conexión con la DB
         - MySql Driver
         - Lombok - Esta libreria reduce el código repetitivo
+    * Plugins
+        - Lombok para IntellijeIDEA
 * [V240 Abrir proyecto de Spring con IntellijIDEA]()
     * Invalidate Caches del IDE
 * [V241 Configuracion Inicial Proyecto Zona Fita](V241_Configuracion_Inicial_Proyecto_Zona_Fita)
