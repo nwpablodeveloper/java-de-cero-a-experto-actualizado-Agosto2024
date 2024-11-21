@@ -7,8 +7,9 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
-@SpringBootApplication
+// Desactivamos la ejecución de esta clase asi podemos
+// usar la otra "ZonaFitSwingn"
+//@SpringBootApplication
 public class ZonaFitApplication implements CommandLineRunner {
 
 	@Autowired
@@ -22,9 +23,6 @@ public class ZonaFitApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception{
-		probando();
 	}
-	public void probando(){
-		
-	}
+
 }
