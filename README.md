@@ -376,5 +376,6 @@ ___
 * Creación del Objeto Login Form con 
 * Validacion del Login
 * Creacion de la Clase Forma con Swing
+* Ejecucion Inicial App Zona Fit con Swing y Spring
 </details>
 </details>
