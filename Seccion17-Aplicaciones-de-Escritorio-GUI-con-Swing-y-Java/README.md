@@ -41,6 +41,7 @@ Sección 17: Aplicaciones de Escritorio (GUI) con Swing y Java
 * [V263 Demo App Zona Fit con Swing y Spring](V263_Demo_App_Zona_Fit_con_Swing_y_Spring/demo-zona-fit.jpg)
 * [V264 Creacion de la Clase Forma con Swing]()
 * [V265 Ejecucion Inicial App Zona Fit con Swing y Spring](V265_Ejecucion_Inicial_App_Zona_Fit_con_Swing_y_Spring)
+* [V266 Activar modo oscuro](V267_Creacion_de_la_Tabla_de_Listado_de_Clientes_con_Swing/src/main/java/gm/zona_fit/ZonaFitSwing.java)
 * [V267 Creacion de la Tabla de Listado de Clientes con Swing](V267_Creacion_de_la_Tabla_de_Listado_de_Clientes_con_Swing)
     * Activar el Scroll para la tabla
         - JTable
