@@ -379,5 +379,6 @@ ___
 * Ejecucion Inicial App Zona Fit con Swing y Spring
 * Creacion de la Tabla de Listado de Clientes con Swing
 * Creacion de los Cabeceros de la Tabla Swing
+* Listado de Clientes con Swing
 </details>
 </details>

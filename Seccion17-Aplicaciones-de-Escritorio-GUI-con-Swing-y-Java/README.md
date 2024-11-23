@@ -47,6 +47,7 @@ Sección 17: Aplicaciones de Escritorio (GUI) con Swing y Java
         - JTable
         - Click derecho en la tabla->Surround With...
         - JScrollPanel
-* [V268 Creacion de los Cabeceros de la Tabla Swing](V268_Creacion_de_los_Cabeceros_de_la_Tabla_Swing)
+* [V268 Creacion de los Cabeceros de la Tabla Swing](V268_Creacion_de_los_Cabeceros_de_la_Tabla_Swing/src/main/java/gm/zona_fit/gui)
+* [V269 Listado de Clientes con Swing](V269_Listado_de_Clientes_con_Swing)
 
 [Volver](../)
