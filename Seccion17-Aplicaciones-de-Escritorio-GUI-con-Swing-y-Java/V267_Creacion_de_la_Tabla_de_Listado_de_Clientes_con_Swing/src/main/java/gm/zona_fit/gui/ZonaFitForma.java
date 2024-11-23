@@ -13,6 +13,7 @@ import javax.swing.*;
 public class ZonaFitForma extends JFrame{
 
     private JPanel panelPrincipal;
+    private JTable clientesTabla;
     IClienteServicio clienteServicio;
 
     // Inyeccion de dependencias

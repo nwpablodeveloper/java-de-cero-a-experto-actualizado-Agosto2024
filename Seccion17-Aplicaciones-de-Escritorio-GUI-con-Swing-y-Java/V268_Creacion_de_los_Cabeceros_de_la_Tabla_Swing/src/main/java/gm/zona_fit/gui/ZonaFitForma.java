@@ -1,6 +1,5 @@
 package gm.zona_fit.gui;
 
-import com.formdev.flatlaf.FlatDarculaLaf;
 import gm.zona_fit.servicio.ClienteServicio;
 import gm.zona_fit.servicio.IClienteServicio;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -18,7 +17,6 @@ public class ZonaFitForma extends JFrame{
     // Inyeccion de dependencias
     @Autowired
     public ZonaFitForma(ClienteServicio clienteServicio){
-        FlatDarculaLaf.setup();
         this.clienteServicio = clienteServicio;
         iniciarForma();
     }
