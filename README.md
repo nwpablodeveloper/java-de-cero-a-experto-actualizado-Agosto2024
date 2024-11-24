@@ -382,5 +382,6 @@ ___
 * Creación de la Tabla de listado de Clientes con Swing
 * Creación Formulario para Agregar un Nuevo Cliente con Swing
 * Método para Agregar un Nuevo Cliente
+* Cargar Cliente a Modificar con Swing
 </details>
 </details>
