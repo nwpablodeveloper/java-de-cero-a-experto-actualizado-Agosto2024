@@ -8,6 +8,7 @@ import org.springframework.stereotype.Component;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
+import java.awt.*;
 import java.util.List;
 
 
@@ -30,7 +31,9 @@ public class ZonaFitForma extends JFrame{
     public ZonaFitForma(ClienteServicio clienteServicio){
         this.clienteServicio = clienteServicio;
         iniciarForma();
+        guardarButton.addActionListener(e -> guardarCliente());
     }
+
 
     private void iniciarForma(){
         setContentPane(panelPrincipal);
@@ -62,5 +65,40 @@ public class ZonaFitForma extends JFrame{
             };
             this.tablaModeloClientes.addRow(renglonCliente);
         });
+    }
+
+
+    private void guardarCliente(){
+        if(nombreTexto.getText().equals("")){
+            mostrarMensaje("Proporcione un nombre");
+            nombreTexto.requestFocusInWindow();
+            return;
+        }
+        if (membresiaTexto.getText().equals("")){
+            mostrarMensaje("Proporciones una membresia");
+            membresiaTexto.requestFocusInWindow();
+            return;
+        }
+
+        // Recuperar valores del formulario
+        var nombre = nombreTexto.getText();
+        var apellido = apellidoTexto.getText();
+        var membresia = Integer.parseInt(membresiaTexto.getText());
+        var cliente = new Cliente();
+        cliente.setNombre(nombre);
+        cliente.setApellido(apellido);
+        cliente.setMembresia(membresia);
+        this.clienteServicio.guardarModidifcarCliente(cliente);
+        limpiarFormulario();
+        listarClientes();
+    }
+
+    private void limpiarFormulario(){
+        nombreTexto.setText("");
+        apellidoTexto.setText("");
+        membresiaTexto.setText("");
+    }
+    private void mostrarMensaje(String mensaje){
+        JOptionPane.showMessageDialog(this, mensaje);
     }
 }
