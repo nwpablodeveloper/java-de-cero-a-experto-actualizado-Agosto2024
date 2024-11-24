@@ -1,6 +1,5 @@
 package gm.zona_fit.gui;
 
-import com.formdev.flatlaf.FlatDarculaLaf;
 import gm.zona_fit.modelo.Cliente;
 import gm.zona_fit.servicio.ClienteServicio;
 import gm.zona_fit.servicio.IClienteServicio;
@@ -17,6 +16,12 @@ public class ZonaFitForma extends JFrame{
 
     private JPanel panelPrincipal;
     private JTable clientesTabla;
+    private JTextField nombreTexto;
+    private JTextField apellidoTexto;
+    private JTextField membresiaTexto;
+    private JButton guardarButton;
+    private JButton eliminarButton;
+    private JButton limpiarButton;
     IClienteServicio clienteServicio;
     private DefaultTableModel tablaModeloClientes;
 
@@ -30,7 +35,7 @@ public class ZonaFitForma extends JFrame{
     private void iniciarForma(){
         setContentPane(panelPrincipal);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        setSize(900,700);
+        setSize(800,600);
         setLocationRelativeTo(null);
     }
 
