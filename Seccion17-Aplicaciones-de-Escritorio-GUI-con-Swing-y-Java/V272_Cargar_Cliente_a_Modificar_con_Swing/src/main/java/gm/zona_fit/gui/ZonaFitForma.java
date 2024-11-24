@@ -9,6 +9,8 @@ import org.springframework.stereotype.Component;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
 import java.util.List;
 
 
@@ -25,13 +27,23 @@ public class ZonaFitForma extends JFrame{
     private JButton limpiarButton;
     IClienteServicio clienteServicio;
     private DefaultTableModel tablaModeloClientes;
+    private Integer idCliente;
 
     // Inyeccion de dependencias
     @Autowired
     public ZonaFitForma(ClienteServicio clienteServicio){
         this.clienteServicio = clienteServicio;
         iniciarForma();
+
         guardarButton.addActionListener(e -> guardarCliente());
+
+        clientesTabla.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mouseClicked(MouseEvent e) {
+                super.mouseClicked(e);
+                cargarClienteSeleccionado();
+            }
+        });
     }
 
 
@@ -67,7 +79,6 @@ public class ZonaFitForma extends JFrame{
         });
     }
 
-
     private void guardarCliente(){
         if(nombreTexto.getText().equals("")){
             mostrarMensaje("Proporcione un nombre");
@@ -93,11 +104,26 @@ public class ZonaFitForma extends JFrame{
         listarClientes();
     }
 
+    private void cargarClienteSeleccionado(){
+        var renglon = clientesTabla.getSelectedRow();
+        if(renglon != -1) { // Si no se selecciona ninguna registro recibimos -1
+            var id = clientesTabla.getModel().getValueAt(renglon,0).toString();
+            this.idCliente = Integer.parseInt(id);
+            var nombre = clientesTabla.getModel().getValueAt(renglon, 1).toString();
+            this.nombreTexto.setText(nombre);
+            var apellido = clientesTabla.getModel().getValueAt(renglon, 2).toString();
+            this.apellidoTexto.setText(apellido);
+            var memebresia = clientesTabla.getModel().getValueAt(renglon, 3).toString();
+            this.membresiaTexto.setText(memebresia);
+        }
+    }
+
     private void limpiarFormulario(){
         nombreTexto.setText("");
         apellidoTexto.setText("");
         membresiaTexto.setText("");
     }
+
     private void mostrarMensaje(String mensaje){
         JOptionPane.showMessageDialog(this, mensaje);
     }
