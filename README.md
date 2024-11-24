@@ -381,5 +381,6 @@ ___
 * Creacion de los Cabeceros de la Tabla Swing
 * Creación de la Tabla de listado de Clientes con Swing
 * Creación Formulario para Agregar un Nuevo Cliente con Swing
+* Método para Agregar un Nuevo Cliente
 </details>
 </details>
