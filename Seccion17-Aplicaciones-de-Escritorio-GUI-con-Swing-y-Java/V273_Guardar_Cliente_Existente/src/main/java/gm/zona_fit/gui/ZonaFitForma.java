@@ -95,11 +95,15 @@ public class ZonaFitForma extends JFrame{
         var nombre = nombreTexto.getText();
         var apellido = apellidoTexto.getText();
         var membresia = Integer.parseInt(membresiaTexto.getText());
-        var cliente = new Cliente();
-        cliente.setNombre(nombre);
-        cliente.setApellido(apellido);
-        cliente.setMembresia(membresia);
+
+        // Spring detecta si el id es Null y crea un nuevo regisotro
+        // caso contrario lo modifica al exisitente
+        var cliente = new Cliente(this.idCliente,nombre,apellido,membresia);
         this.clienteServicio.guardarModidifcarCliente(cliente);
+        if (this.idCliente == null)
+                mostrarMensaje("Se agrego el nuevo cliente");
+        else
+            mostrarMensaje("Se actualizo el Cliente");
         limpiarFormulario();
         listarClientes();
     }
@@ -122,6 +126,10 @@ public class ZonaFitForma extends JFrame{
         nombreTexto.setText("");
         apellidoTexto.setText("");
         membresiaTexto.setText("");
+        // limpiamos el id cliente seleccionado
+        this.idCliente = null;
+        // Deseleccionamos el registro seleccionado de la tabal
+        this.clientesTabla.getSelectionModel().clearSelection();
     }
 
     private void mostrarMensaje(String mensaje){
