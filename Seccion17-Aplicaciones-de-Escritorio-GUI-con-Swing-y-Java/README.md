@@ -51,5 +51,6 @@ Sección 17: Aplicaciones de Escritorio (GUI) con Swing y Java
 * [V269 Listado de Clientes con Swing](V269_Listado_de_Clientes_con_Swing/src/main/java/gm/zona_fit/gui/ZonaFitForma.java)
 * [V270 Formulario para Agregar un Nuevo Cliente con Swing](V270_Formulario_para_Agregar_un_Nuevo_Cliente_con_Swing/src/main/java/gm/zona_fit/gui)
 * [V271 Metodo para Agregar un Nuevo Cliente](V271_Metodo_para_Agregar_un_Nuevo_Cliente/src/main/java/gm/zona_fit/gui/ZonaFitForma.java)
+* [V274 Eliminar Cliente App Zona Fit con Swing y Spring]()
 
 [Volver](../)

@@ -383,5 +383,6 @@ ___
 * Creación Formulario para Agregar un Nuevo Cliente con Swing
 * Método para Agregar un Nuevo Cliente
 * Cargar Cliente a Modificar con Swing
+* Eliminar Cliente App Zona Fit con Swing y Spring
 </details>
 </details>
