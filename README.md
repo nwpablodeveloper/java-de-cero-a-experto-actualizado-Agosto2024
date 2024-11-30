@@ -391,6 +391,7 @@ ___
     
 ### [Sección 17: Aplicaciones Web con JSF, PrimeFaces, Spring y MySql](Seccion19-Aplicaciones-Web-con-JSF-PrimeFaces-Spring-y-MySql)
 * Demo App Zona Fit Web con JSF-PrimeFaces y Spring
-* HTML (Hipertext Markup Language
+* HTML (Hipertext Markup Language)
+* Hola mundo en HTML
 </details>
 </details>
