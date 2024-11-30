@@ -9,6 +9,8 @@ import org.springframework.stereotype.Component;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.util.List;
@@ -44,6 +46,7 @@ public class ZonaFitForma extends JFrame{
                 cargarClienteSeleccionado();
             }
         });
+        eliminarButton.addActionListener(e -> eliminarCliente());
     }
 
 
@@ -120,6 +123,21 @@ public class ZonaFitForma extends JFrame{
             var memebresia = clientesTabla.getModel().getValueAt(renglon, 3).toString();
             this.membresiaTexto.setText(memebresia);
         }
+    }
+
+    private void eliminarCliente(){
+        var renglon = clientesTabla.getSelectedRow();
+        if(renglon != -1){
+            var idClienteStr = clientesTabla.getModel().getValueAt(renglon, 0).toString();
+            this.idCliente = Integer.parseInt(idClienteStr);
+            var cliente = new Cliente();
+            cliente.setId(idCliente);
+            clienteServicio.eliminiarCliente(cliente);
+            mostrarMensaje("Cliente con id: " + this.idCliente + "Eliminado");
+            limpiarFormulario();
+            listarClientes();
+        }else
+            mostrarMensaje("Debe seleccionar un cliente a eliminar");
     }
 
     private void limpiarFormulario(){
