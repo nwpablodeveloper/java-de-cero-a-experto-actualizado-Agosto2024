@@ -386,4 +386,10 @@ ___
 * Eliminar Cliente App Zona Fit con Swing y Spring
 * Limpiar Formulario App Zona Fit con Swing y Spring
 </details>
+<details>
+    <summary>Sección 18: Aplicaciones Web con JSF, PrimeFaces, Spring y MySql</summary>
+    
+### [Sección 17: Aplicaciones Web con JSF, PrimeFaces, Spring y MySql](Seccion19-Aplicaciones-Web-con-JSF-PrimeFaces-Spring-y-MySql)
+* Demo App Zona Fit Web con JSF-PrimeFaces y Spring
+</details>
 </details>
