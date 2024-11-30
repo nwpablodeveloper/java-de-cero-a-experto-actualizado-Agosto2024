@@ -27,9 +27,10 @@ public class ZonaFitForma extends JFrame{
     private JButton guardarButton;
     private JButton eliminarButton;
     private JButton limpiarButton;
-    IClienteServicio clienteServicio;
     private DefaultTableModel tablaModeloClientes;
     private Integer idCliente;
+
+    IClienteServicio clienteServicio;
 
     // Inyeccion de dependencias
     @Autowired
@@ -47,6 +48,7 @@ public class ZonaFitForma extends JFrame{
             }
         });
         eliminarButton.addActionListener(e -> eliminarCliente());
+        limpiarButton.addActionListener(e -> limpiarFormulario());
     }
 
 
@@ -59,11 +61,22 @@ public class ZonaFitForma extends JFrame{
 
     private void createUIComponents() {
         // TODO: place custom component creation code here
-        this.tablaModeloClientes = new DefaultTableModel(0, 4);
+        // this.tablaModeloClientes = new DefaultTableModel(0, 4);
+
+        this.tablaModeloClientes = new DefaultTableModel(0, 4){
+            @Override
+            // Evitamos editar valores desde las celdas de la tabla
+            public boolean isCellEditable(int row, int column){
+                return false;
+            }
+        };
+
         String[] cabeceros = {"Id","Nombre","Apellido","Membresia"};
         this.tablaModeloClientes.setColumnIdentifiers(cabeceros);
         this.clientesTabla = new JTable(tablaModeloClientes);
 
+        // Restringir la seleccion de la tabla a 1 solo registro
+        this.clientesTabla.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
         // Cargar listado de clientes
         listarClientes();
     }
