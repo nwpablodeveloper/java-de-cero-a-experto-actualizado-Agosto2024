@@ -9,3 +9,6 @@ body{
 a{
     color:hotpink;
 }
+a:hover{
+    color:yellow;
+}
