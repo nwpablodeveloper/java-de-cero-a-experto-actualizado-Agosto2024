@@ -12,3 +12,10 @@ a{
 a:hover{
     color:yellow;
 }
+
+.texto-centrado{
+    text-align:center;
+}
+.titulo{
+    font-size:200%;
+}
