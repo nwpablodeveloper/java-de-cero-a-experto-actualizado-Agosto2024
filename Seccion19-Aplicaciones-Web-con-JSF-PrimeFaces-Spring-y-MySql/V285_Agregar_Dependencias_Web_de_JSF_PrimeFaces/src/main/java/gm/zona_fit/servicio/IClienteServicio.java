@@ -6,7 +6,7 @@ import java.util.List;
 
 public interface IClienteServicio {
     public List<Cliente> listarClientes();
-    public Cliente buscarCliente(Integer idCliente);
+    public Cliente buscarclientePorId(Integer idCliente);
     public void guardarCliente(Cliente cliente);
     public void eliminarCliente(Cliente cliente);
 }

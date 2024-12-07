@@ -1,33 +1,33 @@
 package gm.zona_fit.servicio;
 
 import gm.zona_fit.modelo.Cliente;
-import org.springframework.beans.factory.annotation.Autowired;
 import gm.zona_fit.repositorio.ClienteRepositorio;
+import org.springframework.beans.factory.annotation.Autowired;
 
 import java.util.List;
 
 public class ClienteServicio implements IClienteServicio{
 
     @Autowired
-    ClienteRepositorio clienteRepositorio;
+    ClienteRepositorio clienteServicio;
 
     @Override
     public List<Cliente> listarClientes() {
-        return clienteRepositorio.findAll();
+        return clienteServicio.findAll();
     }
 
     @Override
-    public Cliente buscarCliente(Integer idCliente) {
-        return clienteRepositorio.findById(idCliente).orElse(null);
+    public Cliente buscarclientePorId(Integer idCliente) {
+        return clienteServicio.findById(idCliente).orElse(null);
     }
 
     @Override
     public void guardarCliente(Cliente cliente) {
-        clienteRepositorio.save(cliente);
+        clienteServicio.save(cliente);
     }
 
     @Override
     public void eliminarCliente(Cliente cliente) {
-        clienteRepositorio.delete(cliente);
+        clienteServicio.delete(cliente);
     }
 }
